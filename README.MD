@@ -15,41 +15,41 @@
 
 # Primary Tools
 
-- Python
+- **Python**
 
-- C++
+- **C++**
   * [Basics][11], LearningLad
   * [Google Unit Testing][13]
   * [Best Practices][12], Jason Turner
 
-- ROS
+- **ROS**
   * [Learn ROS Fast][14], _Robot Ignite Academy_
 
-- Source Control
+- **Source Control**
   * [GitKraken][15]
 
-- Command Line and Bash Scripting
+- **Command Line and Bash Scripting**
 
-- MATLAB
+- **MATLAB**
 
-- Text editors: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
+- **Text editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
 
 
 # Other Useful Tools and Concepts
 
-- Functional Programming, Elixir
+- **Functional Programming, Elixir**
   * [Elixir Learning Resources][16]
-  * [Elixir for Beginners][17], Bem Emson, Udemy
-  * [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider, Udemy
+  * [Elixir for Beginners][17], Bem Emson, _Udemy_
+  * [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider, _Udemy_
 
-- Control Systems
+- **Control Systems**
   * [Control Bootcamp][19], Steve Brunton
 
-- LaTex
+- **LaTex**
   * [LaTex Tutorials][32], Michelle Krummel
 
-- Analytics
+- **Analytics**
   * [The Analytic Edge][20]
 
 
