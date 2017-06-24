@@ -9,48 +9,48 @@
 # Algorithms
 - _Coursera_: [Algorithms Specialization][6], _Stanford University_
 - _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
-..* [Video Playlist 1][9]
-..* [Video Playlist 2][10]
+  * [Video Playlist 1][9]
+  * [Video Playlist 2][10]
 
 
 # Primary Tools
 
-1. C++
-..* [Basics][11], LearningLad
-..* [Google Unit Testing][13]
-..* [Best Practices][12], Jason Turner
+- **Python**
 
-2. ROS
-..* [Learn ROS Fast][14], Robot Ignite Academy
+- **C++**
+  * [Basics][11], LearningLad
+  * [Google Unit Testing][13]
+  * [Best Practices][12], Jason Turner
 
-3. Source Control
-..* [GitKraken][15]
+- **ROS**
+  * [Learn ROS Fast][14], _Robot Ignite Academy_
 
-4. Command Line and Bash Scripting
+- **Source Control**
+  * [GitKraken][15]
 
-5. MATLAB
+- **Command Line and Bash Scripting**
 
-6. Python
+- **MATLAB**
 
-7. Text editors: [Sublime](https://www.sublimetext.com/),[Atom](atom.io)
+- **Text editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
 
 
 # Other Useful Tools and Concepts
 
-1. Functional Programming, Elixir
-..* [Elixir Learning Resources][16]
-..* [Elixir for Beginners][17], Bem Emson, Udemy
-..* [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider
+- **Functional Programming, Elixir**
+  * [Elixir Learning Resources][16]
+  * [Elixir for Beginners][17], Bem Emson, _Udemy_
+  * [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider, _Udemy_
 
-2. Control Systems
-..* [Control Bootcamp][19], Steve Brunton
+- **Control Systems**
+  * [Control Bootcamp][19], Steve Brunton
 
-3. LaTex
-..* [LaTex Tutorials][32], Michelle Krummel
+- **LaTex**
+  * [LaTex Tutorials][32], Michelle Krummel
 
-4. Analytics
-..* [The Analytic Edge][20]
+- **Analytics**
+  * [The Analytic Edge][20]
 
 
 # Other Courses in Robotics
