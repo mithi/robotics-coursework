@@ -49,7 +49,7 @@
 - LaTex
   * [LaTex Tutorials][32], Michelle Krummel
 
-4. Analytics
+- Analytics
   * [The Analytic Edge][20]
 
 
