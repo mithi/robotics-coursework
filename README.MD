@@ -23,7 +23,7 @@
   * [Best Practices][12], Jason Turner
 
 - ROS
-  * [Learn ROS Fast][14], Robot Ignite Academy
+  * [Learn ROS Fast][14], _Robot Ignite Academy_
 
 - Source Control
   * [GitKraken][15]
@@ -41,7 +41,7 @@
 - Functional Programming, Elixir
   * [Elixir Learning Resources][16]
   * [Elixir for Beginners][17], Bem Emson, Udemy
-  * [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider
+  * [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider, Udemy
 
 - Control Systems
   * [Control Bootcamp][19], Steve Brunton
