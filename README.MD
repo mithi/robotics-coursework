@@ -32,7 +32,7 @@
 
 - MATLAB
 
-- Text editors: [Sublime](https://www.sublimetext.com/),[Atom](atom.io)
+- Text editors: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
 
 
