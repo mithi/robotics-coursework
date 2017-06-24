@@ -9,22 +9,22 @@
 # Algorithms
 - _Coursera_: [Algorithms Specialization][6], _Stanford University_
 - _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
-..- [Video Playlist 1][9]
-..- [Video Playlist 2][10]
+..* [Video Playlist 1][9]
+..* [Video Playlist 2][10]
 
 
 # Primary Tools
 
 1. C++
-..- [Basics][11], LearningLad
-..- [Google Unit Testing][13]
-..- [Best Practices][12], Jason Turner
+..* [Basics][11], LearningLad
+..* [Google Unit Testing][13]
+..* [Best Practices][12], Jason Turner
 
 2. ROS
-..- [Learn ROS Fast][14], Robot Ignite Academy
+..* [Learn ROS Fast][14], Robot Ignite Academy
 
 3. Source Control
-..- [GitKraken][15]
+..* [GitKraken][15]
 
 4. Command Line and Bash Scripting
 
@@ -34,23 +34,23 @@
 
 7. Text editors: [Sublime](https://www.sublimetext.com/),[Atom](atom.io)
 
----
+
 
 # Other Useful Tools and Concepts
 
 1. Functional Programming, Elixir
-..- [Elixir Learning Resources][16]
-..- [Elixir for Beginners][17], Bem Emson, Udemy
-..- [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider
+..* [Elixir Learning Resources][16]
+..* [Elixir for Beginners][17], Bem Emson, Udemy
+..* [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider
 
 2. Control Systems
-..- [Control Bootcamp][19], Steve Brunton
+..* [Control Bootcamp][19], Steve Brunton
 
 3. LaTex
-..- [LaTex, Tutorial][32], Michelle Krummel
+..* [LaTex Tutorials][32], Michelle Krummel
 
 4. Analytics
-..- [The Analytic Edge][20]
+..* [The Analytic Edge][20]
 
 
 # Other Courses in Robotics
