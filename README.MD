@@ -70,6 +70,7 @@
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
 - [SLAM Lectures][30], Clause Brenne
 - [Introduction to Robotics][31], Stanford Engineering Everywhere
+- [Introduction to Robotics][32], MIT OCW
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
@@ -103,3 +104,4 @@
 [30]: https://www.youtube.com/watch?v=B2qzYCeT9oQ&list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm
 [31]: https://see.stanford.edu/Course/CS223A
 [32]: https://www.youtube.com/watch?v=SoDv0qhyysQ&index=1&list=PL1D4EAB31D3EBC449
+[33]: https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/
