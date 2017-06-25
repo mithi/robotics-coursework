@@ -3,7 +3,7 @@
 
 - C++ Primer Plus, Stephen Prata
 - Algorithms in C++ Part 5, Robert Sedgewick
-- Algorithms,Robert Sedgewick
+- Algorithms, Robert Sedgewick
 - Introduction to Algorithms, Thomas H. Cormen
 - Data Structures and Algorithms in Python, Michael T. Goodman
 - Cracking the Coding Interview, Gayle Laakmann McDowell
