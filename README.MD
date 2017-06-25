@@ -11,17 +11,17 @@
 - _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
   * [Video Playlist 1][9]
   * [Video Playlist 2][10]
-- [The Imposter's Handbook][34], Rob Conery
-- [Red Blob Games][35], Amit Patel
+- [The Imposter's Handbook][34], _Rob Conery_
+- [Red Blob Games][35], _Amit Patel_
 
 # Primary Tools
 
 - **Python**
 
 - **C++**
-  * [Basics][11], LearningLad
+  * [Basics][11], _LearningLad_
   * [Google Unit Testing][13]
-  * [Best Practices][12], Jason Turner
+  * [Best Practices][12], _Jason Turner_
 
 - **ROS**
   * [Learn ROS Fast][14], _Robot Ignite Academy_
@@ -41,13 +41,13 @@
 
 - **Functional Programming, Elixir**
   * [Elixir Learning Resources][16]
-  * [Beb Emson's][17] and [Stephen Grider][18], _Udemy_
+  * [Beb Emson's][17] and [Stephen Grider's][18], _Udemy_
 
 - **Control Systems**
-  * [Control Bootcamp][19], Steve Brunton
+  * [Control Bootcamp][19], _Steve Brunton_
 
 - **LaTex**
-  * [LaTex Tutorials][32], Michelle Krummel
+  * [LaTex Tutorials][32], _Michelle Krummel_
 
 - **Analytics**
   * [The Analytic Edge][20]
@@ -68,9 +68,9 @@
 ### Others
 - [Autonomous Intelligent Systems][28], _University of Freiburg_
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
-- [SLAM Lectures][30], Clause Brenne
-- [Introduction to Robotics][31], Stanford Engineering Everywhere
-- [Introduction to Robotics][33], MIT OCW
+- [SLAM Lectures][30], _Clause Brenne_
+- [Introduction to Robotics][31], _Stanford Engineering Everywhere_
+- [Introduction to Robotics][33], _MIT OCW_
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
