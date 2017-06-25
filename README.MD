@@ -11,7 +11,8 @@
 - _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
   * [Video Playlist 1][9]
   * [Video Playlist 2][10]
-
+- [The Imposter's Handbook][34], Rob Conery
+- [Red Blob Games][35], Amit Patel
 
 # Primary Tools
 
@@ -40,8 +41,7 @@
 
 - **Functional Programming, Elixir**
   * [Elixir Learning Resources][16]
-  * [Elixir for Beginners][17], Bem Emson, _Udemy_
-  * [The Complete Elixir and Phoenix Bootcamp][18], Stephen Grider, _Udemy_
+  * [Beb Emson's][17] and [Stephen Grider][18], _Udemy_
 
 - **Control Systems**
   * [Control Bootcamp][19], Steve Brunton
@@ -60,7 +60,7 @@
 - [Autonomous Navigation for Flying Robots][22], _Technische Universitat Munchen_
 - [Underactuated Robotics][23], _Massachusetts Institute of Technology_
 - [Robotics][24], _Columbia University in the city of New York_
-- Robot Mechanics and Control [part I][25] and [part II][26], _Seoul National University_
+- Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
 
 ### Coursera
 - [Control of Mobile Robots][27], _Georgia Institute of technology_
@@ -105,3 +105,5 @@
 [31]: https://see.stanford.edu/Course/CS223A
 [32]: https://www.youtube.com/watch?v=SoDv0qhyysQ&index=1&list=PL1D4EAB31D3EBC449
 [33]: https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/
+[34]: https://bigmachine.io/products/the-imposters-handbook/
+[35]: http://www.redblobgames.com/
