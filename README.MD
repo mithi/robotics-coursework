@@ -70,7 +70,7 @@
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
 - [SLAM Lectures][30], Clause Brenne
 - [Introduction to Robotics][31], Stanford Engineering Everywhere
-- [Introduction to Robotics][32], MIT OCW
+- [Introduction to Robotics][33], MIT OCW
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
