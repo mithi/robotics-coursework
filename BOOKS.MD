@@ -5,7 +5,7 @@
 - Algorithms in C++ Part 5, _Robert Sedgewick_
 - Algorithms, _Robert Sedgewick_
 - Introduction to Algorithms, _Thomas H. Cormen_
-- Data Structures and Algorithms in Python, _Michael T. Goodman_
+- Data Structures and Algorithms in Python, _Michael T. Goodrich_
 - Cracking the Coding Interview, _Gayle Laakmann McDowell_
 
 # Robotics
