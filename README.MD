@@ -13,6 +13,7 @@
   * [Video Playlist 2][10]
 - [The Imposter's Handbook][34], _Rob Conery_
 - [Red Blob Games][35], _Amit Patel_
+- [Leet Code][36]
 
 # Primary Tools
 
@@ -107,3 +108,4 @@
 [33]: https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/
 [34]: https://bigmachine.io/products/the-imposters-handbook/
 [35]: http://www.redblobgames.com/
+[36]: http://leetcode.com 
