@@ -16,43 +16,24 @@
 
 # Primary Tools
 
-- **Python**
-
 - **C++**
   * [Basics][11], _LearningLad_
-  * [Google Unit Testing][13]
-  * [Best Practices][12], _Jason Turner_
-
-- **ROS**
-  * [Learn ROS Fast][14], _Robot Ignite Academy_
-
-- **Source Control**
-  * [GitKraken][15]
-
+  * [Google Unit Testing][13] and [Best Practices][12]
+- **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
+- **Source Control**: [GitKraken][15]
 - **Command Line and Bash Scripting**
-
+- **Python**
 - **MATLAB**
-
-- **Text editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
-
 
 
 # Other Useful Tools and Concepts
 
-- **Functional Programming, Elixir**
-  * [Elixir Learning Resources][16]
-
-- **Control Systems**
-  * [Control Bootcamp][19], _Steve Brunton_
-
-- **LaTex**
-  * [LaTex Tutorials][32], _Michelle Krummel_
-
-- **Analytics**
-  * [The Analytic Edge][20]
-
-- **Others**
-  * [Red Blob Games][35], _Amit Patel_
+- **Functional Programming, Elixir**: [Elixir Learning Resources][16]
+- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
+- **LaTex**:[LaTex Tutorials][32], _Michelle Krummel_
+- **Analytics**: [The Analytic Edge][20]
+- **Text editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
+- **Others**: [Red Blob Games][35], _Amit Patel_
 
 # Other Courses in Robotics
 
