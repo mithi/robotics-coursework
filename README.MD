@@ -12,7 +12,6 @@
   * [Video Playlist 1][9]
   * [Video Playlist 2][10]
 - [The Imposter's Handbook][34], _Rob Conery_
-- [Red Blob Games][35], _Amit Patel_
 - [Leet Code][36]
 
 # Primary Tools
@@ -42,7 +41,6 @@
 
 - **Functional Programming, Elixir**
   * [Elixir Learning Resources][16]
-  * [Beb Emson's][17] and [Stephen Grider's][18], _Udemy_
 
 - **Control Systems**
   * [Control Bootcamp][19], _Steve Brunton_
@@ -53,6 +51,8 @@
 - **Analytics**
   * [The Analytic Edge][20]
 
+- **Others**
+  * [Red Blob Games][35], _Amit Patel_
 
 # Other Courses in Robotics
 
@@ -72,6 +72,7 @@
 - [SLAM Lectures][30], _Clause Brenne_
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
+
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
