@@ -52,9 +52,9 @@
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
 
-### A Bit Too Unrelated 
+# A Bit Too Unrelated
 - [Leet Code][36]
-- **Others**: [Red Blob Games][35], _Amit Patel_
+- [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
 
 
