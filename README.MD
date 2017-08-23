@@ -31,7 +31,7 @@
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - **LaTex**:[LaTex Tutorials][32], _Michelle Krummel_
-- **Text editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
+- **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
 # Other Courses in Robotics
 
@@ -52,7 +52,7 @@
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
 
-### Interesting A Bit Unrelated Stuff
+### A Bit Too Unrelated 
 - [Leet Code][36]
 - **Others**: [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
