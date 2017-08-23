@@ -12,7 +12,6 @@
   * [Video Playlist 1][9]
   * [Video Playlist 2][10]
 - [The Imposter's Handbook][34], _Rob Conery_
-- [Leet Code][36]
 
 # Primary Tools
 
@@ -29,11 +28,10 @@
 # Other Useful Tools and Concepts
 
 - **Functional Programming, Elixir**: [Elixir Learning Resources][16]
+- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - **LaTex**:[LaTex Tutorials][32], _Michelle Krummel_
-- **Analytics**: [The Analytic Edge][20]
 - **Text editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
-- **Others**: [Red Blob Games][35], _Amit Patel_
 
 # Other Courses in Robotics
 
@@ -53,6 +51,11 @@
 - [SLAM Lectures][30], _Clause Brenne_
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
+
+### Interesting A Bit Unrelated Stuff
+- [Leet Code][36]
+- **Others**: [Red Blob Games][35], _Amit Patel_
+- **Analytics**: [The Analytic Edge][20]
 
 
 [1]: https://www.udacity.com/robotics
@@ -91,3 +94,4 @@
 [34]: https://bigmachine.io/products/the-imposters-handbook/
 [35]: http://www.redblobgames.com/
 [36]: http://leetcode.com 
+[37]:https://classroom.udacity.com/courses/cs344]
