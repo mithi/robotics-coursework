@@ -1,39 +1,13 @@
-# Robotics
-- _Udacity_: [Robotics Nanodegree][1]
-- _Udacity_: [Self-Driving Car Nanodegree][2]
-- _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
+# Robotics Series of Courses
+
+- :dollar: _Udacity_: [Robotics Nanodegree][1]
+- :dollar: _Udacity_: [Self-Driving Car Nanodegree][2]
+- :dollar: _Udacity_: [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787)
+- :dollar: _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
 - _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
-- _FutureLearn_: [Robot Academy][5], _Queensland University of Technology_
+- [Robot Academy][5], _Queensland University of Technology_
 
-
-# Algorithms
-- _Coursera_: [Algorithms Specialization][6], _Stanford University_
-- _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
-  * [Video Playlist 1][9]
-  * [Video Playlist 2][10]
-- [The Imposter's Handbook][34], _Rob Conery_
-
-# Primary Tools
-
-- **C++**
-  * [Basics][11], _LearningLad_
-  * [Google Unit Testing][13] and [Best Practices][12]
-- **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
-- **Source Control**: [GitKraken][15]
-- **Command Line and Bash Scripting**
-- **Python**
-- **MATLAB**
-
-
-# Other Useful Tools and Concepts
-
-- **Functional Programming, Elixir**: [Elixir Learning Resources][16]
-- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
-- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
-- **LaTex**:[LaTex Tutorials][32], _Michelle Krummel_
-- **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
-
-# Other Courses in Robotics
+# Individual Robotics Courses
 
 ### EdX
 - [Autonomous Mobile Robots][21], _ETHZurich_
@@ -43,19 +17,56 @@
 - Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
 
 ### Coursera
-- [Control of Mobile Robots][27], _Georgia Institute of technology_
+- :dollar: [Control of Mobile Robots][27], _Georgia Institute of technology_
 
 ### Others
 - [Autonomous Intelligent Systems][28], _University of Freiburg_
-- [MIT Race Car][29], _Massachusetts Institute of Technology_
-- [SLAM Lectures][30], _Clause Brenne_
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
+- [Introduction to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
+- [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
+- [SLAM playlist][62], _Cyrill Stachniss_
 
-### A Bit Too Unrelated 
-- [Leet Code][36]
-- **Others**: [Red Blob Games][35], _Amit Patel_
-- **Analytics**: [The Analytic Edge][20]
+# Hands-on 
+- [MIT Race Car][29], _Massachusetts Institute of Technology_
+- [SLAM Lectures][30], _Clause Brenne_
+- [F1/10 by Penn Engineering ][59]
+
+# Useful Concepts
+- [Artifical Intelligence and Machine-Learning](https://github.com/mithi/ai-playground)
+- [Kalman Filters and Bayesian Thinking][55]
+- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
+- [Structure and Interpretation of Computer Programs][39]
+- **Parallel Programming, Cuda**: [Udacity Introduction to Parallel Programming][37]
+- **Functional Programming Paradigm**: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
+
+# Useful Tools
+- [C++ Resources][65] and [Python][53]
+- :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
+- **Source Control**: [GitKraken][15], and [GIT SCM][42]
+- [The Unix Shell][57] and [Shell Scripting][56]
+- **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/) and [Atom](atom.io)
+- [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
+
+# Blogs 
+- [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
+- [Jetson Hacks][60]
+- [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
+
+# Algorithms and Technical Interviews
+- [Andreis Interview Repository][51]
+- [Algorithm Playground][64]
+
+# Related Lists
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* David Silver: [Related online courses][41]
 
 
 [1]: https://www.udacity.com/robotics
@@ -73,8 +84,7 @@
 [13]: https://github.com/google/googletest/blob/master/googletest/docs/Primer.md
 [14]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
 [15]: https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA/playlists
-[16]: https://elixir-lang.org/learning.html
-[17]: https://www.udemy.com/elixir-for-beginners/
+
 [18]: https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
 [19]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 [20]: https://www.edx.org/course/analytics-edge-mitx-15-071x-3
@@ -94,4 +104,32 @@
 [34]: https://bigmachine.io/products/the-imposters-handbook/
 [35]: http://www.redblobgames.com/
 [36]: http://leetcode.com 
-[37]:https://classroom.udacity.com/courses/cs344]
+[37]: https://classroom.udacity.com/courses/cs344]
+[38]: https://www.coursera.org/specializations/data-structures-algorithms 
+[39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+[40]: https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04
+[41]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740
+[42]: https://git-scm.com/book/en/v2
+[43]: http://www.kostasalexis.com/introduction-to-aerial-robotics.html
+[44]: http://htdp.org/2003-09-26/Book/curriculum.html
+[45]: http://learnyouahaskell.com
+[46]: http://gigamonkeys.com/book/
+[47]: http://book.realworldhaskell.org/read/
+[48]: http://selfdrivingcars.mit.edu/
+[49]: https://people.eecs.berkeley.edu/~pabbeel/
+[50]: https://deeplearning.ai
+[51]: https://github.com/andreis/interview
+[52]: https://www.labri.fr/perso/nrougier/teaching/c++-crash-course/index.html
+[53]: http://docs.python-guide.org/en/latest/intro/learning/
+[54]: https://matlabacademy.mathworks.com/
+[55]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
+[56]: https://www.shellscript.sh/
+[57]: https://swcarpentry.github.io/shell-novice/
+[58]: http://www.fast.ai/
+[59]: http://f1tenth.org/lectures
+[60]: http://www.jetsonhacks.com/
+[61]: https://agi.mit.edu/
+[62]: https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc
+[63]: https://developers.google.com/machine-learning/crash-course/
+[64]: https://github.com/mithi/algorithm-playground
+[65]: https://github.com/mithi/cpp-resources
