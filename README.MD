@@ -6,11 +6,11 @@
 - _FutureLearn_: [Robot Academy][5], _Queensland University of Technology_
 
 
-# Algorithms
+# Algorithms and Computer Science
 - _Coursera_: [Algorithms Specialization][6], _Stanford University_
 - _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
-  * [Video Playlist 1][9]
-  * [Video Playlist 2][10]
+  * [Video Playlist 1][9] and [Video Playlist 2][10]
+- [Master Algorithmic Programming Techniques][38]
 - [The Imposter's Handbook][34], _Rob Conery_
 
 # Primary Tools
@@ -32,6 +32,7 @@
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - **LaTex**:[LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
+- [Structure and Interpretation of Computer Programs][39]
 
 # Other Courses in Robotics
 
@@ -56,6 +57,7 @@
 - [Leet Code][36]
 - [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
+
 
 
 [1]: https://www.udacity.com/robotics
@@ -94,4 +96,6 @@
 [34]: https://bigmachine.io/products/the-imposters-handbook/
 [35]: http://www.redblobgames.com/
 [36]: http://leetcode.com 
-[37]:https://classroom.udacity.com/courses/cs344]
+[37]: https://classroom.udacity.com/courses/cs344]
+[38]: https://www.coursera.org/specializations/data-structures-algorithms 
+[39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
