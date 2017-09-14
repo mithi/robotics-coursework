@@ -6,7 +6,7 @@
 - _FutureLearn_: [Robot Academy][5], _Queensland University of Technology_
 
 
-# Algorithms and Computer Science
+# Algorithms
 - _Coursera_: [Algorithms Specialization][6], _Stanford University_
 - _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
   * [Video Playlist 1][9] and [Video Playlist 2][10]
@@ -33,7 +33,6 @@
 - **LaTex**:[LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 - [Structure and Interpretation of Computer Programs][39]
-- [Parallel Programming with Cuda][42]
 
 # Other Courses in Robotics
 
@@ -54,7 +53,7 @@
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
 
-# Other Notes
+# Notes
 - [Leet Code][36]
 - [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
@@ -103,4 +102,3 @@
 [39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
 [40]: https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04
 [41]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740
-[42]: https://www.udacity.com/course/intro-to-parallel-programming--cs344
