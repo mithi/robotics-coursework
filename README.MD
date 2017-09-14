@@ -20,7 +20,7 @@
   * [Google Unit Testing][13] and [Best Practices][12]
 - **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15]
-- **Command Line and Bash Scripting**
+- ** Unix Commands and Shell Scripting**
 - **Python**
 - **MATLAB**
 
