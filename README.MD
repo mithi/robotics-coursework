@@ -33,6 +33,7 @@
 - **LaTex**:[LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 - [Structure and Interpretation of Computer Programs][39]
+- [Parallel Programming with Cuda][42]
 
 # Other Courses in Robotics
 
@@ -53,12 +54,13 @@
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
 
-# A Bit Too Unrelated
+# Other Notes
 - [Leet Code][36]
 - [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
-
-
+- David Silver Articles:
+  * [About Self-Driving Car Engineer Pay, Skills and Demography][40]
+  * [Related online courses][41]
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
@@ -99,3 +101,6 @@
 [37]: https://classroom.udacity.com/courses/cs344]
 [38]: https://www.coursera.org/specializations/data-structures-algorithms 
 [39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+[40]: https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04
+[41]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740
+[42]: https://www.udacity.com/course/intro-to-parallel-programming--cs344
