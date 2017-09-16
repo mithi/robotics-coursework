@@ -16,10 +16,9 @@
 # Primary Tools
 
 - **C++**
-  * [Basics][11], _LearningLad_
-  * [Google Unit Testing][13] and [Best Practices][12]
+  * [Basics by LearningLad][11], [Google Unit Testing][13] and [Best Practices][12]
 - **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
-- **Source Control**: [GitKraken][15]
+- **Source Control**: [GitKraken][15], [GIT SCM][42]
 - **Unix Commands and Shell Scripting**
 - **Python**
 - **MATLAB**
@@ -102,3 +101,4 @@
 [39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
 [40]: https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04
 [41]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740
+[42]: https://git-scm.com/book/en/v2
