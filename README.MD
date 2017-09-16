@@ -16,9 +16,9 @@
 # Primary Tools
 
 - **C++**
-  * [Basics by LearningLad][11], [Google Unit Testing][13] and [Best Practices][12]
+  * [Basics by LearningLad][11], [Google Unit Testing][13], and [Best Practices][12]
 - **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
-- **Source Control**: [GitKraken][15], [GIT SCM][42]
+- **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - **Unix Commands and Shell Scripting**
 - **Python**
 - **MATLAB**
