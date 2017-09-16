@@ -10,7 +10,7 @@
 - _Coursera_: [Algorithms Specialization][6], _Stanford University_
 - _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
   * [Video Playlist 1][9] and [Video Playlist 2][10]
-- [Master Algorithmic Programming Techniques][38]
+- _Coursera_:[Master Algorithmic Programming Techniques][38] _University of San Diego_ 
 - [The Imposter's Handbook][34], _Rob Conery_
 
 # Primary Tools
