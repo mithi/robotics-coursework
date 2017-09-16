@@ -29,9 +29,10 @@
 - **Functional Programming, Elixir**: [Elixir Learning Resources][16]
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
+- [Structure and Interpretation of Computer Programs][39]
 - **LaTex**: [LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
-- [Structure and Interpretation of Computer Programs][39]
+
 
 # Other Courses in Robotics
 
