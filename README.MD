@@ -5,6 +5,25 @@
 - _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
 - _FutureLearn_: [Robot Academy][5], _Queensland University of Technology_
 
+# Courses in Robotics
+
+### EdX
+- [Autonomous Mobile Robots][21], _ETHZurich_
+- [Autonomous Navigation for Flying Robots][22], _Technische Universitat Munchen_
+- [Underactuated Robotics][23], _Massachusetts Institute of Technology_
+- [Robotics][24], _Columbia University in the city of New York_
+- Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
+
+### Coursera
+- [Control of Mobile Robots][27], _Georgia Institute of technology_
+
+### Others
+- [Autonomous Intelligent Systems][28], _University of Freiburg_
+- [MIT Race Car][29], _Massachusetts Institute of Technology_
+- [SLAM Lectures][30], _Clause Brenne_
+- [Introduction to Robotics][31], _Stanford Engineering Everywhere_
+- [Introduction to Robotics][33], _MIT OCW_
+- [Intro to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 
 # Algorithms
 - _Coursera_: [Algorithms Specialization][6], _Stanford University_
@@ -24,7 +43,7 @@
 - **MATLAB**
 
 
-# Other Useful Tools and Concepts
+# Useful Tools and Concepts
 
 - **Functional Programming, Elixir**: [Elixir Learning Resources][16]
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
@@ -33,34 +52,14 @@
 - **LaTex**: [LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
-
-# Other Courses in Robotics
-
-### EdX
-- [Autonomous Mobile Robots][21], _ETHZurich_
-- [Autonomous Navigation for Flying Robots][22], _Technische Universitat Munchen_
-- [Underactuated Robotics][23], _Massachusetts Institute of Technology_
-- [Robotics][24], _Columbia University in the city of New York_
-- Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
-
-### Coursera
-- [Control of Mobile Robots][27], _Georgia Institute of technology_
-
-### Others
-- [Autonomous Intelligent Systems][28], _University of Freiburg_
-- [MIT Race Car][29], _Massachusetts Institute of Technology_
-- [SLAM Lectures][30], _Clause Brenne_
-- [Introduction to Robotics][31], _Stanford Engineering Everywhere_
-- [Introduction to Robotics][33], _MIT OCW_
-
 # Notes
 - [Leet Code][36]
 - [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
-- David Silver Articles
+- David Silver:
   * [About Self-Driving Car Engineer Pay, Skills and Demography][40]
   * [Related online courses][41]
-
+  
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
 [3]: https://www.coursera.org/specializations/robotics
@@ -103,3 +102,4 @@
 [40]: https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04
 [41]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740
 [42]: https://git-scm.com/book/en/v2
+[43]: http://www.kostasalexis.com/introduction-to-aerial-robotics.html
