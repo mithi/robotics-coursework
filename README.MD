@@ -1,11 +1,12 @@
-# Robotics
+# Robotics Series of Courses
+
 - _Udacity_: [Robotics Nanodegree][1]
 - _Udacity_: [Self-Driving Car Nanodegree][2]
 - _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
 - _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
 - _FutureLearn_: [Robot Academy][5], _Queensland University of Technology_
 
-# Courses in Robotics
+# Individual Robotics Courses
 
 ### EdX
 - [Autonomous Mobile Robots][21], _ETHZurich_
@@ -32,33 +33,34 @@
 - _Coursera_: [Master Algorithmic Programming Techniques][38], _University of San Diego_ 
 - [The Imposter's Handbook][34], _Rob Conery_
 
-# Primary Tools
+# Useful Tools
 
 - **C++**
-  * [Basics by LearningLad][11], [Google Unit Testing][13], and [Best Practices][12]
+  * [Basics by LearningLad][11], [Google Unit Test][13], and [Best Practices][12]
 - **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - **Unix Commands and Shell Scripting**
 - **Python**
 - **MATLAB**
-
-
-# Useful Tools and Concepts
-
-- **Functional Programming, Elixir**: [Elixir Learning Resources][16]
-- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
-- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
-- [Structure and Interpretation of Computer Programs][39]
 - **LaTex**: [LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
+
+
+# Useful Concepts
+
+- **Functional Programming Paradigm**: 
+  * [Scheme - How to Design Programs An Introduction to Computing and Programming][44]
+  * [Haskell - Learn You a Haskell for Great Good!][45]
+  * [Elixir ][16]
+- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
+- [Structure and Interpretation of Computer Programs][39]
+- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 
 # Notes
 - [Leet Code][36]
 - [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
-- David Silver:
-  * [About Self-Driving Car Engineer Pay, Skills and Demography][40]
-  * [Related online courses][41]
+- David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
   
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
@@ -103,3 +105,5 @@
 [41]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740
 [42]: https://git-scm.com/book/en/v2
 [43]: http://www.kostasalexis.com/introduction-to-aerial-robotics.html
+[44]: http://htdp.org/2003-09-26/Book/curriculum.html
+[45]: http://learnyouahaskell.com
