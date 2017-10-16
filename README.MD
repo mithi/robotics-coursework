@@ -47,14 +47,14 @@
 
 
 # Useful Concepts
-
-- **Functional Programming Paradigm**: 
-  * [Scheme - How to Design Programs An Introduction to Computing and Programming][44]
-  * [Haskell - Learn You a Haskell for Great Good!][45]
-  * [Elixir ][16]
-- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
-- [Structure and Interpretation of Computer Programs][39]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
+- [Structure and Interpretation of Computer Programs][39]
+- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
+- **Functional Programming Paradigm**: 
+  * [Common Lisp - Practical Common Lisp][46]
+  * [Haskell - Learn You a Haskell for Great Good!][45]
+  * [Scheme - How to Design Programs An Introduction to Computing and Programming][44]
+  * [Elixir ][16]
 
 # Notes
 - [Leet Code][36]
@@ -107,3 +107,4 @@
 [43]: http://www.kostasalexis.com/introduction-to-aerial-robotics.html
 [44]: http://htdp.org/2003-09-26/Book/curriculum.html
 [45]: http://learnyouahaskell.com
+[46]: http://gigamonkeys.com/book/
