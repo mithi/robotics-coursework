@@ -32,6 +32,7 @@
   * [Video Playlist 1][9] and [Video Playlist 2][10]
 - _Coursera_: [Master Algorithmic Programming Techniques][38], _University of San Diego_ 
 - [The Imposter's Handbook][34], _Rob Conery_
+- [Leet Code][36]
 
 # Useful Tools
 
@@ -51,13 +52,12 @@
 - [Structure and Interpretation of Computer Programs][39]
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
 - **Functional Programming Paradigm**: 
-  * [Common Lisp - Practical Common Lisp][46]
-  * [Haskell - Learn You a Haskell for Great Good!][45]
+  * [Haskell - Learn You a Haskell for Great Good!][45] and [Real World Haskell][47]
   * [Scheme - How to Design Programs An Introduction to Computing and Programming][44]
+  * [Common Lisp - Practical Common Lisp][46]
   * [Elixir ][16]
 
-# Notes
-- [Leet Code][36]
+# Unrelated
 - [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
 - David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
@@ -108,3 +108,4 @@
 [44]: http://htdp.org/2003-09-26/Book/curriculum.html
 [45]: http://learnyouahaskell.com
 [46]: http://gigamonkeys.com/book/
+[47]: http://book.realworldhaskell.org/read/
