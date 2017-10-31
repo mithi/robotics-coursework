@@ -25,7 +25,7 @@
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
 - [Intro to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
-- [Deep-learning for Self-Driving Cars][47], _MIT 6.S094: Deep Learning for Self-Driving Cars_
+- [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
 
 # Algorithms
 - _Coursera_: [Algorithms Specialization][6], _Stanford University_
