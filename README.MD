@@ -49,16 +49,14 @@
 
 
 # Useful Concepts
+- **Deep-Learning**: [Deep RL Bootcamp][49], and [Deep Learning (dot) AI][50]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
 - **Functional Programming Paradigm**: 
-  * [Haskell - Learn You a Haskell for Great Good!][45] and [Real World Haskell][47]
-  * [Scheme - How to Design Programs An Introduction to Computing and Programming][44]
-  * [Common Lisp - Practical Common Lisp][46]
-  * [Elixir ][16]
+  * [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], [Elixir ][16]
 
-# Unrelated
+# Somewhat Unrelated
 - [Red Blob Games][35], _Amit Patel_
 - **Analytics**: [The Analytic Edge][20]
 - David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
@@ -111,3 +109,5 @@
 [46]: http://gigamonkeys.com/book/
 [47]: http://book.realworldhaskell.org/read/
 [48]: http://selfdrivingcars.mit.edu/
+[49]: https://people.eecs.berkeley.edu/~pabbeel/
+[50]: https://deeplearning.ai
