@@ -27,29 +27,26 @@
 - [Intro to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
 
-# Algorithms
-- _Coursera_: [Algorithms Specialization][6], _Stanford University_
-- _Coursera_: Algorithms [Part 1][7] and [Part 2][8], _Princeton University_
-  * [Video Playlist 1][9] and [Video Playlist 2][10]
-- _Coursera_: [Master Algorithmic Programming Techniques][38], _University of San Diego_ 
-- [The Imposter's Handbook][34], _Rob Conery_
-- [Leet Code][36]
+# Algorithms and Technical Interviews
+- [Andreis Interview Repo] [51]
+- _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University
 
 # Useful Tools
 
 - **C++**
-  * [Basics by LearningLad][11], [Google Unit Test][13], and [Best Practices][12]
+  * [Basics By LearningLad][11], [Google Unit Test][13], [Crash Course by 	Nicolas P. Rougier][52]
 - **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
-- **Unix Commands and Shell Scripting**
-- **Python**
-- **MATLAB**
+- [The Unix Shell][57] and [Shell Scripting][56]
+- [Python][53]
+- [MATLAB][54]**
 - **LaTex**: [LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
 
 # Useful Concepts
 - **Deep-Learning**: [Deep RL Bootcamp][49], and [Deep Learning (dot) AI][50]
+- [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
@@ -57,8 +54,6 @@
   * [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], [Elixir ][16]
 
 # Somewhat Unrelated
-- [Red Blob Games][35], _Amit Patel_
-- **Analytics**: [The Analytic Edge][20]
 - David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
   
 [1]: https://www.udacity.com/robotics
@@ -111,3 +106,10 @@
 [48]: http://selfdrivingcars.mit.edu/
 [49]: https://people.eecs.berkeley.edu/~pabbeel/
 [50]: https://deeplearning.ai
+[51]: https://github.com/andreis/interview
+[52]: https://www.labri.fr/perso/nrougier/teaching/c++-crash-course/index.html
+[53]: http://docs.python-guide.org/en/latest/intro/learning/
+[54]: https://matlabacademy.mathworks.com/
+[55]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
+[56]: https://www.shellscript.sh/
+[57]: https://swcarpentry.github.io/shell-novice/
