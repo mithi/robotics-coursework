@@ -29,7 +29,7 @@
 
 # Algorithms and Technical Interviews
 - [Andreis Interview Repo] [51]
-- _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University
+- _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
 
 # Useful Tools
 
