@@ -39,13 +39,12 @@
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - [The Unix Shell][57] and [Shell Scripting][56]
 - [Python][53]
-- [MATLAB][54]**
-- **LaTex**: [LaTex Tutorials][32], _Michelle Krummel_
+- [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
 
 # Useful Concepts
-- **Deep-Learning**: [Deep RL Bootcamp][49], and [Deep Learning (dot) AI][50]
+- **Deep-Learning**: [Deep RL Bootcamp][49], [Fast.AI][58] and [Deep Learning (dot) AI][50]
 - [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
@@ -113,3 +112,4 @@
 [55]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
 [56]: https://www.shellscript.sh/
 [57]: https://swcarpentry.github.io/shell-novice/
+[58]: http://www.fast.ai/
