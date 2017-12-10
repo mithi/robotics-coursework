@@ -28,7 +28,7 @@
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
 
 # Algorithms and Technical Interviews
-- [Andreis Interview Repo] [51]
+- [Andreis Interview Repo][51]
 - _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
 
 # Useful Tools
@@ -44,7 +44,7 @@
 
 
 # Useful Concepts
-- **Deep-Learning**: [Deep RL Bootcamp][49], [Fast.AI][58] and [Deep Learning (dot) AI][50]
+- **Deep-Learning**: [Deep RL Bootcamp][49], [Fast.AI][58], and [Deep Learning (dot) AI][50]
 - [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
