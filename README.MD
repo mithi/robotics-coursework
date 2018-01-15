@@ -31,6 +31,15 @@
 - [F1/10 by Penn Engineering ][59]
 - [Jetson Hacks][60]
 
+# Useful Concepts
+- **Deep-Learning**: [Deep RL Bootcamp][49], [Fast.AI][58], and [Deep Learning (dot) AI][50]
+- [MIT Artificial General Intelligence][61]
+- [Kalman Filters and Bayesian Thinking][55]
+- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
+- [Structure and Interpretation of Computer Programs][39]
+- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
+- **Functional Programming Paradigm**: [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], [Elixir ][16]
+
 # Algorithms and Technical Interviews
 - [Andreis Interview Repo][51]
 - _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
@@ -45,15 +54,6 @@
 - [Python][53]
 - [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
-
-
-# Useful Concepts
-- **Deep-Learning**: [Deep RL Bootcamp][49], [Fast.AI][58], and [Deep Learning (dot) AI][50]
-- [Kalman Filters and Bayesian Thinking][55]
-- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
-- [Structure and Interpretation of Computer Programs][39]
-- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
-- **Functional Programming Paradigm**: [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], [Elixir ][16]
 
 # Somewhat Unrelated
 - David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
@@ -118,3 +118,4 @@
 [58]: http://www.fast.ai/
 [59]: http://f1tenth.org/lectures
 [60]: http://www.jetsonhacks.com/
+[61]: https://agi.mit.edu/
