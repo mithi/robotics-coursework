@@ -20,12 +20,16 @@
 
 ### Others
 - [Autonomous Intelligent Systems][28], _University of Freiburg_
-- [MIT Race Car][29], _Massachusetts Institute of Technology_
-- [SLAM Lectures][30], _Clause Brenne_
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
 - [Intro to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
+
+# Hands-on 
+- [MIT Race Car][29], _Massachusetts Institute of Technology_
+- [SLAM Lectures][30], _Clause Brenne_
+- [F1/10 by Penn Engineering ][59]
+- [Jetson Hacks][60]
 
 # Algorithms and Technical Interviews
 - [Andreis Interview Repo][51]
@@ -112,3 +116,5 @@
 [56]: https://www.shellscript.sh/
 [57]: https://swcarpentry.github.io/shell-novice/
 [58]: http://www.fast.ai/
+[59]: http://f1tenth.org/lectures
+[60]: http://www.jetsonhacks.com/
