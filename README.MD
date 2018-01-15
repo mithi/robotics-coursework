@@ -24,6 +24,7 @@
 - [Introduction to Robotics][33], _MIT OCW_
 - [Intro to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
+- [SLAM playlist][62], _Cyrill Stachniss_
 
 # Hands-on 
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
@@ -119,3 +120,4 @@
 [59]: http://f1tenth.org/lectures
 [60]: http://www.jetsonhacks.com/
 [61]: https://agi.mit.edu/
+[62]: https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc
