@@ -60,8 +60,6 @@
 # Blogs 
 - [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
 - [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
-
-# Somewhat Unrelated
 - David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
   
 [1]: https://www.udacity.com/robotics
