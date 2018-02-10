@@ -1,8 +1,9 @@
 # Robotics Series of Courses
 
-- _Udacity_: [Robotics Nanodegree][1]
-- _Udacity_: [Self-Driving Car Nanodegree][2]
-- _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
+- :dollar: _Udacity_: [Robotics Nanodegree][1]
+- :dollar: _Udacity_: [Self-Driving Car Nanodegree][2]
+- :dollar: _Udacity_: [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787)
+- v _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
 - _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
 - _FutureLearn_: [Robot Academy][5], _Queensland University of Technology_
 
@@ -16,7 +17,7 @@
 - Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
 
 ### Coursera
-- [Control of Mobile Robots][27], _Georgia Institute of technology_
+- :dollar:[Control of Mobile Robots][27], _Georgia Institute of technology_
 
 ### Others
 - [Autonomous Intelligent Systems][28], _University of Freiburg_
@@ -49,7 +50,7 @@
 
 - **C++**
   * [Basics By LearningLad][11], [Google Unit Test][13], [Crash Course by 	Nicolas P. Rougier][52]
-- **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
+- **ROS**: :dollar: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - [The Unix Shell][57] and [Shell Scripting][56]
 - [Python][53]
