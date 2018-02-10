@@ -3,9 +3,9 @@
 - :dollar: _Udacity_: [Robotics Nanodegree][1]
 - :dollar: _Udacity_: [Self-Driving Car Nanodegree][2]
 - :dollar: _Udacity_: [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787)
-- v _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
+- _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
 - _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
-- _FutureLearn_: [Robot Academy][5], _Queensland University of Technology_
+- [Robot Academy][5], _Queensland University of Technology_
 
 # Individual Robotics Courses
 
