@@ -46,7 +46,7 @@
 
 - **C++**
   * [Basics By LearningLad][11], [Google Unit Test][13], [Crash Course by 	Nicolas P. Rougier][52]
-- **ROS**: :dollar: [Learn ROS Fast][14], _Robot Ignite Academy_
+- :dollar:**ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - [The Unix Shell][57] and [Shell Scripting][56]
 - [Python][53]
