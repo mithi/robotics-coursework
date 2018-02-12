@@ -17,7 +17,7 @@
 - Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
 
 ### Coursera
-- :dollar:[Control of Mobile Robots][27], _Georgia Institute of technology_
+- :dollar: [Control of Mobile Robots][27], _Georgia Institute of technology_
 
 ### Others
 - [Autonomous Intelligent Systems][28], _University of Freiburg_
@@ -46,7 +46,7 @@
 
 - **C++**
   * [Basics By LearningLad][11], [Google Unit Test][13], [Crash Course by 	Nicolas P. Rougier][52]
-- :dollar:**ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
+- :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - [The Unix Shell][57] and [Shell Scripting][56]
 - [Python][53]
