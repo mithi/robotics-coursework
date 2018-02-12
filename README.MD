@@ -42,10 +42,6 @@
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
 - **Functional Programming Paradigm**: [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], [Elixir ][16]
 
-# Algorithms and Technical Interviews
-- [Andreis Interview Repo][51]
-- _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
-
 # Useful Tools
 
 - **C++**
@@ -61,7 +57,11 @@
 - [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
 - [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
 - David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
-  
+
+# Algorithms and Technical Interviews
+- [Andreis Interview Repo][51]
+- _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
+
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
 [3]: https://www.coursera.org/specializations/robotics
