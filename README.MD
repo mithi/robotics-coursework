@@ -59,7 +59,7 @@
 
 # Algorithms and Technical Interviews
 - [Andreis Interview Repo][51]
-- [Algorithm Playgroun][64]
+- [Algorithm Playground][64]
 - _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
 
 [1]: https://www.udacity.com/robotics
