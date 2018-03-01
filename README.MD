@@ -31,10 +31,9 @@
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
 - [SLAM Lectures][30], _Clause Brenne_
 - [F1/10 by Penn Engineering ][59]
-- [Jetson Hacks][60]
 
 # Useful Concepts
-- **Deep-Learning**: [Deep RL Bootcamp][49], [Fast.AI][58], and [Deep Learning (dot) AI][50]
+- [Artifical Intelligence and Machine-Learning](https://github.com/mithi/ai-playground)
 - [MIT Artificial General Intelligence][61]
 - [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
@@ -44,7 +43,7 @@
 
 # Useful Tools
 
-- **C++** - [Basics By LearningLad][11], [Google Unit Test][13], [Crash Course by 	Nicolas P. Rougier][52]
+- [C++ Resources][65]
 - :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - [The Unix Shell][57] and [Shell Scripting][56]
@@ -54,11 +53,13 @@
 
 # Blogs 
 - [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
+- [Jetson Hacks][60]
 - [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
 - David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
 
 # Algorithms and Technical Interviews
 - [Andreis Interview Repo][51]
+- [Algorithm Playgroun][64]
 - _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
 
 [1]: https://www.udacity.com/robotics
@@ -123,3 +124,6 @@
 [60]: http://www.jetsonhacks.com/
 [61]: https://agi.mit.edu/
 [62]: https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc
+[63]: https://developers.google.com/machine-learning/crash-course/
+[64]: https://github.com/mithi/algorithm-playground
+[65]: https://github.com/mithi/cpp-resources
