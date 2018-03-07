@@ -34,7 +34,6 @@
 
 # Useful Concepts
 - [Artifical Intelligence and Machine-Learning](https://github.com/mithi/ai-playground)
-- [MIT Artificial General Intelligence][61]
 - [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
