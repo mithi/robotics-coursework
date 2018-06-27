@@ -60,7 +60,7 @@
 - [Algorithm Playground][64]
 - _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
 
-# Misc
+# Related Lists
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
