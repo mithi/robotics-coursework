@@ -38,10 +38,9 @@
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
 - **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
-- **Functional Programming Paradigm**: [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], [Elixir ][16]
+- **Functional Programming Paradigm**: [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], 
 
 # Useful Tools
-
 - [C++ Resources][65]
 - :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
@@ -61,6 +60,16 @@
 - [Algorithm Playground][64]
 - _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
 
+# Misc
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
 [3]: https://www.coursera.org/specializations/robotics
@@ -76,8 +85,7 @@
 [13]: https://github.com/google/googletest/blob/master/googletest/docs/Primer.md
 [14]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
 [15]: https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA/playlists
-[16]: https://elixir-lang.org/learning.html
-[17]: https://www.udemy.com/elixir-for-beginners/
+
 [18]: https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
 [19]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 [20]: https://www.edx.org/course/analytics-edge-mitx-15-071x-3
