@@ -23,7 +23,7 @@
 - [Autonomous Intelligent Systems][28], _University of Freiburg_
 - [Introduction to Robotics][31], _Stanford Engineering Everywhere_
 - [Introduction to Robotics][33], _MIT OCW_
-- [Intro to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
+- [Introduction to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
 - [SLAM playlist][62], _Cyrill Stachniss_
 
@@ -37,23 +37,21 @@
 - [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
-- **Parallel Programming, Cuda**: [Udacity Intro to Parallel Programming][37]
-- **Functional Programming Paradigm**: [Haskell][45], [Real World Haskell][47], [Scheme][44], [Common Lisp][46], 
+- **Parallel Programming, Cuda**: [Udacity Introduction to Parallel Programming][37]
+- **Functional Programming Paradigm**: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
 
 # Useful Tools
-- [C++ Resources][65]
+- [C++ Resources][65] and [Python][53]
 - :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
 - **Source Control**: [GitKraken][15], and [GIT SCM][42]
 - [The Unix Shell][57] and [Shell Scripting][56]
-- [Python][53]
+- **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/) and [Atom](atom.io)
 - [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
-- **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/), [Atom](atom.io)
 
 # Blogs 
 - [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
 - [Jetson Hacks][60]
 - [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
-- David Silver: [Self-Driving Car Engineer Pay, Skills and Demography][40] +  [Related online courses][41]
 
 # Algorithms and Technical Interviews
 - [Andreis Interview Repo][51]
@@ -69,6 +67,8 @@
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* David Silver: [Related online courses][41]
+
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
