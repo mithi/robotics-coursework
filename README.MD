@@ -54,9 +54,8 @@
 - [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
 
 # Algorithms and Technical Interviews
-- [Andreis Interview Repo][51]
+- [Andreis Interview Repository][51]
 - [Algorithm Playground][64]
-- _Coursera_: [Video Playlist 1][9] and [Video Playlist 2][10], _Princeton University_
 
 # Related Lists
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
