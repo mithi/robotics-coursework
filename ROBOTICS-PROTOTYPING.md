@@ -15,10 +15,10 @@
 - :wave: Hands-on
 
 # Hands-on Learning Plan 
-- Level 0: Goal: Gain Strong Foundation in open-source electronics and prototyping 
-- Level 1: Goal: Gain Intuition about Mechanical Prototyping and Design 
-- Level 2: Goal: Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
-- Level 3: Goal: Where the real fun starts! Build your own home-service robot with ROS and Turtlebot 3! 
+- :heart: Level 0: Gain Strong Foundation in open-source electronics and prototyping 
+- :heart: Level 1: Gain Intuition about Mechanical Prototyping and Design 
+- :heart: Level 2: Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
+- :heart: Level 3: Build your own home-service robot with ROS and Turtlebot 3! 
 - Level 0, 1, and 2 take about one to three full weekends each.
 - Level 3 takes about 8 - 12 full weekends but I believe you'll find it very rewarding. :heart: 
 
