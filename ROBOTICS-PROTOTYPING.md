@@ -1,5 +1,8 @@
 # ROBOTICS PROTOTYPING FROM ZERO TO HERO
 
+# Update 
+- :bangbang: [The continually updated version of this can be found on Medium](https://medium.com/@mithi/robotics-prototyping-zero-to-hero-dfc49cdd8a19)
+
 # Introduction
 - The purpose of this learning plan is for anyone to acquire a strong foundation of electronic and mechanical prototyping to build your own physical robots. It is designed specifically for people with at least some experience in basic coding (any language) but with no background in electronics and/or robotics. Upon completion, you should be be able build your own domestic home service robot from scratch and give you the confidence to independently build the robot of your dreams. There are many good tutorials scattered all over the web but they assume you have basic knowledge in the said areas. Upon finishing this self-learning plan, following any online tutorials to add the features you want to your robot should be a breeze. 
 - Most of the materials here are completely free, however some require purchase those with a (moneybag) :moneybag:icon. I am not paid to endorse any of these products. 
