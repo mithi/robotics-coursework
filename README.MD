@@ -31,6 +31,13 @@
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
 - [SLAM Lectures][30], _Clause Brenne_
 - [F1/10 by Penn Engineering ][59]
+- [Donkey Car](http://www.donkeycar.com/)
+- [DIY Robocars](http://diyrobocars.com/)
+
+# Blogs 
+- [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
+- [Jetson Hacks][60]
+- [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
 
 # Useful Concepts
 - [Artifical Intelligence and Machine-Learning](https://github.com/mithi/ai-playground)
@@ -47,11 +54,6 @@
 - [The Unix Shell][57] and [Shell Scripting][56]
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/) and [Atom](atom.io)
 - [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
-
-# Blogs 
-- [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
-- [Jetson Hacks][60]
-- [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
 
 # Algorithms and Technical Interviews
 - [Andreis Interview Repository][51]
