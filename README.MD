@@ -1,11 +1,17 @@
+# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
+
 # Robotics Series of Courses
 
+- _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
+- [Robot Academy][5], _Queensland University of Technology_
+- :dollar: _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
+- :dollar: _Coursera_: [Modern Robotics Specialization](https://www.coursera.org/specializations/modernrobotics), _Northwestern University_ 
 - :dollar: _Udacity_: [Robotics Nanodegree][1]
 - :dollar: _Udacity_: [Self-Driving Car Nanodegree][2]
 - :dollar: _Udacity_: [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787)
-- :dollar: _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
-- _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
-- [Robot Academy][5], _Queensland University of Technology_
 
 # Individual Robotics Courses
 
@@ -25,7 +31,8 @@
 - [Introduction to Robotics][33], _MIT OCW_
 - [Introduction to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
-- [SLAM playlist][62], _Cyrill Stachniss_
+- [SLAM playlist][62], _Dr Cyrill Stachniss_
+- [Robotics I][66], _Prof De Luca_, _Universita di Roma_
 
 # Hands-on 
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
@@ -40,12 +47,13 @@
 - [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
 
 # Useful Concepts
-- [Artifical Intelligence and Machine-Learning](https://github.com/mithi/ai-playground)
+- [Deep Learning](https://mithi.github.io/deep-blueberry/)
 - [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
 - **Parallel Programming, Cuda**: [Udacity Introduction to Parallel Programming][37]
 - **Functional Programming Paradigm**: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
+- **Algorithms**: [Andreis Interview Repository][51] | [Algorithm Playground][64]
 
 # Useful Tools
 - [C++ Resources][65] and [Python][53]
@@ -55,21 +63,15 @@
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/) and [Atom](atom.io)
 - [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
 
-# Algorithms and Technical Interviews
-- [Andreis Interview Repository][51]
-- [Algorithm Playground][64]
-
 # Related Lists
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
-* David Silver: [Related online courses][41]
+- [Ahundt](https://github.com/ahundt/awesome-robotics) |
+[Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
+[Kiloreux](https://github.com/Kiloreux/awesome-robotics)
 
+# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
@@ -135,3 +137,4 @@
 [63]: https://developers.google.com/machine-learning/crash-course/
 [64]: https://github.com/mithi/algorithm-playground
 [65]: https://github.com/mithi/cpp-resources
+[66]: https://www.youtube.com/watch?v=pitZv3PuVMw&list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt
