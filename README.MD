@@ -28,7 +28,7 @@
 - [Introduction to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
 - [SLAM playlist][62], _Dr Cyrill Stachniss_
-- [Robotics I][], _Prof De Luca_, _Universita di Roma_
+- [Robotics I][66], _Prof De Luca_, _Universita di Roma_
 
 # Hands-on 
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
