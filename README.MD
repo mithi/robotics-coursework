@@ -27,7 +27,8 @@
 - [Introduction to Robotics][33], _MIT OCW_
 - [Introduction to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
-- [SLAM playlist][62], _Cyrill Stachniss_
+- [SLAM playlist][62], _Dr Cyrill Stachniss_
+- [Robotics I][], _Prof De Luca_, _Universita di Roma_
 
 # Hands-on 
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
@@ -137,3 +138,4 @@
 [63]: https://developers.google.com/machine-learning/crash-course/
 [64]: https://github.com/mithi/algorithm-playground
 [65]: https://github.com/mithi/cpp-resources
+[66]: https://www.youtube.com/watch?v=pitZv3PuVMw&list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt
