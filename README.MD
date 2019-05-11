@@ -1,5 +1,6 @@
-# Robotics Series of Courses
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
 
+# Robotics Series of Courses
 
 - _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
 - [Robot Academy][5], _Queensland University of Technology_
@@ -61,6 +62,8 @@
 # Algorithms and Technical Interviews
 - [Andreis Interview Repository][51]
 - [Algorithm Playground][64]
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
 
 # Related Lists
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
