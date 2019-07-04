@@ -44,7 +44,7 @@
 - [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
 
 # Useful Concepts
-- [Artifical Intelligence and Machine-Learning](https://github.com/mithi/ai-playground)
+- [Deep Learning](https://mithi.github.io/deep-blueberry/)
 - [Kalman Filters and Bayesian Thinking][55]
 - **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
 - [Structure and Interpretation of Computer Programs][39]
