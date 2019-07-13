@@ -1,4 +1,7 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
+# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 # Robotics Series of Courses
 
@@ -63,19 +66,14 @@
 - [Andreis Interview Repository][51]
 - [Algorithm Playground][64]
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minimithi)
-
 # Related Lists
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
-* David Silver: [Related online courses][41]
 
+# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
+```
+33Mudy961bUk9zz35p68g9fE3uuHLRduRp
+```
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
