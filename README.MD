@@ -53,6 +53,7 @@
 - [Structure and Interpretation of Computer Programs][39]
 - **Parallel Programming, Cuda**: [Udacity Introduction to Parallel Programming][37]
 - **Functional Programming Paradigm**: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
+- **Algorithms**: [Andreis Interview Repository][51] | [Algorithm Playground][64]
 
 # Useful Tools
 - [C++ Resources][65] and [Python][53]
@@ -62,13 +63,10 @@
 - **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/) and [Atom](atom.io)
 - [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
 
-# Algorithms and Technical Interviews
-- [Andreis Interview Repository][51]
-- [Algorithm Playground][64]
-
 # Related Lists
-* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+- [Ahundt](https://github.com/ahundt/awesome-robotics) |
+[Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
+[Kiloreux](https://github.com/Kiloreux/awesome-robotics)
 
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
 ```
