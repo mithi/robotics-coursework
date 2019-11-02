@@ -49,19 +49,19 @@
 # Useful Concepts
 - [Deep Learning](https://mithi.github.io/deep-blueberry/)
 - [Kalman Filters and Bayesian Thinking][55]
-- **Control Systems**: [Control Bootcamp][19], _Steve Brunton_
+- Control Systems: [Control Bootcamp][19], _Steve Brunton_
+- Algorithms and Data Structures: [Andreis Interview Repository][51] | [Algorithm Playground][64]
 - [Structure and Interpretation of Computer Programs][39]
-- **Parallel Programming, Cuda**: [Udacity Introduction to Parallel Programming][37]
-- **Functional Programming Paradigm**: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
-- **Algorithms**: [Andreis Interview Repository][51] | [Algorithm Playground][64]
+- Parallel Programming (Cuda): [Udacity Introduction to Parallel Programming][37]
+- Functional Programming Paradigm: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
 
 # Useful Tools
-- [C++ Resources][65] and [Python][53]
 - :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
-- **Source Control**: [GitKraken][15], and [GIT SCM][42]
-- [The Unix Shell][57] and [Shell Scripting][56]
-- **Fancy Text Editors**: [Sublime](https://www.sublimetext.com/) and [Atom](atom.io)
-- [MATLAB][54] and [LaTex Tutorials][32], _Michelle Krummel_
+- [C++][65], [Python][53]
+- [The Unix Shell][57], [Shell Scripting][56]
+- Source control: [Git][71]
+- Fancy text editor: [Vscode][68]
+- Old School: [LaTex][72], [Octave][70]
 
 # Related Lists
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
@@ -72,6 +72,12 @@
 ```
 33Mudy961bUk9zz35p68g9fE3uuHLRduRp
 ```
+[67]: https://learnxinyminutes.com/docs/python/
+[68]: https://github.com/microsoft/vscode
+[69]: https://octave-online.net/
+[70]: http://www-mdp.eng.cam.ac.uk/web/CD/engapps/octave/octavetut.pdf
+[71]: http://gitimmersion.com/
+[72]: https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
