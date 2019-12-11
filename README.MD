@@ -54,7 +54,7 @@
 - [Structure and Interpretation of Computer Programs][39]
 - Parallel Programming (Cuda): [Udacity Introduction to Parallel Programming][37]
 - Functional Programming Paradigm: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
-- [Unix and Internet Fundamentals](73)
+- [Unix and Internet Fundamentals][73]
 
 # Useful Tools
 - :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
