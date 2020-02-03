@@ -21,6 +21,9 @@
 - [Underactuated Robotics][23], _Massachusetts Institute of Technology_
 - [Robotics][24], _Columbia University in the city of New York_
 - Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
+- [Robotics Foundations I - Robot Modeling][74] _Università degli Studi di Napoli Federico II_
+- [Hello (Real) World with ROS – Robot Operating System][75] _Delft University of Technology_
+- 
 
 ### Coursera
 - :dollar: [Control of Mobile Robots][27], _Georgia Institute of technology_
@@ -80,6 +83,8 @@
 [71]: http://gitimmersion.com/
 [72]: https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
 [73]: http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
+[74]: https://www.edx.org/course/robotics-foundations-i-robot-modeling
+[75]: https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system
 
 [1]: https://www.udacity.com/robotics
 [2]: https://www.udacity.com/drive
