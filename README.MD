@@ -5,74 +5,124 @@
 
 # Robotics Series of Courses
 
-- _EdX_: [Robotics MicroMasters][4], _University of Pennsylvania_
-- [Robot Academy][5], _Queensland University of Technology_
-- :dollar: _Coursera_: [Robotics Specialization][3], _University of Pennsylvania_
-- :dollar: _Coursera_: [Modern Robotics Specialization](https://www.coursera.org/specializations/modernrobotics), _Northwestern University_ 
-- :dollar: _Udacity_: [Robotics Nanodegree][1]
-- :dollar: _Udacity_: [Self-Driving Car Nanodegree][2]
-- :dollar: _Udacity_: [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787)
+- [♥️ Robot Academy][series1], _Queensland University of Technology_
+- [MIT Open Courseware: Robotics][series9] 
+- _EdX_: [Robotics MicroMasters][series2], _University of Pennsylvania_
+- _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
+- _Coursera_: [Modern Robotics Specialization][series4] | [Book][series11a] + [📺 channel][series11b], _Northwestern University_
+- _Coursera_: [Self-Driving Cars][series10], University of Toronto
+- :dollar: _Udacity_: [Robotics Nanodegree][series5]
+- :dollar: _Udacity_: [Self-Driving Car Nanodegree][series6]
+- :dollar: _Udacity_: [Flying Car Nanodegree][series7]
+- :dollar: [Learn ROS Fast][series8], _Robot Ignite Academy_
+
+[series1]: http://robotacademy.net.au
+[series2]: https://www.edx.org/micromasters/pennx-robotics
+[series3]: https://www.coursera.org/specializations/robotics
+[series4]: https://www.coursera.org/specializations/modernrobotics
+[series5]: https://www.udacity.com/robotics
+[series6]: https://www.udacity.com/drive
+[series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
+[series8]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
+[series9]: https://ocw.mit.edu/search/ocwsearch.htm?q=robotics
+[series10]: https://www.coursera.org/specializations/self-driving-cars
+[series11a]: http://modernrobotics.org 
+[series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Individual Robotics Courses
 
 ### EdX
-- [Autonomous Mobile Robots][21], _ETHZurich_
-- [Autonomous Navigation for Flying Robots][22], _Technische Universitat Munchen_
-- [Underactuated Robotics][23], _Massachusetts Institute of Technology_
-- [Robotics][24], _Columbia University in the city of New York_
-- Robot Mechanics and Control [Part I][25] and [Part II][26], _Seoul National University_
-- [Robotics Foundations I - Robot Modeling][74] _Università degli Studi di Napoli Federico II_
-- [Hello (Real) World with ROS – Robot Operating System][75] _Delft University of Technology_
-- 
+- [Autonomous Mobile Robots][course1], _ETHZurich_
+- [Autonomous Navigation for Flying Robots][course2], _Technische Universitat Munchen_
+- [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
+- [Robotics][course4], _Columbia University in the city of New York_
+- Robot Mechanics and Control [Part I][course5] and [Part II][course6], _Seoul National University_
+- [Robotics Foundations I - Robot Modeling][course7] _Università degli Studi di Napoli Federico II_
+- [Hello (Real) World with ROS – Robot Operating System][course8] _Delft University of Technology_
 
 ### Coursera
-- :dollar: [Control of Mobile Robots][27], _Georgia Institute of technology_
+- [Control of Mobile Robots][course9], _Georgia Institute of technology_
 
 ### Others
-- [Autonomous Intelligent Systems][28], _University of Freiburg_
-- [Introduction to Robotics][31], _Stanford Engineering Everywhere_
-- [Introduction to Robotics][33], _MIT OCW_
-- [Introduction to Aerial Robotics][43], _Dr Kostas Alexis, University of Nevada, Reno_
-- [Deep-learning for Self-Driving Cars][48], _MIT 6.S094: Deep Learning for Self-Driving Cars_
-- [SLAM playlist][62], _Dr Cyrill Stachniss_
-- [Robotics I][66], _Prof De Luca_, _Universita di Roma_
+- [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, _University of Freiburg_
+- [Introduction to Robotics][course11], Prof Oussama Khatib, _Stanford Engineering Everywhere_
+- [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, _University of Nevada, Reno_
+- [Deep-learning for Self-Driving Cars][course14], Lex Fridman, _Deep Learning for Self-Driving Cars_
+- [📺 SLAM playlist][course15], Dr Cyrill Stachniss, _University of Freiburg_
+- [📺 Robotics I][course16], Prof De Luca, _Universita di Roma_
+- [📺 SLAM Lectures][course18], Prof Clause Brenne, _Leibniz University Hannover_
+- [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 
-# Hands-on
-- [Building a diy Arduino drone from scratch][76], _Joop Brooking_
-- :dollar: [Drones Dojo: Bootsrap your drown Education][77]
-- [DIY Walkers][78], _Ben Vagle_
-- [MIT Race Car][29], _Massachusetts Institute of Technology_
-- [SLAM Lectures][30], _Clause Brenne_
-- [F1/10 by Penn Engineering ][59]
-- [Donkey Car](http://www.donkeycar.com/)
-- [DIY Robocars](http://diyrobocars.com/)
+[course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
+[course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
+[course3]: https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0
+[course4]: https://www.edx.org/course/robotics-columbiax-csmm-103x#!
+[course5]: https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x
+[course6]: https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x
+[course7]: https://www.edx.org/course/robotics-foundations-i-robot-modeling
+[course8]: https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system
+[course9]: https://www.coursera.org/learn/mobile-robot
+[course10]: http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php
+[course11]: https://see.stanford.edu/Course/CS223A
+[course13]: http://www.kostasalexis.com/introduction-to-aerial-robotics.html
+[course14]: http://selfdrivingcars.mit.edu/
+[course15]: https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc
+[course16]: https://www.youtube.com/watch?v=pitZv3PuVMw&list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt
+[course17a]: http://robogrok.com/index.html
+[course17b]: https://www.youtube.com/user/asodemann3/videos
+[course18]: https://www.youtube.com/watch?v=B2qzYCeT9oQ&list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm
 
-[76]: http://www.brokking.net/ymfc-32_main.html
-[77]: https://dojofordrones.com/
-[78]: https://www.diywalkers.com/
 
-# Blogs 
-- [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
-- [Jetson Hacks][60]
-- [Reality Bytes by Andrew Dahdouh](https://realitybytes.blog/)
+# Hands-on and Blogs
 
-# Useful Concepts
-- [Deep Learning](https://mithi.github.io/deep-blueberry/)
-- [Kalman Filters and Bayesian Thinking][55]
-- Control Systems: [Control Bootcamp][19], _Steve Brunton_
-- Algorithms and Data Structures: [Andreis Interview Repository][51] | [Algorithm Playground][64]
-- [Structure and Interpretation of Computer Programs][39]
-- Parallel Programming (Cuda): [Udacity Introduction to Parallel Programming][37]
-- Functional Programming Paradigm: [Haskell][45] + [Real World Haskell][47], [Scheme][44], and [Common Lisp][46]
-- [Unix and Internet Fundamentals][73]
+- [Donkey Car][h1]
+- [DIY Robocars][h2]
+- [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
+- [F1/10 by Penn Engineering ][h5]
+- [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
+- [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
+- [♥️ DIY Walkers][h9], _Ben Vagle_
+- [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
+- [Reality Bytes][h11], _Andrew Dahdouh_
+- [Oscar Liang Blog][h12], _Oscar Liang_
+- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3]
 
-# Useful Tools
-- :dollar: **ROS**: [Learn ROS Fast][14], _Robot Ignite Academy_
-- [C++][65], [Python][53]
-- [The Unix Shell][57], [Shell Scripting][56]
-- Source control: [Git][71]
-- Fancy text editor: [Vscode][68]
-- Old School: [LaTex][72], [Octave][70]
+[related1]: https://www.instructables.com/howto/robot/
+[related2]: https://www.hackster.io/search?i=projects&q=robot
+[related3]: https://www.thingiverse.com/search?q=robot
+
+[h1]: http://www.donkeycar.com/
+[h2]: http://diyrobocars.com/
+[h3]: https://mit-racecar.github.io
+[h4]: https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/
+[h5]: http://f1tenth.org/lectures
+[h6]: https://www.jetsonhacks.com/category/robotics/
+[h7]:https://racecarj.com/
+[h8]: http://www.brokking.net/ymfc-32_main.html
+[h9]: https://dojofordrones.com/
+[h10]: https://www.diywalkers.com/
+[h11]: https://realitybytes.blog/
+[h12]: https://oscarliang.com/
+[h13]: https://www.youtube.com/user/MacPuffdog/playlists
+
+# Useful Concepts and Tools
+- [Deep Learning][tools1]
+- [Kalman Filters and Bayesian Thinking][tools2], _Roger R. Labbe_
+- Control Systems: _[ 📺 Steve Brunton][tools3]_ | _[📺 Brian Douglas][tools4]_
+- [Structure and Interpretation of Computer Programs][tools5]
+- [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
+- Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
+
+[tools1]: https://mithi.github.io/deep-blueberry/
+[tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
+[tools3]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+[tools4]: https://www.youtube.com/user/ControlLectures/featured
+[tools5]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+[tools6]: http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
+[tools7]: https://www.shellscript.sh/
+[tools8]: https://swcarpentry.github.io/shell-novice/
+[tools9]: http://gitimmersion.com/
+
 
 # Related Lists
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
@@ -83,80 +133,3 @@
 ```
 33Mudy961bUk9zz35p68g9fE3uuHLRduRp
 ```
-
-
-[67]: https://learnxinyminutes.com/docs/python/
-[68]: https://github.com/microsoft/vscode
-[69]: https://octave-online.net/
-[70]: http://www-mdp.eng.cam.ac.uk/web/CD/engapps/octave/octavetut.pdf
-[71]: http://gitimmersion.com/
-[72]: https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
-[73]: http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
-[74]: https://www.edx.org/course/robotics-foundations-i-robot-modeling
-[75]: https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system
-
-[1]: https://www.udacity.com/robotics
-[2]: https://www.udacity.com/drive
-[3]: https://www.coursera.org/specializations/robotics
-[4]: https://www.edx.org/micromasters/pennx-robotics
-[5]: http://robotacademy.net.au
-[6]: https://www.coursera.org/specializations/algorithms
-[7]: https://www.coursera.org/learn/algorithms-part1
-[8]: https://www.coursera.org/learn/algorithms-part2
-[9]: https://www.youtube.com/watch?v=8mYfZeHtdNc&list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8
-[10]: https://www.youtube.com/watch?v=zDUo8HTFwLo&list=PLxc4gS-_A5VDvP_9W8JJ04zk6m1qTolzG
-[11]: https://www.youtube.com/watch?v=3fwKlU9AwSY&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
-[12]: http://shop.oreilly.com/product/0636920049814.do
-[13]: https://github.com/google/googletest/blob/master/googletest/docs/Primer.md
-[14]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
-[15]: https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA/playlists
-
-[18]: https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
-[19]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
-[20]: https://www.edx.org/course/analytics-edge-mitx-15-071x-3
-[21]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
-[22]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
-[23]: https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0
-[24]: https://www.edx.org/course/robotics-columbiax-csmm-103x#!
-[25]: https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x
-[26]: https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x
-[27]: https://www.coursera.org/learn/mobile-robot
-[28]: http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php
-[29]: https://mit-racecar.github.io
-[30]: https://www.youtube.com/watch?v=B2qzYCeT9oQ&list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm
-[31]: https://see.stanford.edu/Course/CS223A
-[32]: https://www.youtube.com/watch?v=SoDv0qhyysQ&index=1&list=PL1D4EAB31D3EBC449
-[33]: https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/
-[34]: https://bigmachine.io/products/the-imposters-handbook/
-[35]: http://www.redblobgames.com/
-[36]: http://leetcode.com 
-[37]: https://classroom.udacity.com/courses/cs344]
-[38]: https://www.coursera.org/specializations/data-structures-algorithms 
-[39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
-[40]: https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04
-[41]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740
-[42]: https://git-scm.com/book/en/v2
-[43]: http://www.kostasalexis.com/introduction-to-aerial-robotics.html
-[44]: http://htdp.org/2003-09-26/Book/curriculum.html
-[45]: http://learnyouahaskell.com
-[46]: http://gigamonkeys.com/book/
-[47]: http://book.realworldhaskell.org/read/
-[48]: http://selfdrivingcars.mit.edu/
-[49]: https://people.eecs.berkeley.edu/~pabbeel/
-[50]: https://deeplearning.ai
-[51]: https://github.com/andreis/interview
-[52]: https://www.labri.fr/perso/nrougier/teaching/c++-crash-course/index.html
-[53]: http://docs.python-guide.org/en/latest/intro/learning/
-[54]: https://matlabacademy.mathworks.com/
-[55]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
-[56]: https://www.shellscript.sh/
-[57]: https://swcarpentry.github.io/shell-novice/
-[58]: http://www.fast.ai/
-[59]: http://f1tenth.org/lectures
-[60]: http://www.jetsonhacks.com/
-[61]: https://agi.mit.edu/
-[62]: https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc
-[63]: https://developers.google.com/machine-learning/crash-course/
-[64]: https://github.com/mithi/algorithm-playground
-[65]: https://github.com/mithi/cpp-resources
-[66]: https://www.youtube.com/watch?v=pitZv3PuVMw&list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt
