@@ -93,6 +93,8 @@
 - [Unix and Internet Fundamentals][73]
 - C++, Python, [Git][71], [The Unix Shell][57], [Shell Scripting][56]
 
+[56]: https://www.shellscript.sh/
+[57]: https://swcarpentry.github.io/shell-novice/
 [55]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
 [19]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 [39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
