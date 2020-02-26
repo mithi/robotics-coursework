@@ -37,12 +37,19 @@
 - [SLAM playlist][62], _Dr Cyrill Stachniss_
 - [Robotics I][66], _Prof De Luca_, _Universita di Roma_
 
-# Hands-on 
+# Hands-on
+- [Building a diy Arduino drone from scratch][76], _Joop Brooking_
+- :dollar: [Drones Dojo: Bootsrap your drown Education][77]
+- [DIY Walkers][78], _Ben Vagle_
 - [MIT Race Car][29], _Massachusetts Institute of Technology_
 - [SLAM Lectures][30], _Clause Brenne_
 - [F1/10 by Penn Engineering ][59]
 - [Donkey Car](http://www.donkeycar.com/)
 - [DIY Robocars](http://diyrobocars.com/)
+
+[76]: http://www.brokking.net/ymfc-32_main.html
+[77]: https://dojofordrones.com/
+[78]: https://www.diywalkers.com/
 
 # Blogs 
 - [MIT RaceCar Team 5 Documentation](https://mit-racecar.github.io/6.141-spring-2016-team-5-documentation/)
@@ -76,6 +83,8 @@
 ```
 33Mudy961bUk9zz35p68g9fE3uuHLRduRp
 ```
+
+
 [67]: https://learnxinyminutes.com/docs/python/
 [68]: https://github.com/microsoft/vscode
 [69]: https://octave-online.net/
