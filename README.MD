@@ -5,11 +5,11 @@
 
 # Robotics Series of Courses
 
-- [Robot Academy][series1], _Queensland University of Technology_
-- [MIT Open Courseware: Robotics][series9]
+- [♥️ Robot Academy][series1], _Queensland University of Technology_
+- [MIT Open Courseware: Robotics][series9] 
 - _EdX_: [Robotics MicroMasters][series2], _University of Pennsylvania_
 - _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
-- _Coursera_: [Modern Robotics Specialization][series4], _Northwestern University_
+- _Coursera_: [Modern Robotics Specialization][series4] | [Book][series11a] + [📺 channel][series11b], _Northwestern University_
 - _Coursera_: [Self-Driving Cars][series10], University of Toronto
 - :dollar: _Udacity_: [Robotics Nanodegree][series5]
 - :dollar: _Udacity_: [Self-Driving Car Nanodegree][series6]
@@ -26,6 +26,8 @@
 [series8]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
 [series9]: https://ocw.mit.edu/search/ocwsearch.htm?q=robotics
 [series10]: https://www.coursera.org/specializations/self-driving-cars
+[series11a]: http://modernrobotics.org 
+[series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Individual Robotics Courses
 
@@ -78,8 +80,8 @@
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
-- [Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
-- [DIY Walkers][h9], _Ben Vagle_
+- [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
+- [♥️ DIY Walkers][h9], _Ben Vagle_
 - [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
 - [Reality Bytes][h11], _Andrew Dahdouh_
 - [Oscar Liang Blog][h12], _Oscar Liang_
