@@ -6,6 +6,7 @@
 # Robotics Series of Courses
 
 - [Robot Academy][series1], _Queensland University of Technology_
+- [MIT Open Courseware: Robotics][series9]
 - _EdX_: [Robotics MicroMasters][series2], _University of Pennsylvania_
 - :dollar: _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
 - :dollar: _Coursera_: [Modern Robotics Specialization][series4], _Northwestern University_ 
@@ -22,6 +23,7 @@
 [series6]: https://www.udacity.com/drive
 [series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
 [series8]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
+[series9]: https://ocw.mit.edu/search/ocwsearch.htm?q=robotics
 
 # Individual Robotics Courses
 
@@ -40,12 +42,11 @@
 ### Others
 - [Autonomous Intelligent Systems][course10], _ Prof Wolfram Burgard et al, University of Freiburg_
 - [Introduction to Robotics][course11], _Prof Oussama Khatib, Stanford Engineering Everywhere_
-- [Introduction to Robotics][course12], _MIT OCW_
 - [Introduction to Aerial Robotics][course13], _Dr Kostas Alexis, University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][course14], _Lex Fridman, Deep Learning for Self-Driving Cars_
 - [SLAM playlist 📺][course15], _Dr Cyrill Stachniss, University of Freiburg_
 - [Robotics I 📺][course16], _Prof De Luca_, _Universita di Roma_
-- [Robogrok: Robotics][course17a] + [channel: 📺)][course17b], _Angela Sodemann_
+- [Robogrok: Robotics][course17a] + [channel 📺][course17b], _Angela Sodemann_
 - [SLAM Lectures 📺][course18], _Prof Clause Brenne, Leibniz University Hannover_
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
@@ -59,7 +60,6 @@
 [course9]: https://www.coursera.org/learn/mobile-robot
 [course10]: http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php
 [course11]: https://see.stanford.edu/Course/CS223A
-[course12]: https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/
 [course13]: http://www.kostasalexis.com/introduction-to-aerial-robotics.html
 [course14]: http://selfdrivingcars.mit.edu/
 [course15]: https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc
@@ -73,15 +73,14 @@
 
 - [Donkey Car][h1]
 - [DIY Robocars][h2]
-- [MIT Race Car][h3]
-- [MIT RaceCar Team 5 Documentation][h4]
+- [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
-- [Jetson Hacks][h6]
-- [:dollar: Racecar RJ][h7]
-- [Building a DIY Arduino drone from scratch][h8], _Joop Brooking_
+- [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
+- [Building a DIY Arduino drone from scratch][h8] + [channel 📺][h13], _Joop Brooking_
 - [DIY Walkers][h9], _Ben Vagle_
 - [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
 - [Reality Bytes][h11], _Andrew Dahdouh_
+- [Oscar Liang Blog][h12], _Oscar Liang_
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -90,30 +89,31 @@
 [h5]: http://f1tenth.org/lectures
 [h6]: https://www.jetsonhacks.com/category/robotics/
 [h7]:https://racecarj.com/
-
 [h8]: http://www.brokking.net/ymfc-32_main.html
 [h9]: https://dojofordrones.com/
 [h10]: https://www.diywalkers.com/
 [h11]: https://realitybytes.blog/
-
+[h12]: https://oscarliang.com/
+[h13]: https://www.youtube.com/user/MacPuffdog/playlists
 
 # Useful Concepts and Tools
-- [Deep Learning](https://mithi.github.io/deep-blueberry/)
-- [Kalman Filters and Bayesian Thinking][55]
-- Control Systems: [Control Bootcamp][19], _Steve Brunton_
-- Algorithms and Data Structures
-- [Structure and Interpretation of Computer Programs][39]
-- [Unix and Internet Fundamentals][73]
-- C++, Python, [Git][71], [The Unix Shell][57], [Shell Scripting][56]
+- [Deep Learning][tools1]
+- [Kalman Filters and Bayesian Thinking][tools2], _Roger R. Labbe_
+- Control Systems: _[Steve Brunton 📺][tools3]_ | _[Brian Douglas 📺][tools4]_
+- [Structure and Interpretation of Computer Programs][tools5]
+- [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
+- Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
 
-[56]: https://www.shellscript.sh/
-[57]: https://swcarpentry.github.io/shell-novice/
-[55]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
-[19]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
-[39]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
-[53]: http://docs.python-guide.org/en/latest/intro/learning/
-[73]: http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
-[71]: http://gitimmersion.com/
+[tools1]: https://mithi.github.io/deep-blueberry/
+[tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
+[tools3]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+[tools4]: https://www.youtube.com/user/ControlLectures/featured
+[tools5]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+[tools6]: http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
+[tools7]: https://www.shellscript.sh/
+[tools8]: https://swcarpentry.github.io/shell-novice/
+[tools9]: http://gitimmersion.com/
+
 
 # Related Lists
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
