@@ -10,7 +10,7 @@
 - _EdX_: [Robotics MicroMasters][series2], _University of Pennsylvania_
 - _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
 - _Coursera_: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], _Northwestern University_
-- _Coursera_: [Self-Driving Cars][series10], University of Toronto
+- _Coursera_: [Self-Driving Cars][series10], _University of Toronto_
 - :dollar: _Udacity_: [Robotics Nanodegree][series5]
 - :dollar: _Udacity_: [Self-Driving Car Nanodegree][series6]
 - :dollar: _Udacity_: [Flying Car Nanodegree][series7]
@@ -39,7 +39,7 @@
 - _EdX_: [Robotics Foundations I - Robot Modeling][course7], _Università degli Studi di Napoli Federico II_
 - _EdX_: [Hello (Real) World with ROS – Robot Operating System][course8], _Delft University of Technology_
 - _Udacity_: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
-- _Coursera_: [Control of Mobile Robots][course9], _Georgia Institute of technology_
+- _Coursera_: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, _Georgia Institute of technology_
 - [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, _University of Freiburg_
 - [Introduction to Robotics][course11], Prof Oussama Khatib, _Stanford Engineering Everywhere_
 - [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, _University of Nevada, Reno_
