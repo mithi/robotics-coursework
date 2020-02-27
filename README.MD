@@ -87,14 +87,9 @@
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
-- [♥️ DIY Walkers][h9], _Ben Vagle_
-- [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
+- [♥️ DIY Walkers][h10], _Ben Vagle_
+- [Drones Dojo: Bootstrap your Drone Education][h9], _Caleb Bergquist_
 - [Reality Bytes][h11], _Andrew Dahdouh_ | [Oscar Liang Blog][h12], _Oscar Liang_
-- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3]
-
-[related1]: https://www.instructables.com/howto/robot/
-[related2]: https://www.hackster.io/search?i=projects&q=robot
-[related3]: https://www.thingiverse.com/search?q=robot
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -135,6 +130,11 @@
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
 [Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
 [Kiloreux](https://github.com/Kiloreux/awesome-robotics)
+- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3]
+
+[related1]: https://www.instructables.com/howto/robot/
+[related2]: https://www.hackster.io/search?i=projects&q=robot
+[related3]: https://www.thingiverse.com/search?q=robot
 
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi) 
 ```
