@@ -5,11 +5,11 @@
 
 # Robotics Series of Courses
 
-- [♥️ Robot Academy][series1], Professor Peter Corke, _Queensland University of Technology_
+- [♥️ Robot Academy][series1], Prof Peter Corke, _Queensland University of Technology_
 - [MIT Open Courseware: Robotics][series9] 
 - _EdX_: [Robotics MicroMasters][series2], _University of Pennsylvania_
 - _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
-- _Coursera_: [Modern Robotics Specialization][series4] | [Book][series11a] + [📺 channel][series11b], _Northwestern University_
+- _Coursera_: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], _Northwestern University_
 - _Coursera_: [Self-Driving Cars][series10], University of Toronto
 - :dollar: _Udacity_: [Robotics Nanodegree][series5]
 - :dollar: _Udacity_: [Self-Driving Car Nanodegree][series6]
@@ -36,8 +36,8 @@
 - _EdX_: [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
 - _EdX_: [Robotics][course4], _Columbia University in the city of New York_
 - _EdX_: Robot Mechanics and Control [Part I][course5] and [Part II][course6], _Seoul National University_
-- _EdX_: [Robotics Foundations I - Robot Modeling][course7] _Università degli Studi di Napoli Federico II_
-- _EdX_: [Hello (Real) World with ROS – Robot Operating System][course8] _Delft University of Technology_
+- _EdX_: [Robotics Foundations I - Robot Modeling][course7], _Università degli Studi di Napoli Federico II_
+- _EdX_: [Hello (Real) World with ROS – Robot Operating System][course8], _Delft University of Technology_
 - _Udacity_: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
 - _Coursera_: [Control of Mobile Robots][course9], _Georgia Institute of technology_
 - [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, _University of Freiburg_
@@ -89,8 +89,7 @@
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
 - [♥️ DIY Walkers][h9], _Ben Vagle_
 - [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
-- [Reality Bytes][h11], _Andrew Dahdouh_
-- [Oscar Liang Blog][h12], _Oscar Liang_
+- [Reality Bytes][h11], _Andrew Dahdouh_ | [Oscar Liang Blog][h12], _Oscar Liang_
 - [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3]
 
 [related1]: https://www.instructables.com/howto/robot/
