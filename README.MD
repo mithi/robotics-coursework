@@ -83,6 +83,11 @@
 - [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
 - [Reality Bytes][h11], _Andrew Dahdouh_
 - [Oscar Liang Blog][h12], _Oscar Liang_
+- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3]
+
+[related1]: https://www.instructables.com/howto/robot/
+[related2]: https://www.hackster.io/search?i=projects&q=robot
+[related3]: https://www.thingiverse.com/search?q=robot
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
