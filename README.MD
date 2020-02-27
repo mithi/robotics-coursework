@@ -5,7 +5,7 @@
 
 # Robotics Series of Courses
 
-- [♥️ Robot Academy][series1], _Queensland University of Technology_
+- [♥️ Robot Academy][series1], Professor Peter Corke, _Queensland University of Technology_
 - [MIT Open Courseware: Robotics][series9] 
 - _EdX_: [Robotics MicroMasters][series2], _University of Pennsylvania_
 - _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
@@ -31,26 +31,26 @@
 
 # Individual Robotics Courses
 
-### EdX
-- [Autonomous Mobile Robots][course1], _ETHZurich_
-- [Autonomous Navigation for Flying Robots][course2], _Technische Universitat Munchen_
-- [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
-- [Robotics][course4], _Columbia University in the city of New York_
-- Robot Mechanics and Control [Part I][course5] and [Part II][course6], _Seoul National University_
-- [Robotics Foundations I - Robot Modeling][course7] _Università degli Studi di Napoli Federico II_
-- [Hello (Real) World with ROS – Robot Operating System][course8] _Delft University of Technology_
-
-### Coursera
-- [Control of Mobile Robots][course9], _Georgia Institute of technology_
-
-### Others
+- _EdX_: [Autonomous Mobile Robots][course1], _ETHZurich_
+- _EdX_: [Autonomous Navigation for Flying Robots][course2], _Technische Universitat Munchen_
+- _EdX_: [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
+- _EdX_: [Robotics][course4], _Columbia University in the city of New York_
+- _EdX_: Robot Mechanics and Control [Part I][course5] and [Part II][course6], _Seoul National University_
+- _EdX_: [Robotics Foundations I - Robot Modeling][course7] _Università degli Studi di Napoli Federico II_
+- _EdX_: [Hello (Real) World with ROS – Robot Operating System][course8] _Delft University of Technology_
+- _Udacity_: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
+- _Coursera_: [Control of Mobile Robots][course9], _Georgia Institute of technology_
 - [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, _University of Freiburg_
 - [Introduction to Robotics][course11], Prof Oussama Khatib, _Stanford Engineering Everywhere_
 - [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, _University of Nevada, Reno_
-- [Deep-learning for Self-Driving Cars][course14], Lex Fridman, _Deep Learning for Self-Driving Cars_
+- [Deep-learning for Self-Driving Cars][course14], Lex Fridman, _Massachusetts Institute of Technology_
+- [Advanced Robotics (CS 287)][course19], Pieter Abbeel, _University of California at Berkeley_
+- [Underactuated Robotics][course20c] | [book][course20a] + [📺 channel][course20b], Russ Tedrake, _Massachusetts Institute of Technology_
+- [Visual Navigation for Flying Robot][course22], Jürgen Sturm, _Technical University of Munich_
 - [📺 SLAM playlist][course15], Dr Cyrill Stachniss, _University of Freiburg_
 - [📺 Robotics I][course16], Prof De Luca, _Universita di Roma_
 - [📺 SLAM Lectures][course18], Prof Clause Brenne, _Leibniz University Hannover_
+- [📺 Applied Robot Design (CS235)][course23], Reuben Brewer, _Standford University_
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
@@ -71,7 +71,13 @@
 [course17a]: http://robogrok.com/index.html
 [course17b]: https://www.youtube.com/user/asodemann3/videos
 [course18]: https://www.youtube.com/watch?v=B2qzYCeT9oQ&list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm
-
+[course19]: https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/
+[course20a]: http://underactuated.csail.mit.edu/underactuated.html
+[course20b]: https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/playlists
+[course20c]: http://underactuated.csail.mit.edu/Spring2020/
+[course21]: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+[course22]: https://vision.in.tum.de/teaching/ss2013/visnav2013
+[course23]: https://www.youtube.com/user/StanfordCS235/videos
 
 # Hands-on and Blogs
 
@@ -112,6 +118,7 @@
 - [Structure and Interpretation of Computer Programs][tools5]
 - [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
 - Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
+- [♥️ Autodesk Tinkercad][tools10]
 
 [tools1]: https://mithi.github.io/deep-blueberry/
 [tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
@@ -122,6 +129,7 @@
 [tools7]: https://www.shellscript.sh/
 [tools8]: https://swcarpentry.github.io/shell-novice/
 [tools9]: http://gitimmersion.com/
+[tools10]: https://www.tinkercad.com/
 
 
 # Related Lists
