@@ -29,40 +29,40 @@
 # Level 0: SUPER NEWBIE 
 
 ### Arduino 
-- :moneybag::bangbang::wave:[Affortable Very Basic Arduino Starter Kit from DFRobot](https://www.dfrobot.com/product-345.html)
-- :moneybag::bangbang:[Motor party add-on pack for Arduino](https://www.adafruit.com/product/171)
-- :moneybag::bangbang::books:[Simon Monk: Arduino Next Steps](https://www.amazon.com/Programming-Arduino-Next-Steps-Sketches/dp/0071830251/)
-- :bangbang::tv:[Jeremy Blum Arduino Playlist: 15 Videos](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84)
-- :bangbang::books:[Adafruit Motor Selection Guide](https://learn.adafruit.com/adafruit-motor-selection-guide?view=all)
-- :bangbang::books:[Adafruit Motor Shield V2 for Arduino](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino)
-- :paw_prints::books:[Simon Monk Basic Arduino: 18 lessons](https://learn.adafruit.com/adafruit-arduino-lesson-1-blink)
-- :paw_prints::books:[Adafruit Manual](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf)
-- :paw_prints::books:[Sparkfun Manual](https://cdn.sparkfun.com/datasheets/Kits/RedBoard_SIK_3.2.pdf)
-- :paw_prints::books:[DFRobot Manual](https://github.com/Arduinolibrary/DFRobot_Beginner_KIT/blob/master/DFR0100_Tutorial.pdf)
-- :paw_prints::tv:[Official Arduino Tutorials by the Creator of Arduino](https://www.youtube.com/playlist?list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd)
+- :moneybag::bangbang::wave: [Affortable Very Basic Arduino Starter Kit from DFRobot](https://www.dfrobot.com/product-345.html)
+- :moneybag::bangbang: [Motor party add-on pack for Arduino](https://www.adafruit.com/product/171)
+- :moneybag::bangbang::books: [Simon Monk: Arduino Next Steps](https://www.amazon.com/Programming-Arduino-Next-Steps-Sketches/dp/0071830251/)
+- :bangbang::tv: [Jeremy Blum Arduino Playlist: 15 Videos](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84)
+- :bangbang::books: [Adafruit Motor Selection Guide](https://learn.adafruit.com/adafruit-motor-selection-guide?view=all)
+- :bangbang::books: [Adafruit Motor Shield V2 for Arduino](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino)
+- :paw_prints::books: [Simon Monk Basic Arduino: 18 lessons](https://learn.adafruit.com/adafruit-arduino-lesson-1-blink)
+- :paw_prints::books: [Adafruit Manual](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf)
+- :paw_prints::books: [Sparkfun Manual](https://cdn.sparkfun.com/datasheets/Kits/RedBoard_SIK_3.2.pdf)
+- :paw_prints::books: [DFRobot Manual](https://github.com/Arduinolibrary/DFRobot_Beginner_KIT/blob/master/DFR0100_Tutorial.pdf)
+- :paw_prints::tv: [Official Arduino Tutorials by the Creator of Arduino](https://www.youtube.com/playlist?list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd)
 
 ### Raspberry Pi 
-- :moneybag::bangbang:[Adafruit: Raspberry Pi DIY Camera Pack](https://www.adafruit.com/product/3275) 
-- :moneybag::bangbang:[Raspberry Pi](https://www.adafruit.com/product/3055)
-- :bangbang::paw_prints::books:[Official Raspberry Pi Setting up Video from Raspberry Pi Foundations](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
-- :bangbang::wave::books:[DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam?view=all)
-- :paw_prints::books:[Simon Monk Basic Raspberry Pi: 13 lessons](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi)
+- :moneybag::bangbang: [Adafruit: Raspberry Pi DIY Camera Pack](https://www.adafruit.com/product/3275) 
+- :moneybag::bangbang: [Raspberry Pi](https://www.adafruit.com/product/3055)
+- :bangbang::paw_prints::books: [Official Raspberry Pi Setting up Video from Raspberry Pi Foundations](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
+- :bangbang::wave::books: [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam?view=all)
+- :paw_prints::books: [Simon Monk Basic Raspberry Pi: 13 lessons](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi)
 
 # Level 1: NOVICE
-- :moneybag::wave::books::tv:[Makeblock DIY Ultimate Robot Kit - Premium Quality - 10-in-1 Robot](https://www.amazon.com/Makeblock-DIY-Ultimate-Robot-Kit/dp/B00W6Y0Z4E/)
-  - :tv:[Review of the MakeBlock Kit](https://www.youtube.com/watch?v=aV73x3oj2w0)
-- :paw_prints::books:[Wiring up your creation: with Arduino and Raspberry Pi](http://learn.makeblock.com/en/step-1-wiring-color-marker-show-the-modules-connection-for-correct/)
-- :paw_prints::books:[Introduction to MakeBlock Ports](http://learn.makeblock.com/en/makeblock-orion/)
+- :moneybag::wave::books::tv: [Makeblock DIY Ultimate Robot Kit - Premium Quality - 10-in-1 Robot](https://www.amazon.com/Makeblock-DIY-Ultimate-Robot-Kit/dp/B00W6Y0Z4E/)
+  - :tv: [Review of the MakeBlock Kit](https://www.youtube.com/watch?v=aV73x3oj2w0)
+- :paw_prints::books: [Wiring up your creation: with Arduino and Raspberry Pi](http://learn.makeblock.com/en/step-1-wiring-color-marker-show-the-modules-connection-for-correct/)
+- :paw_prints::books: [Introduction to MakeBlock Ports](http://learn.makeblock.com/en/makeblock-orion/)
 
 # Level 2: INTERMEDIATE
-- :bangbang::wave::books:[Face Recognition Library](https://github.com/ageitgey/face_recognition)
-- :bangbang::wave::books:[Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826)
-- :wave::books:[Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
+- :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition)
+- :bangbang::wave::books: [Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826)
+- :wave::books: [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
 
 # Level 3: ADVANCED
-- :moneybag::bangbang::wave::books::tv:[Turtlebot3 Family](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
-- :moneybag::bangbang::wave::tv:[Robot Ignite Academy: ROS Basic in 5 days (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-basics-in-5-days/)
-- :moneybag::bangbang::wave::tv:[Robot Ignite Academy: MASTERING WITH ROS: TurtleBot 3 (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/mastering-with-ros-turtlebot3/)
+- :moneybag::bangbang::wave::books::tv: [Turtlebot3 Family](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+- :moneybag::bangbang::wave::tv: [Robot Ignite Academy: ROS Basic in 5 days (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-basics-in-5-days/)
+- :moneybag::bangbang::wave::tv: [Robot Ignite Academy: MASTERING WITH ROS: TurtleBot 3 (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/mastering-with-ros-turtlebot3/)
 
 # Where to go from here
 - You can checkout my repository [Robotics Coursework](https://github.com/mithi/robotics-coursework), it's a curated collection of places where you can learn robotics, algorithms, and other useful tools for aspiring robotics software engineers.
