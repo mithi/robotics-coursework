@@ -8,12 +8,13 @@
 - [Robot Academy][series1], _Queensland University of Technology_
 - [MIT Open Courseware: Robotics][series9]
 - _EdX_: [Robotics MicroMasters][series2], _University of Pennsylvania_
-- :dollar: _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
-- :dollar: _Coursera_: [Modern Robotics Specialization][series4], _Northwestern University_ 
+- _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
+- _Coursera_: [Modern Robotics Specialization][series4], _Northwestern University_
+- _Coursera_: [Self-Driving Cars][series10], University of Toronto
 - :dollar: _Udacity_: [Robotics Nanodegree][series5]
 - :dollar: _Udacity_: [Self-Driving Car Nanodegree][series6]
 - :dollar: _Udacity_: [Flying Car Nanodegree][series7]
-- :dollar: **ROS**: [Learn ROS Fast][series8], _Robot Ignite Academy_
+- :dollar: [Learn ROS Fast][series8], _Robot Ignite Academy_
 
 [series1]: http://robotacademy.net.au
 [series2]: https://www.edx.org/micromasters/pennx-robotics
@@ -24,6 +25,7 @@
 [series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
 [series8]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
 [series9]: https://ocw.mit.edu/search/ocwsearch.htm?q=robotics
+[series10]: https://www.coursera.org/specializations/self-driving-cars
 
 # Individual Robotics Courses
 
@@ -37,17 +39,17 @@
 - [Hello (Real) World with ROS – Robot Operating System][course8] _Delft University of Technology_
 
 ### Coursera
-- :dollar: [Control of Mobile Robots][course9], _Georgia Institute of technology_
+- [Control of Mobile Robots][course9], _Georgia Institute of technology_
 
 ### Others
-- [Autonomous Intelligent Systems][course10], _ Prof Wolfram Burgard et al, University of Freiburg_
-- [Introduction to Robotics][course11], _Prof Oussama Khatib, Stanford Engineering Everywhere_
-- [Introduction to Aerial Robotics][course13], _Dr Kostas Alexis, University of Nevada, Reno_
-- [Deep-learning for Self-Driving Cars][course14], _Lex Fridman, Deep Learning for Self-Driving Cars_
-- [SLAM playlist 📺][course15], _Dr Cyrill Stachniss, University of Freiburg_
-- [Robotics I 📺][course16], _Prof De Luca_, _Universita di Roma_
-- [Robogrok: Robotics][course17a] + [channel 📺][course17b], _Angela Sodemann_
-- [SLAM Lectures 📺][course18], _Prof Clause Brenne, Leibniz University Hannover_
+- [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, _University of Freiburg_
+- [Introduction to Robotics][course11], Prof Oussama Khatib, _Stanford Engineering Everywhere_
+- [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, _University of Nevada, Reno_
+- [Deep-learning for Self-Driving Cars][course14], Lex Fridman, _Deep Learning for Self-Driving Cars_
+- [SLAM playlist 📺][course15], Dr Cyrill Stachniss, _University of Freiburg_
+- [Robotics I 📺][course16], Prof De Luca, _Universita di Roma_
+- [Robogrok: Robotics][course17a] + [channel 📺][course17b], Angela Sodemann
+- [SLAM Lectures 📺][course18], Prof Clause Brenne, _Leibniz University Hannover_
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
