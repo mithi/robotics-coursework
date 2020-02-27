@@ -46,10 +46,10 @@
 - [Introduction to Robotics][course11], Prof Oussama Khatib, _Stanford Engineering Everywhere_
 - [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, _University of Nevada, Reno_
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, _Deep Learning for Self-Driving Cars_
-- [SLAM playlist 📺][course15], Dr Cyrill Stachniss, _University of Freiburg_
-- [Robotics I 📺][course16], Prof De Luca, _Universita di Roma_
-- [Robogrok: Robotics][course17a] + [channel 📺][course17b], Angela Sodemann
-- [SLAM Lectures 📺][course18], Prof Clause Brenne, _Leibniz University Hannover_
+- [📺 SLAM playlist][course15], Dr Cyrill Stachniss, _University of Freiburg_
+- [📺 Robotics I][course16], Prof De Luca, _Universita di Roma_
+- [📺 SLAM Lectures][course18], Prof Clause Brenne, _Leibniz University Hannover_
+- [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -78,7 +78,7 @@
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
-- [Building a DIY Arduino drone from scratch][h8] + [channel 📺][h13], _Joop Brooking_
+- [Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
 - [DIY Walkers][h9], _Ben Vagle_
 - [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
 - [Reality Bytes][h11], _Andrew Dahdouh_
@@ -101,7 +101,7 @@
 # Useful Concepts and Tools
 - [Deep Learning][tools1]
 - [Kalman Filters and Bayesian Thinking][tools2], _Roger R. Labbe_
-- Control Systems: _[Steve Brunton 📺][tools3]_ | _[Brian Douglas 📺][tools4]_
+- Control Systems: _[ 📺 Steve Brunton][tools3]_ | _[📺 Brian Douglas][tools4]_
 - [Structure and Interpretation of Computer Programs][tools5]
 - [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
 - Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
