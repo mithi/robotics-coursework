@@ -70,6 +70,7 @@
 
 
 # Hands-on and Blogs
+
 - [Donkey Car][h1]
 - [DIY Robocars][h2]
 - [MIT Race Car][h3]
@@ -77,7 +78,6 @@
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6]
 - [:dollar: Racecar RJ][h7]
-
 - [Building a DIY Arduino drone from scratch][h8], _Joop Brooking_
 - [DIY Walkers][h9], _Ben Vagle_
 - [Drones Dojo: Bootstrap your Drone Education][h10], _Caleb Bergquist_
