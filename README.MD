@@ -80,14 +80,14 @@
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
 
 # Hands-on and Blogs
-
+- [♥️ 📺 OpenDog: open source robot dog project][h14], _James Bruton_
+- [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
+- [♥️ DIY Walkers][h10], _Ben Vagle_
 - [Donkey Car][h1]
 - [DIY Robocars][h2]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
-- [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
-- [♥️ DIY Walkers][h10], _Ben Vagle_
 - [Drones Dojo: Bootstrap your Drone Education][h9], _Caleb Bergquist_
 - [Reality Bytes][h11], _Andrew Dahdouh_ | [Oscar Liang Blog][h12], _Oscar Liang_
 
@@ -104,6 +104,7 @@
 [h11]: https://realitybytes.blog/
 [h12]: https://oscarliang.com/
 [h13]: https://www.youtube.com/user/MacPuffdog/playlists
+[h14]: https://www.youtube.com/watch?v=0BoPoWF_FwY&list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf
 
 # Useful Concepts and Tools
 - [Deep Learning][tools1]
