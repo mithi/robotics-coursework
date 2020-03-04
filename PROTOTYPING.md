@@ -52,8 +52,7 @@
 # Level 2: INTERMEDIATE
 
 ### Facial Recognition project with Raspberry Pi
-  - :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition)
-  - :bangbang::wave::books: [Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826) | [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
+  - :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition) | [Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826) | [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
 
 ### Mechanical Prototyping
 - :moneybag: :bangbang::wave:[JJ Robots Projects with stepper motors](https://www.jjrobots.com/projects/)
