@@ -20,7 +20,7 @@
 - :heart: Level 2: (3-5 weekends)
   - Gain Intuition about Mechanical Prototyping and Design with dc brush motors, servo motors and stepper motors
   - Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
-- :heart: Level 3: (4-6 weekends)
+- :heart: Optional (Previously level 3) (4-6 weekends)
   - Build your own home-service robot with ROS and Turtlebot 3! 
 
 # Before Anything else: Some Inspirational Stuff 
@@ -62,7 +62,7 @@
   - :moneybag::wave::books::tv: [Makeblock DIY Ultimate Robot Kit - Premium Quality - 10-in-1 Robot](https://www.makeblock.com/steam-kits/mbot-ultimate) 
   - :books: [Wiring up your creation: with Arduino and Raspberry Pi](http://learn.makeblock.com/en/step-1-wiring-color-marker-show-the-modules-connection-for-correct/)| :books: [MakeBlock Ports](http://learn.makeblock.com/en/makeblock-orion/)
  
-# Level 3: ADVANCED
+# Optional (Previously level 3)
 - :moneybag::bangbang::wave::books::tv: [Turtlebot3 Family](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 - :moneybag::bangbang::wave::tv: [Robot Ignite Academy: ROS Basic in 5 days (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-basics-in-5-days/)
 - :moneybag::bangbang::wave::tv: [Robot Ignite Academy: MASTERING WITH ROS: TurtleBot 3 (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/mastering-with-ros-turtlebot3/)
