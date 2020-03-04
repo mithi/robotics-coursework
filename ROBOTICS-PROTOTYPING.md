@@ -15,18 +15,19 @@
 - :wave: Hands-on
 
 # Hands-on Learning Plan 
-- :heart: Level 0: Gain Strong Foundation in open-source electronics and prototyping 
-- :heart: Level 1: Gain Intuition about Mechanical Prototyping and Design 
-- :heart: Level 2: Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
-- :heart: Level 3: Build your own home-service robot with ROS and Turtlebot 3! 
-- Level 0, 1, and 2 take about one to three full weekends each.
-- Level 3 takes about 8 - 12 full weekends but I believe you'll find it very rewarding. :heart: 
+- :heart: Level 1: (2-3 weekends)
+  - Gain Strong Foundation in open-source electronics and prototyping 
+- :heart: Level 2: (3-5 weekends)
+  - Gain Intuition about Mechanical Prototyping and Design with dc brush motors, servo motors and stepper motors
+  - Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
+- :heart: Level 3: (4-6 weekends)
+  - Build your own home-service robot with ROS and Turtlebot 3! 
 
 # Before Anything else: Some Inspirational Stuff 
 - [A Raspberry Pi Hexy](https://hackernoon.com/a-raspberry-pi-hexy-transcript-62533c69a566) 
 - [Insights I gained from building a voice-activated robot](https://medium.freecodecamp.org/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3) 
 
-# Level 0: SUPER NEWBIE 
+# Level 1: Novice
 
 ### Arduino 
 - :moneybag::bangbang::wave: [Affortable Very Basic Arduino Starter Kit from DFRobot](https://www.dfrobot.com/product-345.html)
@@ -48,17 +49,19 @@
 - :bangbang::wave::books: [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam?view=all)
 - :paw_prints::books: [Simon Monk Basic Raspberry Pi: 13 lessons](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi)
 
-# Level 1: NOVICE
-- :moneybag::wave::books::tv: [Makeblock DIY Ultimate Robot Kit - Premium Quality - 10-in-1 Robot](https://www.amazon.com/Makeblock-DIY-Ultimate-Robot-Kit/dp/B00W6Y0Z4E/)
-  - :tv: [Review of the MakeBlock Kit](https://www.youtube.com/watch?v=aV73x3oj2w0)
-- :paw_prints::books: [Wiring up your creation: with Arduino and Raspberry Pi](http://learn.makeblock.com/en/step-1-wiring-color-marker-show-the-modules-connection-for-correct/)
-- :paw_prints::books: [Introduction to MakeBlock Ports](http://learn.makeblock.com/en/makeblock-orion/)
-
 # Level 2: INTERMEDIATE
-- :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition)
-- :bangbang::wave::books: [Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826)
-- :wave::books: [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
 
+### Facial Recognition project with Raspberry Pi
+  - :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition)
+  - :bangbang::wave::books: [Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826) | [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
+
+### Mechanical Prototyping
+- :moneybag: :bangbang::wave:[JJ Robots Projects with stepper motors](https://www.jjrobots.com/projects/)
+  - Egg drawer robot, board drawing robot, scara robot arm, balancing robot, hockey robot, camera slider
+- Mechanical prototyping with Makeblock
+  - :moneybag::wave::books::tv: [Makeblock DIY Ultimate Robot Kit - Premium Quality - 10-in-1 Robot](https://www.makeblock.com/steam-kits/mbot-ultimate) 
+  - :books: [Wiring up your creation: with Arduino and Raspberry Pi](http://learn.makeblock.com/en/step-1-wiring-color-marker-show-the-modules-connection-for-correct/)| :books: [MakeBlock Ports](http://learn.makeblock.com/en/makeblock-orion/)
+ 
 # Level 3: ADVANCED
 - :moneybag::bangbang::wave::books::tv: [Turtlebot3 Family](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 - :moneybag::bangbang::wave::tv: [Robot Ignite Academy: ROS Basic in 5 days (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-basics-in-5-days/)
