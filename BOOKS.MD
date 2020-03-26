@@ -16,3 +16,6 @@
 - Introduction to Autonomous Mobile Robots, _Roland Siegwart_
 - Planning Algorithms, _Steven M. La Valle_
 - Robot Motion Planning, _Jean-Claude Latombe_
+- Probabilistic Robotics, _Sebastian Thrun, Wolfram Burgard, Dieter Fox_
+- Robotics, Vision and Control, _Peter Corke_
+- Computational Principles of Mobile Robotics, _Gregory Dudek, Michael Jenkin_
