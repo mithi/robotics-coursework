@@ -80,11 +80,13 @@
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
 
 # Hands-on and Blogs
+- [♥️ Mithi's Robotics Blog](https://mithi.github.io/robotics-blog/)
 - [♥️ 📺 OpenDog: open source robot dog project][h14], _James Bruton_
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], _Joop Brooking_
 - [♥️ DIY Walkers][h10], _Ben Vagle_
 - [Donkey Car][h1]
 - [DIY Robocars][h2]
+- [Formula Pi](https://www.formulapi.com/)
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
@@ -131,7 +133,8 @@
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
 [Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
 [Kiloreux](https://github.com/Kiloreux/awesome-robotics)
-- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3]
+- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3] | [Hackaday](https://hackaday.com/)
+- [Adafruit](https://adafruit.com/) | [Sparkfun](https://www.sparkfun.com/)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
