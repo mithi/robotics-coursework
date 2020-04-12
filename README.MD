@@ -7,13 +7,13 @@
 
 - [♥️ Robot Academy][series1], Prof Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
-- _EdX_: [Robotics MicroMasters][series2], University of Pennsylvania
-- _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
-- _Coursera_: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
-- _Coursera_: [Self-Driving Cars][series10], University of Toronto
-- :dollar: _Udacity_: [Robotics Nanodegree][series5]
-- :dollar: _Udacity_: [Self-Driving Car Nanodegree][series6]
-- :dollar: _Udacity_: [Flying Car Nanodegree][series7]
+- EdX: [Robotics MicroMasters][series2], University of Pennsylvania
+- Coursera: [Robotics Specialization][series3], University of Pennsylvania
+- Coursera: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
+- Coursera: [Self-Driving Cars][series10], University of Toronto
+- :dollar: Udacity: [Robotics Nanodegree][series5]
+- :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
+- :dollar: Udacity: [Flying Car Nanodegree][series7]
 - :dollar: [Learn ROS Fast][series8], Robot Ignite Academy
 
 [series1]: http://robotacademy.net.au
@@ -31,15 +31,15 @@
 
 # Individual Robotics Courses
 
-- _EdX_: [Autonomous Mobile Robots][course1], ETHZurich
-- _EdX_: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
-- _EdX_: [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
-- _EdX_: [Robotics][course4], Columbia University in the city of New York
-- _EdX_: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
-- _EdX_: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
-- _EdX_: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- _Udacity_: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
-- _Coursera_: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
+- EdX: [Autonomous Mobile Robots][course1], ETHZurich
+- EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
+- EdX: [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
+- EdX: [Robotics][course4], Columbia University in the city of New York
+- EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
+- EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
+- EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
+- Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
+- Coursera: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
 - [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Prof Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, University of Nevada, Reno
@@ -113,7 +113,7 @@
 
 # Useful Concepts and Tools
 - [♥️ Autodesk Tinkercad][tools10]
-- [Deep Learning][tools1]
+- [♥️ Deep Learning][tools1]
 - [Kalman Filters and Bayesian Thinking][tools2], Roger R. Labbe
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
 - [Structure and Interpretation of Computer Programs][tools5]
