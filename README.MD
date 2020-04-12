@@ -1,19 +1,18 @@
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) 
-```
-33Mudy961bUk9zz35p68g9fE3uuHLRduRp
-```
+
+If there's anything you think you should be included here, you can submit an issue and I'll check it out.
 
 # Robotics Series of Courses
 
 - [♥️ Robot Academy][series1], Prof Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
-- _EdX_: [Robotics MicroMasters][series2], University of Pennsylvania
-- _Coursera_: [Robotics Specialization][series3], _University of Pennsylvania_
-- _Coursera_: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
-- _Coursera_: [Self-Driving Cars][series10], University of Toronto
-- :dollar: _Udacity_: [Robotics Nanodegree][series5]
-- :dollar: _Udacity_: [Self-Driving Car Nanodegree][series6]
-- :dollar: _Udacity_: [Flying Car Nanodegree][series7]
+- EdX: [Robotics MicroMasters][series2], University of Pennsylvania
+- Coursera: [Robotics Specialization][series3], University of Pennsylvania
+- Coursera: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
+- Coursera: [Self-Driving Cars][series10], University of Toronto
+- :dollar: Udacity: [Robotics Nanodegree][series5]
+- :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
+- :dollar: Udacity: [Flying Car Nanodegree][series7]
 - :dollar: [Learn ROS Fast][series8], Robot Ignite Academy
 
 [series1]: http://robotacademy.net.au
@@ -31,15 +30,15 @@
 
 # Individual Robotics Courses
 
-- _EdX_: [Autonomous Mobile Robots][course1], ETHZurich
-- _EdX_: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
-- _EdX_: [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
-- _EdX_: [Robotics][course4], Columbia University in the city of New York
-- _EdX_: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
-- _EdX_: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
-- _EdX_: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- _Udacity_: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
-- _Coursera_: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
+- EdX: [Autonomous Mobile Robots][course1], ETHZurich
+- EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
+- EdX: [Underactuated Robotics][course3], Massachusetts Institute of Technology
+- EdX: [Robotics][course4], Columbia University in the city of New York
+- EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
+- EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
+- EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
+- Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
+- Coursera: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
 - [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Prof Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, University of Nevada, Reno
@@ -85,14 +84,15 @@
 - [♥️ 📺 OpenDog: open source robot dog project][h14], James Bruton
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
 - [♥️ DIY Walkers][h10], Ben Vagle
-- [Donkey Car][h1]
-- [DIY Robocars][h2]
-- [Formula Pi](https://www.formulapi.com/)
+- [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21]
+- [Beatty Robotics][h18]
+- [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [Drones Dojo: Bootstrap your Drone Education][h9], Caleb Bergquist
 - [Reality Bytes][h11], Andrew Dahdouh | [Oscar Liang Blog][h12], Oscar Liang
+- [Simone Giertz][h23] | [Naomi RealSexyCyborg Wu][h24]
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -110,10 +110,17 @@
 [h14]: https://www.youtube.com/watch?v=0BoPoWF_FwY&list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf
 [h15]: https://mithi.github.io/robotics-blog/
 [h16]: https://github.com/mithi/hexapod-robot-simulator
+[h17]: https://www.formulapi.com/
+[h18]: https://beatty-robotics.com/
+[h19]: https://akiyuki.jp/en/
+[h20]: http://www.planet-gbc.com/
+[h21]: https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/
+[h23]: http://www.simonegiertz.com/
+[h24]: https://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA
 
 # Useful Concepts and Tools
 - [♥️ Autodesk Tinkercad][tools10]
-- [Deep Learning][tools1]
+- [♥️ Deep Learning][tools1]
 - [Kalman Filters and Bayesian Thinking][tools2], Roger R. Labbe
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
 - [Structure and Interpretation of Computer Programs][tools5]
@@ -132,18 +139,18 @@
 [tools10]: https://www.tinkercad.com/
 
 
-# Related Lists
-- [Ahundt](https://github.com/ahundt/awesome-robotics) |
+# Related
+[Ahundt](https://github.com/ahundt/awesome-robotics) |
 [Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
-[Kiloreux](https://github.com/Kiloreux/awesome-robotics)
-- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3] | [Hackaday](https://hackaday.com/)
-- [Adafruit](https://adafruit.com/) | [Sparkfun](https://www.sparkfun.com/)
+[Kiloreux](https://github.com/Kiloreux/awesome-robotics) |
+[Instructables][related1] | [Hackster][related2] | 
+[Thingiverse][related3] | 
+[Hackaday](https://hackaday.com/) |
+[Adafruit](https://adafruit.com/) | 
+[Sparkfun](https://www.sparkfun.com/)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
 [related3]: https://www.thingiverse.com/search?q=robot
 
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi)
-```
-33Mudy961bUk9zz35p68g9fE3uuHLRduRp
-```
