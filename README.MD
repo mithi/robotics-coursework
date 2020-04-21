@@ -1,7 +1,4 @@
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) 
-```
-33Mudy961bUk9zz35p68g9fE3uuHLRduRp
-```
 
 # Robotics Series of Courses
 
@@ -33,7 +30,7 @@
 
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
 - EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
-- EdX: [Underactuated Robotics][course3], _Massachusetts Institute of Technology_
+- EdX: [Underactuated Robotics][course3], Massachusetts Institute of Technology
 - EdX: [Robotics][course4], Columbia University in the city of New York
 - EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
@@ -85,9 +82,7 @@
 - [♥️ 📺 OpenDog: open source robot dog project][h14], James Bruton
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
 - [♥️ DIY Walkers][h10], Ben Vagle
-- [Donkey Car][h1]
-- [DIY Robocars][h2]
-- [Formula Pi](https://www.formulapi.com/)
+- [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
@@ -110,6 +105,7 @@
 [h14]: https://www.youtube.com/watch?v=0BoPoWF_FwY&list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf
 [h15]: https://mithi.github.io/robotics-blog/
 [h16]: https://github.com/mithi/hexapod-robot-simulator
+[h17]: https://www.formulapi.com/
 
 # Useful Concepts and Tools
 - [♥️ Autodesk Tinkercad][tools10]
@@ -132,18 +128,18 @@
 [tools10]: https://www.tinkercad.com/
 
 
-# Related Lists
-- [Ahundt](https://github.com/ahundt/awesome-robotics) |
+# Related
+[Ahundt](https://github.com/ahundt/awesome-robotics) |
 [Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
-[Kiloreux](https://github.com/Kiloreux/awesome-robotics)
-- [Instructables][related1] | [Hackster][related2] | [Thingiverse][related3] | [Hackaday](https://hackaday.com/)
-- [Adafruit](https://adafruit.com/) | [Sparkfun](https://www.sparkfun.com/)
+[Kiloreux](https://github.com/Kiloreux/awesome-robotics) |
+[Instructables][related1] | [Hackster][related2] | 
+[Thingiverse][related3] | 
+[Hackaday](https://hackaday.com/) |
+[Adafruit](https://adafruit.com/) | 
+[Sparkfun](https://www.sparkfun.com/)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
 [related3]: https://www.thingiverse.com/search?q=robot
 
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi)
-```
-33Mudy961bUk9zz35p68g9fE3uuHLRduRp
-```
