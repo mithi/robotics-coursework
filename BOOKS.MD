@@ -19,3 +19,4 @@ Professor Peter Corke compiled a list of [his favorite robotics books](https://p
 
 # Misc
 - The Unofficial LEGO Technic Builder's Guide, 2nd Edition, Pawel Sariel Kmiec
+- Any book by Yoshihito Isogawa
