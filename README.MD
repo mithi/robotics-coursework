@@ -1,5 +1,7 @@
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) 
 
+If there's anything you think you should be included here, you can submit an issue and I'll check it out.
+
 # Robotics Series of Courses
 
 - [♥️ Robot Academy][series1], Prof Peter Corke, Queensland University of Technology
@@ -82,12 +84,15 @@
 - [♥️ 📺 OpenDog: open source robot dog project][h14], James Bruton
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
 - [♥️ DIY Walkers][h10], Ben Vagle
+- [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21] | [Jason + Kristal Brickworks][h22]
+- [Beatty Robotics][h18]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [Drones Dojo: Bootstrap your Drone Education][h9], Caleb Bergquist
 - [Reality Bytes][h11], Andrew Dahdouh | [Oscar Liang Blog][h12], Oscar Liang
+- [Simone Giertz][h23] | [Naomi RealSexyCyborg Wu][h24]
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -106,6 +111,13 @@
 [h15]: https://mithi.github.io/robotics-blog/
 [h16]: https://github.com/mithi/hexapod-robot-simulator
 [h17]: https://www.formulapi.com/
+[h18]: https://beatty-robotics.com/
+[h19]: https://akiyuki.jp/en/
+[h20]: http://www.planet-gbc.com/
+[h21]: https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/
+[h22]: https://jkbrickworks.com/category/models/
+[h23]: http://www.simonegiertz.com/
+[h24]: https://www.instagram.com/reallysexycyborg/?hl=en
 
 # Useful Concepts and Tools
 - [♥️ Autodesk Tinkercad][tools10]
