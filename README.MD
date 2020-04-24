@@ -84,7 +84,7 @@ If there's anything you think you should be included here, you can submit an iss
 - [♥️ 📺 OpenDog: open source robot dog project][h14], James Bruton
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
 - [♥️ DIY Walkers][h10], Ben Vagle
-- [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21] | [Jason + Kristal Brickworks][h22]
+- [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21]
 - [Beatty Robotics][h18]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
@@ -115,9 +115,8 @@ If there's anything you think you should be included here, you can submit an iss
 [h19]: https://akiyuki.jp/en/
 [h20]: http://www.planet-gbc.com/
 [h21]: https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/
-[h22]: https://jkbrickworks.com/category/models/
 [h23]: http://www.simonegiertz.com/
-[h24]: https://www.instagram.com/reallysexycyborg/?hl=en
+[h24]: https://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA
 
 # Useful Concepts and Tools
 - [♥️ Autodesk Tinkercad][tools10]
