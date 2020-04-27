@@ -1,6 +1,6 @@
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) 
 
-If there's anything you think you should be included here, you can submit an issue and I'll check it out.
+If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
 # Robotics Series of Courses
 
@@ -79,19 +79,19 @@ If there's anything you think you should be included here, you can submit an iss
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
 
 # Hands-on and Blogs
-- [♥️ Mithi's Bare Minimum Hexapod Robot Simulator][h16]
-- [♥️ Mithi's Robotics Blog][h15]
+- [♥️ Mithi's Bare Minimum Hexapod Robot Simulator][h16] | [Mithi's Robotics Blog][h15]
 - [♥️ 📺 OpenDog: open source robot dog project][h14], James Bruton
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
 - [♥️ DIY Walkers][h10], Ben Vagle
 - [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21]
+- [PythonRobotics][h25], Atsushi Sakai
 - [Beatty Robotics][h18]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [Drones Dojo: Bootstrap your Drone Education][h9], Caleb Bergquist
-- [Reality Bytes][h11], Andrew Dahdouh | [Oscar Liang Blog][h12], Oscar Liang
+- [Reality Bytes][h11], Andrew Dahdouh | [Oscar Liang Blog][h12]
 - [Simone Giertz][h23] | [Naomi RealSexyCyborg Wu][h24]
 
 [h1]: http://www.donkeycar.com/
@@ -117,11 +117,12 @@ If there's anything you think you should be included here, you can submit an iss
 [h21]: https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/
 [h23]: http://www.simonegiertz.com/
 [h24]: https://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA
+[h25]: https://github.com/AtsushiSakai/PythonRobotics
 
 # Useful Concepts and Tools
 - [♥️ Autodesk Tinkercad][tools10]
 - [♥️ Deep Learning][tools1]
-- [Kalman Filters and Bayesian Thinking][tools2], Roger R. Labbe
+- Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
 - [Structure and Interpretation of Computer Programs][tools5]
 - [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
@@ -137,20 +138,24 @@ If there's anything you think you should be included here, you can submit an iss
 [tools8]: https://swcarpentry.github.io/shell-novice/
 [tools9]: http://gitimmersion.com/
 [tools10]: https://www.tinkercad.com/
+[tools11]: https://github.com/balzer82/Kalman
 
 
 # Related
-[Ahundt](https://github.com/ahundt/awesome-robotics) |
+- [Ahundt](https://github.com/ahundt/awesome-robotics) |
 [Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
-[Kiloreux](https://github.com/Kiloreux/awesome-robotics) |
-[Instructables][related1] | [Hackster][related2] | 
+[Kiloreux](https://github.com/Kiloreux/awesome-robotics)
+- [Instructables][related1] | 
+[Hackster][related2] | 
 [Thingiverse][related3] | 
 [Hackaday](https://hackaday.com/) |
 [Adafruit](https://adafruit.com/) | 
-[Sparkfun](https://www.sparkfun.com/)
+[Sparkfun](https://www.sparkfun.com/) | 
+[Robot Shop][related4]
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
 [related3]: https://www.thingiverse.com/search?q=robot
+[related4]: https://www.robotshop.com/community/robot
 
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi)
