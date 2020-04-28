@@ -1,17 +1,16 @@
-# ROBOTICS PROTOTYPING FROM ZERO TO HERO
-If you want to make robots, but you don't know where to start, you can start here.
-
-# Goals
-- Gain Strong Foundation in open-source electronics and prototyping 
-- Gain Intuition about Mechanical Prototyping and Design with dc brush motors, servo motors and stepper motors
-- Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
-
+If you want to make robots, but you don't know where to start, well, you can start here.
 - :books: Read / Text
 - :tv: Watch / Video
 - :moneybag: Buy / Required purchase
 - :paw_prints: Very easy / Skimmable
 - ::bangbang: Essential / Most helpful
 - :wave: Hands-on
+
+
+# Goals
+- Gain Strong Foundation in open-source electronics and prototyping 
+- Gain Intuition about Mechanical Prototyping and Design with dc brush motors, servo motors and stepper motors
+- Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
 
 ### Arduino 
 - :moneybag::bangbang::wave: [Affortable Very Basic Arduino Starter Kit from DFRobot](https://www.dfrobot.com/product-345.html)
