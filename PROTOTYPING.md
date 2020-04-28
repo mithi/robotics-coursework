@@ -1,33 +1,17 @@
 # ROBOTICS PROTOTYPING FROM ZERO TO HERO
+If you want to make robots, but you don't know where to start, you can start here.
 
-# Introduction
-- The purpose of this learning plan is for anyone to acquire a strong foundation of electronic and mechanical prototyping to build your own physical robots. It is designed specifically for people with at least some experience in basic coding (any language) but with no background in electronics and/or robotics. Upon completion, you should be be able build your own domestic home service robot from scratch and give you the confidence to independently build the robot of your dreams. There are many good tutorials scattered all over the web but they assume you have basic knowledge in the said areas. Upon finishing this self-learning plan, following any online tutorials to add the features you want to your robot should be a breeze. 
-- Most of the materials here are completely free, however some require purchase those with a (moneybag) :moneybag:icon. I am not paid to endorse any of these products. 
-- The ones with the (double exclamation) :bangbang: icon are the source materials which I believe are essential. 
-- Some source materials here are redundant, the purpose of the redundancy is to reinforce ideas. You might feel that some materials are insulting to your intelligence. These are the skimmable materials with the (paw prints) :paw_prints: icon. Based on my experience when I started out, reading the same topic from different source materials strengthened my understanding to the point that I know them like the back of my hand. You can regard them as optional (IE skip them) but I encourage you to at least skim them. You don't have to follow the instructions laid out on the skimmable materials, however, I suggest you read them maybe like 30 minutes before sleeping at night.
+# Goals
+- Gain Strong Foundation in open-source electronics and prototyping 
+- Gain Intuition about Mechanical Prototyping and Design with dc brush motors, servo motors and stepper motors
+- Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
 
-# ICONS 
 - :books: Read / Text
 - :tv: Watch / Video
 - :moneybag: Buy / Required purchase
 - :paw_prints: Very easy / Skimmable
 - ::bangbang: Essential / Most helpful
 - :wave: Hands-on
-
-# Hands-on Learning Plan 
-- :heart: Level 1: (2-3 weekends)
-  - Gain Strong Foundation in open-source electronics and prototyping 
-- :heart: Level 2: (3-5 weekends)
-  - Gain Intuition about Mechanical Prototyping and Design with dc brush motors, servo motors and stepper motors
-  - Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
-- :heart: Optional (Previously level 3) (4-6 weekends)
-  - Build your own home-service robot with ROS and Turtlebot 3! 
-
-# Before Anything else: Some Inspirational Stuff 
-- [A Raspberry Pi Hexy](https://hackernoon.com/a-raspberry-pi-hexy-transcript-62533c69a566) 
-- [Insights I gained from building a voice-activated robot](https://medium.freecodecamp.org/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3) 
-
-# Level 1: Novice
 
 ### Arduino 
 - :moneybag::bangbang::wave: [Affortable Very Basic Arduino Starter Kit from DFRobot](https://www.dfrobot.com/product-345.html)
@@ -49,8 +33,6 @@
 - :bangbang::wave::books: [DIY WiFi Raspberry Pi Touchscreen Camera](https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam?view=all)
 - :paw_prints::books: [Simon Monk Basic Raspberry Pi: 13 lessons](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi)
 
-# Level 2: INTERMEDIATE
-
 ### Facial Recognition project with Raspberry Pi
   - :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition) | [Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826) | [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
 
@@ -61,10 +43,3 @@
   - :moneybag::wave::books::tv: [Makeblock DIY Ultimate Robot Kit - Premium Quality - 10-in-1 Robot](https://www.makeblock.com/steam-kits/mbot-ultimate) 
   - :books: [Wiring up your creation: with Arduino and Raspberry Pi](http://learn.makeblock.com/en/step-1-wiring-color-marker-show-the-modules-connection-for-correct/)| :books: [MakeBlock Ports](http://learn.makeblock.com/en/makeblock-orion/)
  
-# Optional (Previously level 3)
-- :moneybag::bangbang::wave::books::tv: [Turtlebot3 Family](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
-- :moneybag::bangbang::wave::tv: [Robot Ignite Academy: ROS Basic in 5 days (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-basics-in-5-days/)
-- :moneybag::bangbang::wave::tv: [Robot Ignite Academy: MASTERING WITH ROS: TurtleBot 3 (Python)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/mastering-with-ros-turtlebot3/)
-
-# Where to go from here
-- You can checkout my repository [Robotics Coursework](https://github.com/mithi/robotics-coursework), it's a curated collection of places where you can learn robotics, algorithms, and other useful tools for aspiring robotics software engineers.
