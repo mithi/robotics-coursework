@@ -80,7 +80,7 @@ If there's anything you think should be included here, you can submit an issue a
 
 # Hands-on and Blogs
 - [♥️ Mithi's Bare Minimum Hexapod Robot Simulator][h16] | [Mithi's Robotics Blog][h15]
-- [♥️ 📺 OpenDog: open source robot dog project][h14], James Bruton
+- [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
 - [♥️ DIY Walkers][h10], Ben Vagle
 - [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21]
@@ -91,8 +91,8 @@ If there's anything you think should be included here, you can submit an issue a
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [Drones Dojo: Bootstrap your Drone Education][h9], Caleb Bergquist
-- [Reality Bytes][h11], Andrew Dahdouh | [Oscar Liang Blog][h12]
-- [Simone Giertz][h23] | [Naomi RealSexyCyborg Wu][h24]
+- [Prof Daniela Rus][h26] | [Sarah Tang][h28]
+- [Andrew Dahdouh][h11] | [Oscar Liang][h12]
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -115,9 +115,10 @@ If there's anything you think should be included here, you can submit an issue a
 [h19]: https://akiyuki.jp/en/
 [h20]: http://www.planet-gbc.com/
 [h21]: https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/
-[h23]: http://www.simonegiertz.com/
-[h24]: https://www.youtube.com/channel/UCh_ugKacslKhsGGdXP0cRRA
 [h25]: https://github.com/AtsushiSakai/PythonRobotics
+[h26]: http://danielarus.csail.mit.edu/index.php/projects/
+[h27]: https://www.youtube.com/watch?v=DfBF26DaT-M
+[h28]: https://www.sarahtang.net/
 
 # Useful Concepts and Tools
 - [♥️ Autodesk Tinkercad][tools10]
@@ -151,7 +152,7 @@ If there's anything you think should be included here, you can submit an issue a
 [Hackaday](https://hackaday.com/) |
 [Adafruit](https://adafruit.com/) | 
 [Sparkfun](https://www.sparkfun.com/) | 
-[Robot Shop][related4]
+[Robotshop][related4]
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot

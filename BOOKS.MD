@@ -1,4 +1,4 @@
-Note: I haven't opened a robotics textbook, let alone a textbook in years, that's why this page is bare. 
+I haven't opened a robotics textbook, let alone a textbook, in years, that's why this page is bare. 
 Professor Peter Corke compiled a list of [his favorite robotics books](https://petercorke.com/resources/interesting-books/), you might want to check that out.
 
 # Electronics
@@ -14,8 +14,8 @@ Professor Peter Corke compiled a list of [his favorite robotics books](https://p
 -  Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig
 
 # Engineering
-- Mechanism and Dynamics of Machinery, Hamilton Horth Mabie
-- Vector Mechanics for Engineers: Statics and Dynamics, Ferdinand P. Beer et all
+- Mechanisms and Dynamics of Machinery, Hamilton Horth Mabie
+- Vector Mechanics for Engineers: Statics and Dynamics, Ferdinand P. Beer et al
 
 # Misc
 - The Unofficial LEGO Technic Builder's Guide, 2nd Edition, Pawel Sariel Kmiec
