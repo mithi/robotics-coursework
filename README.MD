@@ -11,8 +11,10 @@ If there's anything you think should be included here, you can submit an issue a
 - Coursera: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
 - Coursera: [Self-Driving Cars][series10], University of Toronto
 - :dollar: Udacity: [Robotics Nanodegree][series5]
+- :dollar: Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
 - :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
 - :dollar: Udacity: [Flying Car Nanodegree][series7]
+- :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
 - :dollar: [Learn ROS Fast][series8], Robot Ignite Academy
 
 [series1]: http://robotacademy.net.au
@@ -21,12 +23,14 @@ If there's anything you think should be included here, you can submit an issue a
 [series4]: https://www.coursera.org/specializations/modernrobotics
 [series5]: https://www.udacity.com/robotics
 [series6]: https://www.udacity.com/drive
+[series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
 [series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
 [series8]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
 [series9]: https://ocw.mit.edu/search/ocwsearch.htm?q=robotics
 [series10]: https://www.coursera.org/specializations/self-driving-cars
 [series11a]: http://modernrobotics.org 
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
+[series12]: https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
 
 # Individual Robotics Courses
 
