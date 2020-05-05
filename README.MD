@@ -45,7 +45,7 @@ If there's anything you think should be included here, you can submit an issue a
 - Coursera: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
 - [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Prof Oussama Khatib, Stanford Engineering Everywhere
-- [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, University of Nevada, Reno
+- [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, University of Nevada
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
 - [Underactuated Robotics][course20c] | [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
@@ -55,6 +55,7 @@ If there's anything you think should be included here, you can submit an issue a
 - [📺 SLAM Lectures][course18], Prof Clause Brenne, Leibniz University Hannover
 - [📺 Applied Robot Design (CS235)][course23], Reuben Brewer, Standford University
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
+- [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -81,6 +82,7 @@ If there's anything you think should be included here, you can submit an issue a
 [course21]: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 [course22]: https://vision.in.tum.de/teaching/ss2013/visnav2013
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
+[course24]: https://www.autonomousrobotslab.com/education.html
 
 # Hands-on and Blogs
 - [♥️ Mithi's Bare Minimum Hexapod Robot Simulator][h16] | [Mithi's Robotics Blog][h15]
