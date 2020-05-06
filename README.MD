@@ -1,8 +1,11 @@
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) 
 
-If there's anything you think should be included here, you can submit an issue and I'll check it out.
+- If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
+- Check [this](./BOOKS.MD) short list if you like reading textbooks.
+- [Some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document includes a few Youtube channels focused on Making.
+- If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
-# Robotics Series of Courses
+# Series of Courses
 
 - [♥️ Robot Academy][series1], Prof Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
@@ -32,8 +35,9 @@ If there's anything you think should be included here, you can submit an issue a
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 [series12]: https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
 
-# Individual Robotics Courses
-
+# Single Courses
+- Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
+- Coursera: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
 - EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
 - EdX: [Underactuated Robotics][course3], Massachusetts Institute of Technology
@@ -41,8 +45,6 @@ If there's anything you think should be included here, you can submit an issue a
 - EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
-- Coursera: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
 - [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Prof Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, University of Nevada
@@ -96,7 +98,7 @@ If there's anything you think should be included here, you can submit an issue a
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
-- [Drones Dojo: Bootstrap your Drone Education][h9], Caleb Bergquist
+- [Drones Dojo][h9], Caleb Bergquist
 - [Prof Daniela Rus][h26] | [Sarah Tang][h28]
 - [Andrew Dahdouh][h11] | [Oscar Liang][h12]
 
@@ -127,9 +129,10 @@ If there's anything you think should be included here, you can submit an issue a
 [h28]: https://www.sarahtang.net/
 
 # Useful Concepts and Tools
-- [♥️ Autodesk Tinkercad][tools10]
-- [♥️ Deep Learning][tools1]
-- Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
+- ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
+- [♥️ 🐳 Deep Learning][tools1]
+- [The Theoretical Minimum][tools14], Leonard Susskind
+- Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11] | [AllenDowney Think Bayes][tools13]
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
 - [Structure and Interpretation of Computer Programs][tools5]
 - [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
@@ -144,9 +147,11 @@ If there's anything you think should be included here, you can submit an issue a
 [tools7]: https://www.shellscript.sh/
 [tools8]: https://swcarpentry.github.io/shell-novice/
 [tools9]: http://gitimmersion.com/
-[tools10]: https://www.tinkercad.com/
+[tools10]: https://www.autodesk.com/products/fusion-360/students-teachers-educators
 [tools11]: https://github.com/balzer82/Kalman
-
+[tools12]: https://www.onshape.com/
+[tools13]: https://github.com/AllenDowney/ThinkBayes2
+[tools14]: https://theoreticalminimum.com/
 
 # Related
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
