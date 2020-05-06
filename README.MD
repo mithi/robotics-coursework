@@ -2,7 +2,7 @@
 
 - If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
 - Check [this](./BOOKS.MD) short list if you like reading textbooks.
-- [Some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document includes a few Youtube channels focused on Making.
+- Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
 - If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
 # Series of Courses
@@ -157,13 +157,14 @@
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
 [Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
 [Kiloreux](https://github.com/Kiloreux/awesome-robotics)
-- [Instructables][related1] | 
+- [Adafruit](https://adafruit.com/) |
+[Instructables][related1] | 
 [Hackster][related2] | 
 [Thingiverse][related3] | 
-[Hackaday](https://hackaday.com/) |
-[Adafruit](https://adafruit.com/) | 
+[Hackaday](https://hackaday.com/) | 
 [Sparkfun](https://www.sparkfun.com/) | 
 [Robotshop][related4]
+- [Youtube channels focused on Making](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
