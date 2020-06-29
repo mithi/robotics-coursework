@@ -58,6 +58,7 @@
 - [📺 Applied Robot Design (CS235)][course23], Reuben Brewer, Standford University
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
+- [MEAM 620: Robotics][course25], University of Pennsylvania
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -85,9 +86,10 @@
 [course22]: https://vision.in.tum.de/teaching/ss2013/visnav2013
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
 [course24]: https://www.autonomousrobotslab.com/education.html
+[course25]: https://alliance.seas.upenn.edu/~meam620/wiki/index.php?n=Main.Projects
 
 # Hands-on and Blogs
-- [♥️ Mithi's Bare Minimum Hexapod Robot Simulator][h16] | [Mithi's Robotics Blog][h15]
+- ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
 - [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
 - [♥️ DIY Walkers][h10], Ben Vagle
@@ -101,6 +103,7 @@
 - [Drones Dojo][h9], Caleb Bergquist
 - [Prof Daniela Rus][h26] | [Sarah Tang][h28]
 - [Andrew Dahdouh][h11] | [Oscar Liang][h12]
+- [Robotics Today - A Series of Technical Talks][h31]
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -127,15 +130,18 @@
 [h26]: http://danielarus.csail.mit.edu/index.php/projects/
 [h27]: https://www.youtube.com/watch?v=DfBF26DaT-M
 [h28]: https://www.sarahtang.net/
+[h29]: https://hexapod.netlify.app/
+[h30]: https://github.com/mithi/hexapod
+[h31]: https://roboticstoday.github.io/watch.html
 
 # Useful Concepts and Tools
 - ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
 - [♥️ 🐳 Deep Learning][tools1]
-- [The Theoretical Minimum][tools14], Leonard Susskind
-- Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11] | [AllenDowney Think Bayes][tools13]
+- Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
 - [Structure and Interpretation of Computer Programs][tools5]
 - [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
+- [The Missing Semester of Your CS Education][tools15]
 - Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
 
 [tools1]: https://mithi.github.io/deep-blueberry/
@@ -152,6 +158,7 @@
 [tools12]: https://www.onshape.com/
 [tools13]: https://github.com/AllenDowney/ThinkBayes2
 [tools14]: https://theoreticalminimum.com/
+[tools15]: https://missing.csail.mit.edu/
 
 # Related
 - [Ahundt](https://github.com/ahundt/awesome-robotics) |
@@ -164,7 +171,7 @@
 [Hackaday](https://hackaday.com/) | 
 [Sparkfun](https://www.sparkfun.com/) | 
 [Robotshop][related4]
-- [Youtube channels focused on Making](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
+- [Youtube channels focused on Making](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679) | [Robotics Subreddit](https://www.reddit.com/r/robotics/)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
