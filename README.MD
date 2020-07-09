@@ -59,6 +59,7 @@
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
 - [MEAM 620: Robotics][course25], University of Pennsylvania
+- [ROBOTICS: Advanced Concepts and Analysis][course26], Ashitava Ghosal, Indian Institute of Science
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -87,6 +88,7 @@
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
 [course24]: https://www.autonomousrobotslab.com/education.html
 [course25]: https://alliance.seas.upenn.edu/~meam620/wiki/index.php?n=Main.Projects
+[course26]: https://mecheng.iisc.ac.in/~asitava/
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
