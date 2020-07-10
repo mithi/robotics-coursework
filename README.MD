@@ -88,7 +88,7 @@
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
 [course24]: https://www.autonomousrobotslab.com/education.html
 [course25]: https://alliance.seas.upenn.edu/~meam620/wiki/index.php?n=Main.Projects
-[course26]: https://mecheng.iisc.ac.in/~asitava/
+[course26]: https://nptel.ac.in/courses/112/108/112108093/#
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
