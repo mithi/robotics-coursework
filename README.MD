@@ -1,4 +1,4 @@
-# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) 
+# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) 
 
 - If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
 - Check [this](./BOOKS.MD) short list if you like reading textbooks.
@@ -50,7 +50,7 @@
 - [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, University of Nevada
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
-- [Underactuated Robotics][course20c] | [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
+- [♥️ Underactuated Robotics][course20c] | [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
 - [Visual Navigation for Flying Robot][course22], Jürgen Sturm, Technical University of Munich
 - [📺 SLAM playlist][course15], Dr Cyrill Stachniss, University of Freiburg
 - [📺 Robotics I][course16], Prof De Luca, Universita di Roma
@@ -59,7 +59,7 @@
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
 - [MEAM 620: Robotics][course25], University of Pennsylvania
-- [ROBOTICS: Advanced Concepts and Analysis][course26], Ashitava Ghosal, Indian Institute of Science
+- [Robotics: Advanced Concepts and Analysis][course26], Ashitava Ghosal, Indian Institute of Science
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -92,20 +92,19 @@
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
-- [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
-- [♥️ Building a DIY Arduino drone from scratch][h8] + [📺 channel][h13], Joop Brooking
-- [♥️ DIY Walkers][h10], Ben Vagle
 - [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21]
+- [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
+- [♥️ Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
+- [♥️ DIY Walkers][h10], Ben Vagle
+- [Drones Dojo][h9], Caleb Bergquist
 - [PythonRobotics][h25], Atsushi Sakai
-- [Beatty Robotics][h18]
+- [F1/10 by Penn Engineering ][h5]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
-- [F1/10 by Penn Engineering ][h5]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
-- [Drones Dojo][h9], Caleb Bergquist
-- [Prof Daniela Rus][h26] | [Sarah Tang][h28]
-- [Andrew Dahdouh][h11] | [Oscar Liang][h12]
-- [Robotics Today - A Series of Technical Talks][h31]
+- [Prof Daniela Rus][h26] | [Sarah Tang][h28] 
+- [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31]
+- [Beatty Robotics][h18]
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -134,16 +133,16 @@
 [h28]: https://www.sarahtang.net/
 [h29]: https://hexapod.netlify.app/
 [h30]: https://github.com/mithi/hexapod
-[h31]: https://roboticstoday.github.io/watch.html
+[h31]: https://moribots.github.io/
 
 # Useful Concepts and Tools
 - ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
 - [♥️ 🐳 Deep Learning][tools1]
 - Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
+- [SLAM for Dummies][tools16], Soren Riisgaard and Morten Rufus Blas 
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
-- [Structure and Interpretation of Computer Programs][tools5]
 - [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
-- [The Missing Semester of Your CS Education][tools15]
+- [The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
 
 [tools1]: https://mithi.github.io/deep-blueberry/
@@ -161,23 +160,34 @@
 [tools13]: https://github.com/AllenDowney/ThinkBayes2
 [tools14]: https://theoreticalminimum.com/
 [tools15]: https://missing.csail.mit.edu/
+[tools16]: https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf
 
-# Related
-- [Ahundt](https://github.com/ahundt/awesome-robotics) |
-[Jslee02](https://github.com/jslee02/awesome-robotics-libraries) |
-[Kiloreux](https://github.com/Kiloreux/awesome-robotics)
-- [Adafruit](https://adafruit.com/) |
-[Instructables][related1] | 
-[Hackster][related2] | 
-[Thingiverse][related3] | 
-[Hackaday](https://hackaday.com/) | 
-[Sparkfun](https://www.sparkfun.com/) | 
-[Robotshop][related4]
-- [Youtube channels focused on Making](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679) | [Robotics Subreddit](https://www.reddit.com/r/robotics/)
+# Related Lists
+| [Ahundt](https://github.com/ahundt/awesome-robotics)
+| [Jslee02](https://github.com/jslee02/awesome-robotics-libraries)
+| [Kiloreux](https://github.com/Kiloreux/awesome-robotics)
+| [Msadowki](https://github.com/msadowski/awesome-weekly-robotics)
+| [Protontypes](https://github.com/protontypes/awesome-robotic-tooling)
+| [Fkromer](https://github.com/fkromer/awesome-ros2)
+| [Harsh Maithani](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f)
+
+# Misc
+| [Adafruit](https://adafruit.com/)
+| [Instructables][related1]
+| [Hackster][related2]
+| [Thingiverse][related3] 
+| [Hackaday](https://hackaday.com/)
+| [Sparkfun](https://www.sparkfun.com/)
+| [Robotshop][related4]
+| [Robotics Today][related5]
+| [Robotics Subreddit](https://www.reddit.com/r/robotics/)
+| [Youtube channels](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
 [related3]: https://www.thingiverse.com/search?q=robot
 [related4]: https://www.robotshop.com/community/robot
+[related5]: https://roboticstoday.github.io/watch.html
 
-# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi)
+
+# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi)
