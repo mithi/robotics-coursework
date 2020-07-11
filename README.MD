@@ -102,9 +102,8 @@
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
-- [Prof Daniela Rus][h26] | [Sarah Tang][h28] 
+- [Prof Daniela Rus][h26] | [Sarah Tang][h28] | [Beatty Robotics][h18]
 - [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31]
-- [Beatty Robotics][h18]
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -144,6 +143,7 @@
 - [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
 - [The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
+- [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 [tools1]: https://mithi.github.io/deep-blueberry/
 [tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
@@ -180,8 +180,8 @@
 | [Sparkfun](https://www.sparkfun.com/)
 | [Robotshop][related4]
 | [Robotics Today][related5]
-| [Robotics Subreddit](https://www.reddit.com/r/robotics/)
-| [Youtube channels](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
+| [Reddit](https://www.reddit.com/r/robotics/)
+| [Youtube](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
