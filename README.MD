@@ -45,6 +45,7 @@
 - EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
+- [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Aerial Robotics][course13], Kostas Alexis, University of Nevada
@@ -60,6 +61,7 @@
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
 - [MEAM 620: Robotics][course25], University of Pennsylvania
 - [Robotics: Advanced Concepts and Analysis][course26], Ashitava Ghosal, Indian Institute of Science
+- [Introduction to Robotics][course28], Burton Ma, York University 
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -89,6 +91,8 @@
 [course24]: https://www.autonomousrobotslab.com/education.html
 [course25]: https://alliance.seas.upenn.edu/~meam620/wiki/index.php?n=Main.Projects
 [course26]: https://nptel.ac.in/courses/112/108/112108093/#
+[course27]: https://www.apex.ai/autoware-course
+[course28]: https://www.eecs.yorku.ca/course_archive/2017-18/W/4421/
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
@@ -96,7 +100,6 @@
 - [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [♥️ Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [♥️ DIY Walkers][h10], Ben Vagle
-- [Drones Dojo][h9], Caleb Bergquist
 - [PythonRobotics][h25], Atsushi Sakai
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
@@ -137,29 +140,19 @@
 - ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
 - [♥️ 🐳 Deep Learning][tools1]
 - Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
-- [SLAM for Dummies][tools16], Soren Riisgaard and Morten Rufus Blas 
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
-- [Unix and Internet Fundamentals][tools6], [The Unix Shell][tools7], [Shell Scripting][tools8]
-- [The Missing Semester of Your CS Education][tools15], MIT Open Learning
-- Algorithms and Data Structures, C++, Python, Octave, [Git][tools9]
+- [Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
+- Algorithms and Data Structures, C++, Python, Octave
 - [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 [tools1]: https://mithi.github.io/deep-blueberry/
 [tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
 [tools3]: https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 [tools4]: https://www.youtube.com/user/ControlLectures/featured
-[tools5]: https://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
-[tools6]: http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
-[tools7]: https://www.shellscript.sh/
-[tools8]: https://swcarpentry.github.io/shell-novice/
-[tools9]: http://gitimmersion.com/
 [tools10]: https://www.autodesk.com/products/fusion-360/students-teachers-educators
 [tools11]: https://github.com/balzer82/Kalman
 [tools12]: https://www.onshape.com/
-[tools13]: https://github.com/AllenDowney/ThinkBayes2
-[tools14]: https://theoreticalminimum.com/
 [tools15]: https://missing.csail.mit.edu/
-[tools16]: https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf
 
 # Related Lists
 | [Ahundt](https://github.com/ahundt/awesome-robotics)
