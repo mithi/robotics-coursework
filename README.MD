@@ -7,7 +7,7 @@
 
 # Series of Courses
 
-- [♥️ Robot Academy][series1], Prof Peter Corke, Queensland University of Technology
+- [♥️ Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
 - EdX: [Robotics MicroMasters][series2], University of Pennsylvania
 - Coursera: [Robotics Specialization][series3], University of Pennsylvania
@@ -37,7 +37,7 @@
 
 # Single Courses
 - Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
-- Coursera: [Control of Mobile Robots][course9], Dr. Magnus Egerstedt, Georgia Institute of technology
+- Coursera: [Control of Mobile Robots][course9], Magnus Egerstedt, Georgia Institute of technology
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
 - EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
 - EdX: [Underactuated Robotics][course3], Massachusetts Institute of Technology
@@ -45,16 +45,16 @@
 - EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- [Autonomous Intelligent Systems][course10], Prof Wolfram Burgard et al, University of Freiburg
-- [Introduction to Robotics][course11], Prof Oussama Khatib, Stanford Engineering Everywhere
-- [Introduction to Aerial Robotics][course13], Dr Kostas Alexis, University of Nevada
+- [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
+- [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
+- [Introduction to Aerial Robotics][course13], Kostas Alexis, University of Nevada
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
 - [♥️ Underactuated Robotics][course20c] | [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
 - [Visual Navigation for Flying Robot][course22], Jürgen Sturm, Technical University of Munich
-- [📺 SLAM playlist][course15], Dr Cyrill Stachniss, University of Freiburg
-- [📺 Robotics I][course16], Prof De Luca, Universita di Roma
-- [📺 SLAM Lectures][course18], Prof Clause Brenne, Leibniz University Hannover
+- [📺 SLAM playlist][course15], Cyrill Stachniss, University of Freiburg
+- [📺 Robotics I][course16], De Luca, Universita di Roma
+- [📺 SLAM Lectures][course18], Clause Brenne, Leibniz University Hannover
 - [📺 Applied Robot Design (CS235)][course23], Reuben Brewer, Standford University
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
@@ -92,13 +92,13 @@
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
-- [♥️ Akiyuki Kawaguchi][h19] | [Planet GBC][h20] | [Euro Bricks][h21]
+- [♥️ Akiyuki Kawaguchi][h19]
 - [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [♥️ Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [♥️ DIY Walkers][h10], Ben Vagle
 - [Drones Dojo][h9], Caleb Bergquist
 - [PythonRobotics][h25], Atsushi Sakai
-- [F1/10 by Penn Engineering ][h5]
+- [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
@@ -124,8 +124,6 @@
 [h17]: https://www.formulapi.com/
 [h18]: https://beatty-robotics.com/
 [h19]: https://akiyuki.jp/en/
-[h20]: http://www.planet-gbc.com/
-[h21]: https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/
 [h25]: https://github.com/AtsushiSakai/PythonRobotics
 [h26]: http://danielarus.csail.mit.edu/index.php/projects/
 [h27]: https://www.youtube.com/watch?v=DfBF26DaT-M
@@ -133,6 +131,7 @@
 [h29]: https://hexapod.netlify.app/
 [h30]: https://github.com/mithi/hexapod
 [h31]: https://moribots.github.io/
+[h32]: https://autorally.github.io/
 
 # Useful Concepts and Tools
 - ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
@@ -169,7 +168,8 @@
 | [Msadowki](https://github.com/msadowski/awesome-weekly-robotics)
 | [Protontypes](https://github.com/protontypes/awesome-robotic-tooling)
 | [Fkromer](https://github.com/fkromer/awesome-ros2)
-| [Harsh Maithani](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f)
+| [HarshMaithani](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f)
+| [Kanster](https://github.com/kanster/awesome-slam)
 
 # Misc
 | [Adafruit](https://adafruit.com/)
@@ -182,6 +182,8 @@
 | [Robotics Today][related5]
 | [Reddit](https://www.reddit.com/r/robotics/)
 | [Youtube](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
+| [Planet GBC](http://www.planet-gbc.com/)
+| [Euro Bricks](https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/)
 
 [related1]: https://www.instructables.com/howto/robot/
 [related2]: https://www.hackster.io/search?i=projects&q=robot
