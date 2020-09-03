@@ -52,6 +52,7 @@
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
 - [♥️ Underactuated Robotics][course20c] | [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
+- [Robotics Manipulation: Perception, Planning, and Control][course29] + [📺 channel][course29b], Russ Tedrake, Massachusetts Institute of Technology
 - [Visual Navigation for Flying Robot][course22], Jürgen Sturm, Technical University of Munich
 - [📺 SLAM playlist][course15], Cyrill Stachniss, University of Freiburg
 - [📺 Robotics I][course16], De Luca, Universita di Roma
@@ -93,6 +94,8 @@
 [course26]: https://nptel.ac.in/courses/112/108/112108093/#
 [course27]: https://www.apex.ai/autoware-course
 [course28]: https://www.eecs.yorku.ca/course_archive/2017-18/W/4421/
+[course29]: http://manipulation.mit.edu/
+[course29b]: https://www.youtube.com/watch?v=PGY-4LOPs7U
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
@@ -100,7 +103,7 @@
 - [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [♥️ Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [♥️ DIY Walkers][h10], Ben Vagle
-- [PythonRobotics][h25], Atsushi Sakai
+- [♥️ PythonRobotics][h25], Atsushi Sakai
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
@@ -139,11 +142,11 @@
 # Useful Concepts and Tools
 - ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
 - [♥️ 🐳 Deep Learning][tools1]
+- [♥️ Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
 - Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
-- [Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Algorithms and Data Structures, C++, Python, Octave
-- [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
+- [♥️ More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 [tools1]: https://mithi.github.io/deep-blueberry/
 [tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
