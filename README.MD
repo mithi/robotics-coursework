@@ -19,6 +19,7 @@
 - :dollar: Udacity: [Flying Car Nanodegree][series7]
 - :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
 - :dollar: [Learn ROS Fast][series8], Robot Ignite Academy
+- NPTEL: [https://nptel.ac.in/courses/107/106/107106090/] Introduction to Robotics, IIT Madras
 
 [series1]: http://robotacademy.net.au
 [series2]: https://www.edx.org/micromasters/pennx-robotics
@@ -45,6 +46,8 @@
 - EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
+- Udemy: ROS for Beginners: Basics, Motion and OpenCV [https://www.udemy.com/course/ros-essentials/learn/], Anish Koubaa
+- Udemy: ROS for Beginners II: Localization, Navigation and SLAM [https://www.udemy.com/course/ros-navigation/], Anish Koubaa
 - [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
