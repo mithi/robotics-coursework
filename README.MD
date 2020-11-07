@@ -19,7 +19,6 @@
 - :dollar: Udacity: [Flying Car Nanodegree][series7]
 - :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
 - :dollar: [Learn ROS Fast][series8], Robot Ignite Academy
-- NPTEL: [https://nptel.ac.in/courses/107/106/107106090/] Introduction to Robotics, IIT Madras
 
 [series1]: http://robotacademy.net.au
 [series2]: https://www.edx.org/micromasters/pennx-robotics
@@ -46,8 +45,8 @@
 - EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- Udemy: ROS for Beginners: Basics, Motion and OpenCV [https://www.udemy.com/course/ros-essentials/learn/], Anish Koubaa
-- Udemy: ROS for Beginners II: Localization, Navigation and SLAM [https://www.udemy.com/course/ros-navigation/], Anish Koubaa
+- Udemy: [ROS for Beginners: Basics, Motion and OpenCV][course30], Anish Koubaa
+- Udemy: [ROS for Beginners II: Localization, Navigation and SLAM][course31], Anish Koubaa
 - [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
@@ -66,6 +65,7 @@
 - [MEAM 620: Robotics][course25], University of Pennsylvania
 - [Robotics: Advanced Concepts and Analysis][course26], Ashitava Ghosal, Indian Institute of Science
 - [Introduction to Robotics][course28], Burton Ma, York University 
+- [NPTEL: Introduction to Robotics][course32], IIT Madras
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -99,6 +99,9 @@
 [course28]: https://www.eecs.yorku.ca/course_archive/2017-18/W/4421/
 [course29]: http://manipulation.mit.edu/
 [course29b]: https://www.youtube.com/watch?v=PGY-4LOPs7U
+[course30]: https://www.udemy.com/course/ros-essentials/learn/
+[course31]: https://www.udemy.com/course/ros-navigation/
+[course32]: https://nptel.ac.in/courses/107/106/107106090/
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
