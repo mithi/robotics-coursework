@@ -66,6 +66,9 @@
 - [Robotics: Advanced Concepts and Analysis][course26], Ashitava Ghosal, Indian Institute of Science
 - [Introduction to Robotics][course28], Burton Ma, York University 
 - [NPTEL: Introduction to Robotics][course32], IIT Madras
+- [CMSC828T Vision, Planning And Control In Aerial Robotics][course33], Yiannis Aloimonos, University of Maryland
+- [HKUST ELEC5660 Introduction to Aerial Robots][course34], Prof. Shaojie SHEN, Hong Kong University of Science and Technology
+- [ENAE 788M: Hands On Autonomous Aerial Robotics][course35], Nitin J. Sanket, Chahat Deep Singh, University of Maryland
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -102,6 +105,9 @@
 [course30]: https://www.udemy.com/course/ros-essentials/learn/
 [course31]: https://www.udemy.com/course/ros-navigation/
 [course32]: https://nptel.ac.in/courses/107/106/107106090/
+[course33]: https://cmsc828t.github.io/
+[course34]: https://gaowenliang.github.io/HKUST-ELEC5660-Introduction-to-Aerial-Robots/index.html
+[course35]: http://prg.cs.umd.edu/enae788m
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
@@ -110,6 +116,7 @@
 - [♥️ Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [♥️ DIY Walkers][h10], Ben Vagle
 - [♥️ PythonRobotics][h25], Atsushi Sakai
+- ♥️ [Spot Mini Mini][h33] + [Open Quadruped][h34]
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
@@ -144,13 +151,15 @@
 [h30]: https://github.com/mithi/hexapod
 [h31]: https://moribots.github.io/
 [h32]: https://autorally.github.io/
+[h33]: https://github.com/OpenQuadruped/spot_mini_mini
+[h34]: https://github.com/adham-elarabawy/open-quadruped
 
 # Useful Concepts and Tools
 - ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
 - [♥️ 🐳 Deep Learning][tools1]
 - [♥️ Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
-- Control Systems: [ 📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4]
+- Control Systems: [📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4] | [Tyler Veness][tool5]
 - Algorithms and Data Structures, C++, Python, Octave
 - [♥️ More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
@@ -161,6 +170,7 @@
 [tools10]: https://www.autodesk.com/products/fusion-360/students-teachers-educators
 [tools11]: https://github.com/balzer82/Kalman
 [tools12]: https://www.onshape.com/
+[tool5]: https://github.com/calcmogul/controls-engineering-in-frc
 [tools15]: https://missing.csail.mit.edu/
 
 # Related Lists
@@ -172,6 +182,7 @@
 | [Fkromer](https://github.com/fkromer/awesome-ros2)
 | [HarshMaithani](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f)
 | [Kanster](https://github.com/kanster/awesome-slam)
+| [Papers Related to Quadrotors](https://github.com/prgumd/prg_QuadrotorPapers)
 
 # Misc
 | [Adafruit](https://adafruit.com/)
