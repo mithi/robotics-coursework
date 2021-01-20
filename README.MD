@@ -9,7 +9,6 @@
 
 - [♥️ Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
-- EdX: [Robotics MicroMasters][series2], University of Pennsylvania
 - Coursera: [Robotics Specialization][series3], University of Pennsylvania
 - Coursera: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
 - Coursera: [Self-Driving Cars][series10], University of Toronto
@@ -19,9 +18,9 @@
 - :dollar: Udacity: [Flying Car Nanodegree][series7]
 - :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
 - :dollar: [Learn ROS Fast][series8], Robot Ignite Academy
+- :dollar: [Master's Certification Program in Autonomous Vehicles][series13], Skill Lync
 
 [series1]: http://robotacademy.net.au
-[series2]: https://www.edx.org/micromasters/pennx-robotics
 [series3]: https://www.coursera.org/specializations/robotics
 [series4]: https://www.coursera.org/specializations/modernrobotics
 [series5]: https://www.udacity.com/robotics
@@ -34,10 +33,16 @@
 [series11a]: http://modernrobotics.org 
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 [series12]: https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
+[series13]: https://skill-lync.com/courses/masters-certification-program-autonomous-driving
 
 # Single Courses
 - Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
 - Coursera: [Control of Mobile Robots][course9], Magnus Egerstedt, Georgia Institute of technology
+- EdX: [Robotics: Locomotion Engineering][course36], Dan Koditschek, University of Pennsylvania
+- EdX: [Robotics: Dynamics and Control][course37], Vijay Kumar, University of Pennsylvania
+- EdX: [Robotics: Vision Intelligence and Machine Learning][course38], Jianbo Shi, University of Pennsylvania
+- EdX: [Robotics: Kinematics and Mathematical Foundations][course39], Camillo J. Taylor, University of Pennsylvania
+- EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
 - EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
 - EdX: [Underactuated Robotics][course3], Massachusetts Institute of Technology
@@ -108,6 +113,11 @@
 [course33]: https://cmsc828t.github.io/
 [course34]: https://gaowenliang.github.io/HKUST-ELEC5660-Introduction-to-Aerial-Robots/index.html
 [course35]: http://prg.cs.umd.edu/enae788m
+[course36]: https://www.edx.org/course/robotics-locomotion-engineering
+[course37]: https://www.edx.org/course/robotics-dynamics-and-control
+[course38]: https://www.edx.org/micromasters/pennx-robotics
+[course39]: https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations
+[course40]: https://www.edx.org/course/self-driving-cars-with-duckietown
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
@@ -117,6 +127,7 @@
 - [♥️ DIY Walkers][h10], Ben Vagle
 - [♥️ PythonRobotics][h25], Atsushi Sakai
 - ♥️ [Spot Mini Mini][h33] + [Open Quadruped][h34]
+- [♥️ Duckie Town: minimal autonomy platforms][h35]
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
@@ -153,6 +164,7 @@
 [h32]: https://autorally.github.io/
 [h33]: https://github.com/OpenQuadruped/spot_mini_mini
 [h34]: https://github.com/adham-elarabawy/open-quadruped
+[h35]: https://www.duckietown.org/
 
 # Useful Concepts and Tools
 - ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
