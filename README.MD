@@ -115,7 +115,7 @@
 [course35]: http://prg.cs.umd.edu/enae788m
 [course36]: https://www.edx.org/course/robotics-locomotion-engineering
 [course37]: https://www.edx.org/course/robotics-dynamics-and-control
-[course38]: https://www.edx.org/micromasters/pennx-robotics
+[course38]: https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning
 [course39]: https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations
 [course40]: https://www.edx.org/course/self-driving-cars-with-duckietown
 
