@@ -17,7 +17,7 @@
 - :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
 - :dollar: Udacity: [Flying Car Nanodegree][series7]
 - :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
-- :dollar: [Learn ROS Fast][series8], Robot Ignite Academy
+- :dollar: [The Construct: Robotics Developers Course Library][series8], Robot Ignite Academy
 - :dollar: [Master's Certification Program in Autonomous Vehicles][series13], Skill Lync
 
 [series1]: http://robotacademy.net.au
@@ -27,7 +27,7 @@
 [series6]: https://www.udacity.com/drive
 [series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
 [series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
-[series8]: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
+[series8]: https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/
 [series9]: https://ocw.mit.edu/search/ocwsearch.htm?q=robotics
 [series10]: https://www.coursera.org/specializations/self-driving-cars
 [series11a]: http://modernrobotics.org 
@@ -41,7 +41,7 @@
 - EdX: [Robotics: Locomotion Engineering][course36], Dan Koditschek, University of Pennsylvania
 - EdX: [Robotics: Dynamics and Control][course37], Vijay Kumar, University of Pennsylvania
 - EdX: [Robotics: Vision Intelligence and Machine Learning][course38], Jianbo Shi, University of Pennsylvania
-- EdX: [Robotics: Kinematics and Mathematical Foundations][course39], Camillo J. Taylor, University of Pennsylvania
+- EdX: [Robotics: Kinematics and Mathematical Foundations][course39], Camillo Taylor, University of Pennsylvania
 - EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
 - EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
@@ -49,6 +49,8 @@
 - EdX: [Robotics][course4], Columbia University in the city of New York
 - EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
+- EdX: [Robotics Foundation II - Robot Control][course41], Bruno Siciliano, Università degli Studi di Napoli Federico II
+- EdX: [Robot Development][course42], Angelo Cangelosi, Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
 - Udemy: [ROS for Beginners: Basics, Motion and OpenCV][course30], Anish Koubaa
 - Udemy: [ROS for Beginners II: Localization, Navigation and SLAM][course31], Anish Koubaa
@@ -72,8 +74,8 @@
 - [Introduction to Robotics][course28], Burton Ma, York University 
 - [NPTEL: Introduction to Robotics][course32], IIT Madras
 - [CMSC828T Vision, Planning And Control In Aerial Robotics][course33], Yiannis Aloimonos, University of Maryland
-- [HKUST ELEC5660 Introduction to Aerial Robots][course34], Prof. Shaojie SHEN, Hong Kong University of Science and Technology
-- [ENAE 788M: Hands On Autonomous Aerial Robotics][course35], Nitin J. Sanket, Chahat Deep Singh, University of Maryland
+- [HKUST ELEC5660 Introduction to Aerial Robots][course34], Shaojie SHEN, Hong Kong University of Science and Technology
+- [ENAE 788M: Hands On Autonomous Aerial Robotics][course35], Nitin Sanket, University of Maryland
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -118,16 +120,18 @@
 [course38]: https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning
 [course39]: https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations
 [course40]: https://www.edx.org/course/self-driving-cars-with-duckietown
+[course41]: https://www.edx.org/course/robotics-foundation-ii-robot-control
+[course42]: https://www.edx.org/course/developmental-robotics
 
 # Hands-on and Blogs
-- ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30]
+- ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30] | [In Real Life][h36]
 - [♥️ Akiyuki Kawaguchi][h19]
-- [♥️ 📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
-- [♥️ Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
-- [♥️ DIY Walkers][h10], Ben Vagle
-- [♥️ PythonRobotics][h25], Atsushi Sakai
-- ♥️ [Spot Mini Mini][h33] + [Open Quadruped][h34]
-- [♥️ Duckie Town: minimal autonomy platforms][h35]
+- [📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
+- [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
+- [DIY Walkers][h10], Ben Vagle
+- [PythonRobotics][h25], Atsushi Sakai
+- [Spot Mini Mini][h33] + [Open Quadruped][h34]
+- [Duckie Town: Minimal Autonomy Platforms][h35]
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
 - [Donkey Car][h1] | [DIY Robocars][h2] | [Formula Pi][h17]
 - [MIT Race Car][h3] | [MIT RaceCar Team 5 Documentation][h4]
@@ -165,11 +169,12 @@
 [h33]: https://github.com/OpenQuadruped/spot_mini_mini
 [h34]: https://github.com/adham-elarabawy/open-quadruped
 [h35]: https://www.duckietown.org/
+[h36]: https://github.com/mithi/hexapod-irl
 
 # Useful Concepts and Tools
-- ♥️ CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
+- CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
 - [♥️ 🐳 Deep Learning][tools1]
-- [♥️ Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
+- [Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
 - Control Systems: [📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4] | [Tyler Veness][tool5]
 - Algorithms and Data Structures, C++, Python, Octave
