@@ -37,11 +37,6 @@
 
 # Single Courses
 - Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
-- Coursera: [Control of Mobile Robots][course9], Magnus Egerstedt, Georgia Institute of technology
-- EdX: [Robotics: Locomotion Engineering][course36], Dan Koditschek, University of Pennsylvania
-- EdX: [Robotics: Dynamics and Control][course37], Vijay Kumar, University of Pennsylvania
-- EdX: [Robotics: Vision Intelligence and Machine Learning][course38], Jianbo Shi, University of Pennsylvania
-- EdX: [Robotics: Kinematics and Mathematical Foundations][course39], Camillo Taylor, University of Pennsylvania
 - EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
 - EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
@@ -76,6 +71,8 @@
 - [CMSC828T Vision, Planning And Control In Aerial Robotics][course33], Yiannis Aloimonos, University of Maryland
 - [HKUST ELEC5660 Introduction to Aerial Robots][course34], Shaojie SHEN, Hong Kong University of Science and Technology
 - [ENAE 788M: Hands On Autonomous Aerial Robotics][course35], Nitin Sanket, University of Maryland
+- [📺 Evolutionary robotics][course43], Josh Bongard, University of Vermont
+- [Programming for Robotics - ROS][course44], Edo Jelavić, Tom Lankhorst, Marco Hutter, ETHZurich
 
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
@@ -115,13 +112,11 @@
 [course33]: https://cmsc828t.github.io/
 [course34]: https://gaowenliang.github.io/HKUST-ELEC5660-Introduction-to-Aerial-Robots/index.html
 [course35]: http://prg.cs.umd.edu/enae788m
-[course36]: https://www.edx.org/course/robotics-locomotion-engineering
-[course37]: https://www.edx.org/course/robotics-dynamics-and-control
-[course38]: https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning
-[course39]: https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations
 [course40]: https://www.edx.org/course/self-driving-cars-with-duckietown
 [course41]: https://www.edx.org/course/robotics-foundation-ii-robot-control
 [course42]: https://www.edx.org/course/developmental-robotics
+[course43]: https://www.youtube.com/watch?v=CmiJIKxtEOE&list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9
+[course44]: https://rsl.ethz.ch/education-students/lectures/ros.html
 
 # Hands-on and Blogs
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30] | [In Real Life][h36]
@@ -189,6 +184,20 @@
 [tools12]: https://www.onshape.com/
 [tool5]: https://github.com/calcmogul/controls-engineering-in-frc
 [tools15]: https://missing.csail.mit.edu/
+
+# Archived Courses
+- EdX: [Robotics: Locomotion Engineering][course36], Dan Koditschek, University of Pennsylvania
+- EdX: [Robotics: Dynamics and Control][course37], Vijay Kumar, University of Pennsylvania
+- EdX: [Robotics: Vision Intelligence and Machine Learning][course38], Jianbo Shi, University of Pennsylvania
+- EdX: [Robotics: Kinematics and Mathematical Foundations][course39], Camillo Taylor, University of Pennsylvania
+- Coursera: Control of Mobile Robots, Magnus Egerstedt, Georgia Institute of technology
+
+
+[course36]: https://www.edx.org/course/robotics-locomotion-engineering
+[course37]: https://www.edx.org/course/robotics-dynamics-and-control
+[course38]: https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning
+[course39]: https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations
+
 
 # Related Lists
 | [Ahundt](https://github.com/ahundt/awesome-robotics)
