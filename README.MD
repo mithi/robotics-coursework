@@ -1,5 +1,5 @@
 # [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) 
-
+ 
 - If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
 - Check [this](./BOOKS.MD) short list if you like reading textbooks.
 - Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
