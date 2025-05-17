@@ -9,31 +9,20 @@
 
 - [♥️ Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
-- Coursera: [Robotics Specialization][series3], University of Pennsylvania
+- [Coursera: Robotics](https://www.coursera.org/search?query=robotics)
 - Coursera: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
 - Coursera: [Self-Driving Cars][series10], University of Toronto
-- :dollar: Udacity: [Robotics Nanodegree][series5]
-- :dollar: Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
-- :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
-- :dollar: Udacity: [Flying Car Nanodegree][series7]
-- :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
 - :dollar: [The Construct: Robotics Developers Course Library][series8], Robot Ignite Academy
-- :dollar: [Master's Certification Program in Autonomous Vehicles][series13], Skill Lync
+- :dollar: [Autonomous Vehicles](https://skill-lync.com/computer-science-engineering-courses/career-focussed-courses/autonomous-vehicles), Skill Lync
+
 
 [series1]: http://robotacademy.net.au
-[series3]: https://www.coursera.org/specializations/robotics
 [series4]: https://www.coursera.org/specializations/modernrobotics
-[series5]: https://www.udacity.com/robotics
-[series6]: https://www.udacity.com/drive
-[series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
-[series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
 [series8]: https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/
-[series9]: https://ocw.mit.edu/search/ocwsearch.htm?q=robotics
+[series9]: https://ocw.mit.edu/search/?q=robotics
 [series10]: https://www.coursera.org/specializations/self-driving-cars
 [series11a]: http://modernrobotics.org 
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
-[series12]: https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
-[series13]: https://skill-lync.com/courses/masters-certification-program-autonomous-driving
 
 # Single Courses
 - Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
@@ -73,7 +62,16 @@
 - [ENAE 788M: Hands On Autonomous Aerial Robotics][course35], Nitin Sanket, University of Maryland
 - [📺 Evolutionary robotics][course43], Josh Bongard, University of Vermont
 - [Programming for Robotics - ROS][course44], Edo Jelavić, Tom Lankhorst, Marco Hutter, ETHZurich
+- :dollar: Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
+- :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
+- :dollar: Udacity: [Flying Car Nanodegree][series7]
+- :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
+- [](https://skill-lync.com/computer-science-engineering-courses/localization-mapping-slam)
 
+[series6]: https://www.udacity.com/drive
+[series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
+[series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
+[series12]: https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
 [course3]: https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0
@@ -191,7 +189,8 @@
 - EdX: [Robotics: Vision Intelligence and Machine Learning][course38], Jianbo Shi, University of Pennsylvania
 - EdX: [Robotics: Kinematics and Mathematical Foundations][course39], Camillo Taylor, University of Pennsylvania
 - Coursera: Control of Mobile Robots, Magnus Egerstedt, Georgia Institute of technology
-
+- Coursera: [Robotics Specialization][https://www.coursera.org/specializations/robotics], University of Pennsylvania
+- :dollar: Udacity: [Robotics Nanodegree](https://www.udacity.com/robotics)
 
 [course36]: https://www.edx.org/course/robotics-locomotion-engineering
 [course37]: https://www.edx.org/course/robotics-dynamics-and-control
