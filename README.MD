@@ -171,20 +171,6 @@
 [tool5]: https://github.com/calcmogul/controls-engineering-in-frc
 [tools15]: https://missing.csail.mit.edu/
 
-# Archived Courses
-- EdX: [Robotics: Locomotion Engineering](https://www.edx.org/course/robotics-locomotion-engineering), Dan Koditschek, University of Pennsylvania
-- EdX: [Robotics: Dynamics and Control](https://www.edx.org/course/robotics-dynamics-and-control), Vijay Kumar, University of Pennsylvania
-- EdX: [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning), Jianbo Shi, University of Pennsylvania
-- Coursera: Control of Mobile Robots, Magnus Egerstedt, Georgia Institute of technology
-- Coursera: [Robotics Specialization][https://www.coursera.org/specializations/robotics], University of Pennsylvania
-- :dollar: Udacity: [Robotics Nanodegree](https://www.udacity.com/robotics)
-- Udacity: [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373), Sebastian Thrun
-- EdX: [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0), Technische Universitat Munchen
-- EdX: [Underactuated Robotics](https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0), Massachusetts Institute of Technology
-- EdX: Robot Mechanics and Control [Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x( and [Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x), Seoul National University
-- [Robotics: Advanced Concepts and Analysis](https://nptel.ac.in/courses/112/108/112108093/#), Ashitava Ghosal, Indian Institute of Science
-
-
 # Related Lists
 | [Ahundt](https://github.com/ahundt/awesome-robotics)
 | [Jslee02](https://github.com/jslee02/awesome-robotics-libraries)
