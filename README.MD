@@ -10,11 +10,12 @@
 - [♥️ Robot Academy][series1], Peter Corke, Queensland University of Technology
 - [MIT Open Courseware: Robotics][series9] 
 - [Coursera: Robotics](https://www.coursera.org/search?query=robotics)
+- [EdX: Robotics](https://www.edx.org/search?q=robotics)
 - Coursera: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
 - Coursera: [Self-Driving Cars][series10], University of Toronto
 - :dollar: [The Construct: Robotics Developers Course Library][series8], Robot Ignite Academy
 - :dollar: [Autonomous Vehicles](https://skill-lync.com/computer-science-engineering-courses/career-focussed-courses/autonomous-vehicles), Skill Lync
-
+- :dollar: [Udemy: Robotics](https://www.udemy.com/courses/search/?src=ukw&q=robotics)
 
 [series1]: http://robotacademy.net.au
 [series4]: https://www.coursera.org/specializations/modernrobotics
@@ -25,26 +26,21 @@
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Single Courses
-- Udacity: [Artificial Intelligence for Robotics][course21], Sebastian Thrun
 - EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
-- EdX: [Autonomous Navigation for Flying Robots][course2], Technische Universitat Munchen
-- EdX: [Underactuated Robotics][course3], Massachusetts Institute of Technology
+- EdX: [Robotics: Kinematics and Mathematical Foundations](https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations), Camillo Taylor, University of Pennsylvania
 - EdX: [Robotics][course4], Columbia University in the city of New York
-- EdX: Robot Mechanics and Control [Part I][course5] and [Part II][course6], Seoul National University
 - EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
 - EdX: [Robotics Foundation II - Robot Control][course41], Bruno Siciliano, Università degli Studi di Napoli Federico II
 - EdX: [Robot Development][course42], Angelo Cangelosi, Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- Udemy: [ROS for Beginners: Basics, Motion and OpenCV][course30], Anish Koubaa
-- Udemy: [ROS for Beginners II: Localization, Navigation and SLAM][course31], Anish Koubaa
 - [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Aerial Robotics][course13], Kostas Alexis, University of Nevada
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
-- [♥️ Underactuated Robotics][course20c] | [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
+- ♥️ Underactuated Robotics [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
 - [Robotics Manipulation: Perception, Planning, and Control][course29] + [📺 channel][course29b], Russ Tedrake, Massachusetts Institute of Technology
 - [Visual Navigation for Flying Robot][course22], Jürgen Sturm, Technical University of Munich
 - [📺 SLAM playlist][course15], Cyrill Stachniss, University of Freiburg
@@ -54,7 +50,6 @@
 - [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
 - [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
 - [MEAM 620: Robotics][course25], University of Pennsylvania
-- [Robotics: Advanced Concepts and Analysis][course26], Ashitava Ghosal, Indian Institute of Science
 - [Introduction to Robotics][course28], Burton Ma, York University 
 - [NPTEL: Introduction to Robotics][course32], IIT Madras
 - [CMSC828T Vision, Planning And Control In Aerial Robotics][course33], Yiannis Aloimonos, University of Maryland
@@ -66,18 +61,13 @@
 - :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
 - :dollar: Udacity: [Flying Car Nanodegree][series7]
 - :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
-- [](https://skill-lync.com/computer-science-engineering-courses/localization-mapping-slam)
 
 [series6]: https://www.udacity.com/drive
 [series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
 [series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
 [series12]: https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
-[course2]: https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0
-[course3]: https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0
 [course4]: https://www.edx.org/course/robotics-columbiax-csmm-103x#!
-[course5]: https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x
-[course6]: https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x
 [course7]: https://www.edx.org/course/robotics-foundations-i-robot-modeling
 [course8]: https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system
 [course9]: https://www.coursera.org/learn/mobile-robot
@@ -94,12 +84,10 @@
 [course20a]: http://underactuated.csail.mit.edu/underactuated.html
 [course20b]: https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/playlists
 [course20c]: http://underactuated.csail.mit.edu/Spring2020/
-[course21]: https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 [course22]: https://vision.in.tum.de/teaching/ss2013/visnav2013
 [course23]: https://www.youtube.com/user/StanfordCS235/videos
 [course24]: https://www.autonomousrobotslab.com/education.html
 [course25]: https://alliance.seas.upenn.edu/~meam620/wiki/index.php?n=Main.Projects
-[course26]: https://nptel.ac.in/courses/112/108/112108093/#
 [course27]: https://www.apex.ai/autoware-course
 [course28]: https://www.eecs.yorku.ca/course_archive/2017-18/W/4421/
 [course29]: http://manipulation.mit.edu/
@@ -184,18 +172,17 @@
 [tools15]: https://missing.csail.mit.edu/
 
 # Archived Courses
-- EdX: [Robotics: Locomotion Engineering][course36], Dan Koditschek, University of Pennsylvania
-- EdX: [Robotics: Dynamics and Control][course37], Vijay Kumar, University of Pennsylvania
-- EdX: [Robotics: Vision Intelligence and Machine Learning][course38], Jianbo Shi, University of Pennsylvania
-- EdX: [Robotics: Kinematics and Mathematical Foundations][course39], Camillo Taylor, University of Pennsylvania
+- EdX: [Robotics: Locomotion Engineering](https://www.edx.org/course/robotics-locomotion-engineering), Dan Koditschek, University of Pennsylvania
+- EdX: [Robotics: Dynamics and Control](https://www.edx.org/course/robotics-dynamics-and-control), Vijay Kumar, University of Pennsylvania
+- EdX: [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning), Jianbo Shi, University of Pennsylvania
 - Coursera: Control of Mobile Robots, Magnus Egerstedt, Georgia Institute of technology
 - Coursera: [Robotics Specialization][https://www.coursera.org/specializations/robotics], University of Pennsylvania
 - :dollar: Udacity: [Robotics Nanodegree](https://www.udacity.com/robotics)
-
-[course36]: https://www.edx.org/course/robotics-locomotion-engineering
-[course37]: https://www.edx.org/course/robotics-dynamics-and-control
-[course38]: https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning
-[course39]: https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations
+- Udacity: [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373), Sebastian Thrun
+- EdX: [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0), Technische Universitat Munchen
+- EdX: [Underactuated Robotics](https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0), Massachusetts Institute of Technology
+- EdX: Robot Mechanics and Control [Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x( and [Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x), Seoul National University
+- [Robotics: Advanced Concepts and Analysis](https://nptel.ac.in/courses/112/108/112108093/#), Ashitava Ghosal, Indian Institute of Science
 
 
 # Related Lists
