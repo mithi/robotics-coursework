@@ -119,7 +119,7 @@
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [Prof Daniela Rus][h26] | [Sarah Tang][h28] | [Beatty Robotics][h18]
 - [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31]
-- [AutonomousVehicleControlBeginnersGuide][h36], Shisato Yano
+- [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
