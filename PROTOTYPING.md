@@ -30,7 +30,7 @@ If you want to make robots, but you don't know where to start, well, you can sta
 - :paw_prints::books: [Simon Monk Basic Raspberry Pi: 13 lessons](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi)
 
 ### Hands-on Facial Recognition Project for Beginners
-  - :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition) | [Face Recognition: end-to-end project](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826) | [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
+  - :bangbang::wave::books: [Face Recognition Library](https://github.com/ageitgey/face_recognition) | [Face Recognition: treasure box](https://learn.adafruit.com/raspberry-pi-face-recognition-treasure-box?view=all)
 
 ### Hands-on Mechanical Prototyping Projects for Beginners
 - :moneybag: :bangbang::wave:[Instructables JJ Robots Projects](https://www.instructables.com/member/jjrobots/instructables/)
