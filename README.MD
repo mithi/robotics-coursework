@@ -1,4 +1,4 @@
-# [☕️](https://ko-fi.com/minimithi) 
+# [☕️](https://ko-fi.com/minimithi) Mithi's Robotics Course Work
 
 - Overwhelmed by the sheer amount of links in this repo? No worries, [I got you 😁](https://github.com/mithi/robotics-coursework/issues/17#issuecomment-2888243817).
 - If you want to use Arduino or Raspberry Pi to make robots but you don't know where to start, [this](./PROTOTYPING.md) short list might be helpful.
