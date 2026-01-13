@@ -157,12 +157,12 @@
 
 # Useful Concepts and Tools
 - CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
-- [♥️ 🐳 Deep Learning][tools1]
+- [Deep Learning][tools1]
 - [Hackertools: The Missing Semester of Your CS Education][tools15], MIT Open Learning
 - Kalman Filters: [Roger R. Labbe][tools2] | [Balzer82][tools11]
 - Control Systems: [📺 Steve Brunton][tools3] | [📺 Brian Douglas][tools4] | [Tyler Veness][tool5]
 - Algorithms and Data Structures, C++, Python, Octave
-- [♥️ More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
+- [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 [tools1]: https://mithi.github.io/deep-blueberry/
 [tools2]: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/
