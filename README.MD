@@ -112,6 +112,7 @@
 - [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - [DIY Walkers][h10], Ben Vagle
 - [PythonRobotics][h25], Atsushi Sakai
+- [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
 - [Spot Mini Mini][h33] + [Open Quadruped][h34]
 - [Duckie Town: Minimal Autonomy Platforms][h35]
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
@@ -120,7 +121,6 @@
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [Prof Daniela Rus][h26] | [Sarah Tang][h28] | [Beatty Robotics][h18]
 - [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31]
-- [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
