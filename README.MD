@@ -1,9 +1,10 @@
-# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) 
+# [☕️](https://ko-fi.com/minimithi) 
 
-- If you want to use Arduino or Raspberry Pi to make robots, [this](./PROTOTYPING.md) short list might be helpful.
+- Overwhelmed by the sheer amount of links in this repo? No worries, [I got you 😁](https://github.com/mithi/robotics-coursework/issues/17#issuecomment-2888243817).
+- If you want to use Arduino or Raspberry Pi to make robots but you don't know where to start, [this](./PROTOTYPING.md) short list might be helpful.
 - Check [this](./BOOKS.MD) short list if you like reading textbooks.
 - Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
-- If there's anything you think should be included here, you can submit an issue and I'll check it out.
+- If there's anything you think should be included here, you can [submit an issue](https://github.com/mithi/robotics-coursework/issues/new), I'll check it out.
 
 # Series of Courses
 
@@ -26,21 +27,13 @@
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Single Courses
-- EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
-- EdX: [Autonomous Mobile Robots][course1], ETHZurich
-- EdX: [Robotics: Kinematics and Mathematical Foundations](https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations), Camillo Taylor, University of Pennsylvania
-- EdX: [Robotics][course4], Columbia University in the city of New York
-- EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
-- EdX: [Robotics Foundation II - Robot Control][course41], Bruno Siciliano, Università degli Studi di Napoli Federico II
-- EdX: [Robot Development][course42], Angelo Cangelosi, Università degli Studi di Napoli Federico II
-- EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
+- ♥️ Underactuated Robotics [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
 - [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
 - [Introduction to Aerial Robotics][course13], Kostas Alexis, University of Nevada
 - [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
 - [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
-- ♥️ Underactuated Robotics [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
+- [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - [Robotics Manipulation: Perception, Planning, and Control][course29] + [📺 channel][course29b], Russ Tedrake, Massachusetts Institute of Technology
 - [Visual Navigation for Flying Robot][course22], Jürgen Sturm, Technical University of Munich
 - [📺 SLAM playlist][course15], Cyrill Stachniss, University of Freiburg
@@ -57,6 +50,14 @@
 - [ENAE 788M: Hands On Autonomous Aerial Robotics][course35], Nitin Sanket, University of Maryland
 - [📺 Evolutionary robotics][course43], Josh Bongard, University of Vermont
 - [Programming for Robotics - ROS][course44], Edo Jelavić, Tom Lankhorst, Marco Hutter, ETHZurich
+- EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
+- EdX: [Autonomous Mobile Robots][course1], ETHZurich
+- EdX: [Robotics: Kinematics and Mathematical Foundations](https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations), Camillo Taylor, University of Pennsylvania
+- EdX: [Robotics][course4], Columbia University in the city of New York
+- EdX: [Robotics Foundations I - Robot Modeling][course7], Università degli Studi di Napoli Federico II
+- EdX: [Robotics Foundation II - Robot Control][course41], Bruno Siciliano, Università degli Studi di Napoli Federico II
+- EdX: [Robot Development][course42], Angelo Cangelosi, Università degli Studi di Napoli Federico II
+- EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
 - :dollar: Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
 - :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
 - :dollar: Udacity: [Flying Car Nanodegree][series7]
@@ -182,27 +183,28 @@
 | [Fkromer](https://github.com/fkromer/awesome-ros2)
 | [HarshMaithani](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f)
 | [Kanster](https://github.com/kanster/awesome-slam)
+| [brunoeducsantos](https://github.com/brunoeducsantos/robotics_master)
 | [Papers Related to Quadrotors](https://github.com/prgumd/prg_QuadrotorPapers)
 
 # Misc
-| [Adafruit](https://adafruit.com/)
-| [Instructables][related1]
+| [Adafruit](https://www.adafruit.com/search?q=robot)
+| [Instructables](https://www.instructables.com/search/?q=robot&projects=featured)
 | [Hackster][related2]
 | [Thingiverse][related3] 
 | [Hackaday](https://hackaday.com/)
-| [Sparkfun](https://www.sparkfun.com/)
-| [Robotshop][related4]
+| [Sparkfun](https://www.sparkfun.com/catalogsearch/result/?q=robot)
+| [Robotshop](https://www.robotshop.com/search?q=robot)
 | [Robotics Today][related5]
 | [Reddit](https://www.reddit.com/r/robotics/)
 | [Youtube](https://github.com/mithi/robotics-coursework/issues/6#issue-608400679)
 | [Planet GBC](http://www.planet-gbc.com/)
 | [Euro Bricks](https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/)
 
-[related1]: https://www.instructables.com/howto/robot/
+
 [related2]: https://www.hackster.io/search?i=projects&q=robot
 [related3]: https://www.thingiverse.com/search?q=robot
 [related4]: https://www.robotshop.com/community/robot
-[related5]: https://roboticstoday.github.io/watch.html
+[related5]: https://roboticstoday.github.io/
 
 
-# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi)
+# [☕️](https://ko-fi.com/minimithi)
