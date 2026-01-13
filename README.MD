@@ -119,6 +119,7 @@
 - [Jetson Hacks][h6] | [:dollar: Racecar RJ][h7]
 - [Prof Daniela Rus][h26] | [Sarah Tang][h28] | [Beatty Robotics][h18]
 - [Andrew Dahdouh][h11] | [Oscar Liang][h12] | [Maurice Rahme][h31]
+- [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
 
 [h1]: http://www.donkeycar.com/
 [h2]: http://diyrobocars.com/
@@ -151,6 +152,7 @@
 [h34]: https://github.com/adham-elarabawy/open-quadruped
 [h35]: https://www.duckietown.org/
 [h36]: https://github.com/mithi/hexapod-irl
+[h37]: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 
 # Useful Concepts and Tools
 - CAD Tools: [Autodesk Fusion 360][tools10] | [OnShape][tools12]
