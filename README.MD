@@ -14,9 +14,9 @@
 - [EdX: Robotics](https://www.edx.org/search?q=robotics)
 - Coursera: [Modern Robotics Specialization][series4] | [book][series11a] + [📺 channel][series11b], Northwestern University
 - Coursera: [Self-Driving Cars][series10], University of Toronto
-- :dollar: [The Construct: Robotics Developers Course Library][series8], Robot Ignite Academy
-- :dollar: [Autonomous Vehicles](https://skill-lync.com/computer-science-engineering-courses/career-focussed-courses/autonomous-vehicles), Skill Lync
-- :dollar: [Udemy: Robotics](https://www.udemy.com/courses/search/?src=ukw&q=robotics)
+- 💸 [The Construct: Robotics Developers Course Library][series8], Robot Ignite Academy
+- 💸 [Autonomous Vehicles](https://skill-lync.com/computer-science-engineering-courses/career-focussed-courses/autonomous-vehicles), Skill Lync
+- 💸 [Udemy: Robotics](https://www.udemy.com/courses/search/?src=ukw&q=robotics)
 
 [series1]: http://robotacademy.net.au
 [series4]: https://www.coursera.org/specializations/modernrobotics
@@ -27,29 +27,30 @@
 [series11b]: https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
 
 # Single Courses
-- ♥️ Underactuated Robotics [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
-- [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
 - [Introduction to Robotics][course11], Oussama Khatib, Stanford Engineering Everywhere
-- [Introduction to Aerial Robotics][course13], Kostas Alexis, University of Nevada
-- [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
-- [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
-- [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
-- [Robotics Manipulation: Perception, Planning, and Control][course29] + [📺 channel][course29b], Russ Tedrake, Massachusetts Institute of Technology
-- [Visual Navigation for Flying Robot][course22], Jürgen Sturm, Technical University of Munich
-- [📺 SLAM playlist][course15], Cyrill Stachniss, University of Freiburg
-- [📺 Robotics I][course16], De Luca, Universita di Roma
-- [📺 SLAM Lectures][course18], Clause Brenne, Leibniz University Hannover
-- [📺 Applied Robot Design (CS235)][course23], Reuben Brewer, Standford University
-- [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
-- [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
-- [MEAM 620: Robotics][course25], University of Pennsylvania
 - [Introduction to Robotics][course28], Burton Ma, York University 
 - [NPTEL: Introduction to Robotics][course32], IIT Madras
-- [CMSC828T Vision, Planning And Control In Aerial Robotics][course33], Yiannis Aloimonos, University of Maryland
+- [📺 Robotics I][course16], De Luca, Universita di Roma
+- [MEAM 620: Robotics][course25], University of Pennsylvania
+- [Robogrok: Robotics][course17a] + [📺 channel][course17b], Angela Sodemann
+- [Programming for Robotics - ROS][course44], Edo Jelavić, Tom Lankhorst, Marco Hutter, ETHZurich
+- [Real World Robotics](https://rwr.ethz.ch/), ETHZurich
+- [Advanced Robotics (CS 287)][course19], Pieter Abbeel, University of California at Berkeley
+- [📺 Applied Robot Design (CS235)][course23], Reuben Brewer, Standford University
+- [📺 Evolutionary robotics][course43], Josh Bongard, University of Vermont
+- [Robotics Manipulation: Perception, Planning, and Control][course29] + [📺 channel][course29b], Russ Tedrake, Massachusetts Institute of Technology
+- ♥️ Underactuated Robotics [book][course20a] + [📺 channel][course20b], Russ Tedrake, Massachusetts Institute of Technology
+- [Introduction to Aerial Robotics][course13], Kostas Alexis, University of Nevada
 - [HKUST ELEC5660 Introduction to Aerial Robots][course34], Shaojie SHEN, Hong Kong University of Science and Technology
 - [ENAE 788M: Hands On Autonomous Aerial Robotics][course35], Nitin Sanket, University of Maryland
-- [📺 Evolutionary robotics][course43], Josh Bongard, University of Vermont
-- [Programming for Robotics - ROS][course44], Edo Jelavić, Tom Lankhorst, Marco Hutter, ETHZurich
+- [CMSC828T Vision, Planning And Control In Aerial Robotics][course33], Yiannis Aloimonos, University of Maryland
+- [Visual Navigation for Flying Robot][course22], Jürgen Sturm, Technical University of Munich
+- [📺 SLAM playlist][course15], Cyrill Stachniss, University of Freiburg
+- [📺 SLAM Lectures][course18], Clause Brenne, Leibniz University Hannover
+- [Autonomous Intelligent Systems][course10], Wolfram Burgard et al, University of Freiburg
+- [Autonomous Robots Lab: Autonomous Mobile Robot Design (and more)][course24], University of Nevada
+- [Deep-learning for Self-Driving Cars][course14], Lex Fridman, Massachusetts Institute of Technology
+- [Self-Driving Cars with ROS and Autoware][course27], Apex.AI
 - EdX: [Self-Driving Cars with Duckietown][course40], ETHzurich
 - EdX: [Autonomous Mobile Robots][course1], ETHZurich
 - EdX: [Robotics: Kinematics and Mathematical Foundations](https://www.edx.org/course/robotics-kinematics-and-mathematical-foundations), Camillo Taylor, University of Pennsylvania
@@ -58,10 +59,10 @@
 - EdX: [Robotics Foundation II - Robot Control][course41], Bruno Siciliano, Università degli Studi di Napoli Federico II
 - EdX: [Robot Development][course42], Angelo Cangelosi, Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- :dollar: Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
-- :dollar: Udacity: [Self-Driving Car Nanodegree][series6]
-- :dollar: Udacity: [Flying Car Nanodegree][series7]
-- :dollar: Udacity: [Sensor Fusion Nanodegree][series12]
+- 💸 Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
+- 💸 Udacity: [Self-Driving Car Nanodegree][series6]
+- 💸 Udacity: [Flying Car Nanodegree][series7]
+- 💸 Udacity: [Sensor Fusion Nanodegree][series12]
 
 [series6]: https://www.udacity.com/drive
 [series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
