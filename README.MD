@@ -1,9 +1,6 @@
 # [☕️](https://ko-fi.com/minimithi) Mithi's Robotics Coursework
 
 - Overwhelmed by the sheer amount of links in this repo? No worries, [I got you 😁](https://github.com/mithi/robotics-coursework/issues/17#issuecomment-2888243817).
-- If you want to use Arduino or Raspberry Pi to make robots but you don't know where to start, [this](./PROTOTYPING.md) short list might be helpful.
-- Check [this](./BOOKS.MD) short list if you like reading textbooks.
-- Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
 - If there's anything you think should be included here, you can [submit an issue](https://github.com/mithi/robotics-coursework/issues/new), I'll check it out.
 - 🌱 Fundamental Knowledge (Curated), 💸 Requires Money, 📺 Videos, ♥️ Mithi's Bookmarks
 
@@ -111,12 +108,12 @@
 - [Hugging Face: LeRobot](https://github.com/huggingface/lerobot)
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30] | [In Real Life][h36]
 - ♥️ [Akiyuki Kawaguchi][h19]
-- [📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
-- [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
-- [DIY Walkers][h10], Ben Vagle
-- 🌱 [PythonRobotics][h25], Atsushi Sakai
+- ♥️ [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
 - 🌱 [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
+- 🌱 [PythonRobotics][h25], Atsushi Sakai
 - [CppRobotics](https://github.com/onlytailei/CppRobotics)
+- [DIY Walkers][h10], Ben Vagle
+- [📺 OpenDog][h14] + [Mini Robot Dog][h27], James Bruton
 - [Spot Mini Mini][h33] + [Open Quadruped][h34]
 - [Duckie Town: Minimal Autonomy Platforms][h35]
 - [F1/10 (Penn Engineering)][h5] | [AutoRally (GeorgiaTech)][h32]
@@ -162,13 +159,13 @@
 # Useful Concepts and Tools
 - 🌱 Kalman Filters: [Roger R. Labbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) | [Balzer82](https://github.com/balzer82/Kalman)
 - 🌱 Control Systems: [📺 Steve Brunton](https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) | [📺 Brian Douglas](https://www.youtube.com/user/ControlLectures/featured) | [♥️ Tyler Veness](https://github.com/calcmogul/controls-engineering-in-frc)
+- 🌱 [Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), Kilian Q. Weinberger, Karthik Sridharan, Cornell University
+- [Intro to Deep Learning](https://mithi.github.io/deep-blueberry)
 - [Mechanical Design 101](https://mechanicaldesign101.com/)
 - [structurefree: Engineering Dynamics](https://structurefree.blogspot.com/p/engineering-dynamics.html)
-- 💸 CAD Tools: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) | [OnShape](https://www.onshape.com/)
 - [Hackertools: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), MIT Open Learning
 - Algorithms and Data Structures, C++, Python
-- [Intro to Deep Learning](https://mithi.github.io/deep-blueberry)
-- 🌱 [Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), Kilian Q. Weinberger, Karthik Sridharan, Cornell University
+- 💸 CAD Tools: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) | [OnShape](https://www.onshape.com/)
 - ➡️ [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
 # Related Lists
@@ -197,5 +194,10 @@
 | [Planet GBC](http://www.planet-gbc.com/)
 | [Euro Bricks](https://www.eurobricks.com/forum/index.php?/forums/topic/117305-gbc-the-akiyuki-project/)
 | [Weekly Robotics Newsletter](https://www.weeklyrobotics.com/)
+
+# Notes
+- If you want to use Arduino or Raspberry Pi to make robots but you don't know where to start, [this](./PROTOTYPING.md) short list might be helpful.
+- Check [this](./BOOKS.MD) short list if you like reading textbooks.
+- Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
 
 # [☕️](https://ko-fi.com/minimithi)
