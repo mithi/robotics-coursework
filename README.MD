@@ -69,6 +69,7 @@
 - 💸 Udacity: [Self-Driving Car Nanodegree][series6]
 - 💸 Udacity: [Flying Car Nanodegree][series7]
 - 💸 Udacity: [Sensor Fusion Nanodegree][series12]
+- Robonine: [Interactive robotic arm course][course45]
 
 [series6]: https://www.udacity.com/drive
 [series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
@@ -111,6 +112,7 @@
 [course42]: https://www.edx.org/course/developmental-robotics
 [course43]: https://www.youtube.com/watch?v=CmiJIKxtEOE&list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9
 [course44]: https://rsl.ethz.ch/education-students/lectures/ros.html
+[course45]: https://lab.robonine.com/
 
 # Hands-on and Blogs
 - [Hugging Face: LeRobot](https://github.com/huggingface/lerobot)
