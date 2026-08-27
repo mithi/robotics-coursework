@@ -18,6 +18,7 @@
 - 💸 [The Construct: Robotics Developers Course Library][series8], Robot Ignite Academy
 - 💸 [Autonomous Vehicles](https://skill-lync.com/computer-science-engineering-courses/career-focussed-courses/autonomous-vehicles), Skill Lync
 - 💸 [Udemy: Robotics](https://www.udemy.com/courses/search/?src=ukw&q=robotics)
+- 💸 [Udacity: Robotics](https://www.udacity.com/catalog?sort=relevance&searchValue=robotics)
 
 [series1]: http://robotacademy.net.au
 [series4]: https://www.coursera.org/specializations/modernrobotics
@@ -64,17 +65,9 @@
 - EdX: [Robotics Foundation II - Robot Control][course41], Bruno Siciliano, Università degli Studi di Napoli Federico II
 - EdX: [Robot Development][course42], Angelo Cangelosi, Università degli Studi di Napoli Federico II
 - EdX: [Hello (Real) World with ROS – Robot Operating System][course8], Delft University of Technology
-- 💸 [Probabilistic Robotics](http://www.probabilistic-robotics.org/), Sebastian Thrun, Stanford AI Lab
-- 💸 Udacity: [Intro to Self-Driving Cars Nanodegree][series6b]
-- 💸 Udacity: [Self-Driving Car Nanodegree][series6]
-- 💸 Udacity: [Flying Car Nanodegree][series7]
-- 💸 Udacity: [Sensor Fusion Nanodegree][series12]
 - Robonine: [Interactive robotic arm course][course45]
+- 💸 [Probabilistic Robotics](http://www.probabilistic-robotics.org/), Sebastian Thrun, Stanford AI Lab
 
-[series6]: https://www.udacity.com/drive
-[series6b]: https://www.udacity.com/course/intro-to-self-driving-cars--nd113
-[series7]: https://www.udacity.com/course/flying-car-nanodegree--nd787
-[series12]: https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313
 [course1]: https://www.edx.org/course/autonomous-mobile-robots-ethx-amrx-2
 [course4]: https://www.edx.org/course/robotics-columbiax-csmm-103x#!
 [course7]: https://www.edx.org/course/robotics-foundations-i-robot-modeling
