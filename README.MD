@@ -168,7 +168,7 @@
 - 💸 CAD Tools: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) | [OnShape](https://www.onshape.com/)
 - ➡️ [More courses](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-629713457)
 
-# Related Lists
+# Miscellaneous
 | [Ahundt](https://github.com/ahundt/awesome-robotics)
 | [Jslee02](https://github.com/jslee02/awesome-robotics-libraries)
 | [Kiloreux](https://github.com/Kiloreux/awesome-robotics)
@@ -179,8 +179,6 @@
 | [Kanster](https://github.com/kanster/awesome-slam)
 | [brunoeducsantos](https://github.com/brunoeducsantos/robotics_master)
 | [Papers Related to Quadrotors](https://github.com/prgumd/prg_QuadrotorPapers)
-
-# Misc
 | [Adafruit](https://www.adafruit.com/search?q=robot)
 | [Instructables](https://www.instructables.com/search/?q=robot&projects=featured)
 | [Hackster](https://www.hackster.io/search?i=projects&q=robot)
