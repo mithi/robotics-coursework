@@ -109,6 +109,8 @@
 - ♥️ Mithi's Hexapod Robot Simulator [Live Demo][h29] | [Source Code][h30] | [In Real Life][h36]
 - ♥️ [Akiyuki Kawaguchi][h19]
 - ♥️ [Building a DIY Arduino drone][h8] + [📺 channel][h13], Joop Brokking
+- 🌱 [A Tutorial on Manipulator Differential Kinematics
+](https://github.com/jhavl/dkt), Jesse Haviland + Peter Corke
 - 🌱 [AutonomousVehicleControlBeginnersGuide][h37], Shisato Yano
 - 🌱 [PythonRobotics][h25], Atsushi Sakai
 - [CppRobotics](https://github.com/onlytailei/CppRobotics)
