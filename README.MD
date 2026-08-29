@@ -1,8 +1,6 @@
 # [☕️](https://ko-fi.com/minimithi) Mithi's Robotics Coursework
 
-- Overwhelmed by the sheer amount of links in this repo? No worries, [I got you 😁](https://github.com/mithi/robotics-coursework/issues/17#issuecomment-2888243817).
-- If there's anything you think should be included here, you can [submit an issue](https://github.com/mithi/robotics-coursework/issues/new), I'll check it out.
-- 🌱 Fundamental Knowledge (Curated), 💸 Requires Money, 📺 Videos, ♥️ Mithi's Bookmarks
+- Overwhelmed by the sheer amount of links in this repo? No worries, [I got you 😁](https://github.com/mithi/robotics-coursework/issues/17#issuecomment-2888243817). Tags: 🌱 Fundamental Knowledge (Curated), 💸 Requires Money, 📺 Videos, ♥️ Mithi's Bookmarks
 
 # Series of Courses
 
@@ -199,5 +197,6 @@
 - If you want to use Arduino or Raspberry Pi to make robots but you don't know where to start, [this](./PROTOTYPING.md) short list might be helpful.
 - Check [this](./BOOKS.MD) short list if you like reading textbooks.
 - Here are [some pending links](https://github.com/mithi/robotics-coursework/issues/6) that might be someday be transfered in this document.
+- If there's anything you think should be included here, you can [submit an issue](https://github.com/mithi/robotics-coursework/issues/new), I'll check it out.
 
 # [☕️](https://ko-fi.com/minimithi)
