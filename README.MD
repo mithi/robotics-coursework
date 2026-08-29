@@ -1,6 +1,7 @@
 # [☕️](https://ko-fi.com/minimithi) Mithi's Robotics Coursework
 
-- Overwhelmed by the sheer amount of links in this repo? No worries, [I got you 😁](https://github.com/mithi/robotics-coursework/issues/17#issuecomment-2888243817). Tags: 🌱 Fundamental Knowledge (Curated), 💸 Requires Money, 📺 Videos, ♥️ Mithi's Bookmarks
+- Overwhelmed by the sheer amount of links in this repo? No worries, [I got you 😁](https://github.com/mithi/robotics-coursework/issues/17#issuecomment-2888243817).
+- Tags: 🌱 Fundamental Knowledge (Curated), 💸 Requires Money, 📺 Videos, ♥️ Mithi's Bookmarks
 
 # Series of Courses
 
