@@ -160,10 +160,8 @@
 # Useful Concepts and Tools
 - 🌱 Kalman Filters: [Roger R. Labbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) | [Balzer82](https://github.com/balzer82/Kalman)
 - 🌱 Control Systems: [📺 Steve Brunton](https://youtu.be/Pi7l8mMjYVE?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) | [📺 Brian Douglas](https://www.youtube.com/user/ControlLectures/featured) | [♥️ Tyler Veness](https://github.com/calcmogul/controls-engineering-in-frc)
-- 🌱 [Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), Kilian Q. Weinberger, Karthik Sridharan, Cornell University
-- [Intro to Deep Learning](https://mithi.github.io/deep-blueberry)
-- [Mechanical Design 101](https://mechanicaldesign101.com/)
-- [structurefree: Engineering Dynamics](https://structurefree.blogspot.com/p/engineering-dynamics.html)
+- 🌱 [Intro to Deep Learning](https://mithi.github.io/deep-blueberry) | [Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2024sp/#References), Kilian Q. Weinberger, Karthik Sridharan, Cornell University
+- [structurefree: Engineering Dynamics](https://structurefree.blogspot.com/p/engineering-dynamics.html) | [Mechanical Design 101](https://mechanicaldesign101.com/)
 - [Hackertools: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), MIT Open Learning
 - Algorithms and Data Structures, C++, Python
 - 💸 CAD Tools: [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators) | [OnShape](https://www.onshape.com/)
